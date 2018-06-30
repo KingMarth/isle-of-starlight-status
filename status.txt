@@ -1,213 +1,217 @@
-[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=43637#p43637]Turn 1[/url] snapshot:
-
+Cached [url=http://willsaveworldforgold.com/forum/viewtopic.php?f=11&t=242&start=100#p43722]Turn 2[/url] status:
+Totals Among All Survivors
+Food	50
+Stone	8
+Wood	3
+Hungry	7
 Humans
 [spoiler]Name: NIVEK
 Description: Human 1
-Position: 1,1
+Position: 6,11
 Health: 5/5
-Items: Food
+Items: Food, Food, Stone
 Conditions:
 
 Name: SHIFTY MCGINTY
 Description: Human 2
-Position: 1,1
+Position: 2,1
 Health: 5/5
 Items: Food
 Conditions:
 
 Name: JAZEN
 Description: Human 3
-Position: 5,1
+Position: 8,2
 Health: 5/5
-Items: Food
+Items:
 Conditions:
 
-Name: KING "LORD" BARON
+Name: KING “LORD” BARON
 Description: Human 4
-Position: 5,1
+Position: 8,2
 Health: 5/5
-Items: Food
+Items: Food, Stone
 Conditions:
 
 Name: LUCIAN VALENTINI
 Description: Human 5
-Position: 5,1
+Position: 6,5
 Health: 5/5
-Items: Food
+Items: Food, Food
 Conditions:
 
 Name: CASTOR
 Description: Human 6
-Position: 5,1
+Position: 10,4
 Health: 5/5
-Items: Food
+Items: Food, Wood
 Conditions:
 
 Name: ATLAS
 Description: Human 7
-Position: 7,13
+Position: 11,16
 Health: 5/5
-Items: Food
+Items: Food, Food, Wood
 Conditions:
 
 Name: NA
 Description: Human 8
-Position: 7,13
+Position: 7,12
 Health: 5/5
 Items: Food
 Conditions:
 
 Name: BOB
 Description: Human 9
-Position: 7,13
+Position: 10,17
 Health: 5/5
-Items: Food
+Items: Food, Food
 Conditions:
 
 Name: DINARI
 Description: Human 10
-Position: 7,13
+Position: 7,10
 Health: 5/5
-Items: Food
+Items:
 Conditions:[/spoiler]
 Halflings
 [spoiler]Name: VAYRA
 Description: Halfling 1
 Position: 1,1
 Health: 5/5
-Items: Food
-Conditions:
+Items:
+Conditions: Hungry
 
 Name: BUTLER JAMES
 Description: Halfling 2
-Position: 1,1
+Position: 4,4
 Health: 5/5
-Items: Food
+Items:
 Conditions:
 
 Name: DAVID
 Description: Halfling 3
-Position: 1,1
+Position: 7,6
 Health: 5/5
-Items: Food
+Items: Food, Food
 Conditions:
 
 Name: HALFLING 4
 Description: Halfling 4
-Position: 1,1
+Position: 5,5
 Health: 5/5
-Items: Food
-Conditions:
+Items: Food, Food, Food
+Conditions: Hungry
 
 Name: CADE SEAHATER
 Description: Halfling 5
-Position: 1,1
-Health: 5/5
-Items: Food
-Conditions:
+Position: 5,6
+Health: 4/5
+Items: Food, Food, Stone
+Conditions: Hungry
 
 Name: DASH ASTERISK
 Description: Halfling 6
-Position: 1,1
-Health: 5/5
-Items: Food
-Conditions:
+Position: 5,6
+Health: 4/5
+Items: Food, Food, Food, Stone
+Conditions: Hungry
 
 Name: MINTINA
 Description: Halfling 7
-Position: 5,1
+Position: 9,3
 Health: 5/5
 Items: Food
 Conditions:
 
 Name: ULYSSES
 Description: Halfling 8
-Position: 5,1
+Position: 9,1
 Health: 5/5
-Items: Food
+Items:
 Conditions:
 
 Name: ESMERALDA
 Description: Halfling 9
-Position: 7,13
+Position: 7,10
 Health: 5/5
-Items: Food
+Items:
 Conditions:
 
 Name: BELTENI
 Description: Halfling 10
-Position: 7,13
+Position: 6,11
 Health: 5/5
-Items: Food
-Conditions:[/spoiler]
+Items: Food, Food, Stone
+Conditions: Hungry[/spoiler]
 
 Dwarves
 [spoiler]Name: SMACKDOODLE
 Description: Dwarf 1
-Position: 1,1
+Position: 4,4
 Health: 6/6
-Items: Food
+Items: Food, Food
 Conditions:
 
 Name: GRABBIE
 Description: Dwarf 2
-Position: 1,1
+Position: 5,6
 Health: 6/6
-Items: Food
+Items: Food, Food, Stone
 Conditions:
 
 Name: URIST MCCOY
 Description: Dwarf 3
-Position: 5,1
+Position: 7,6
 Health: 6/6
-Items: Food
+Items: Food, Food
 Conditions:
 
 Name: URIST MCZEALOT
 Description: Dwarf 4
-Position: 1,1
+Position: 5,5
 Health: 6/6
 Items: Food
 Conditions:
 
 Name: TOOYUN TADAI
 Description: Dwarf 5
-Position: 1,1
+Position: 3,3
 Health: 6/6
-Items: Food
+Items: Food, Food, Food, Food
 Conditions:
 
 Name: TENTOES
 Description: Dwarf 6
-Position: 1,1
+Position: 4,6
 Health: 6/6
-Items: Food
+Items: Food, Food
 Conditions:
 
 Name: DEWDROP
 Description: Dwarf 7
-Position: 5,1
+Position: 8,4
 Health: 6/6
-Items: Food
+Items: Food, Food
 Conditions:
 
 Name: HEPHAESTUS
 Description: Dwarf 8
-Position: 5,1
+Position: 9,6
 Health: 6/6
-Items: Food
+Items: Food, Food
 Conditions:
 
 Name: KHRAIN
 Description: Dwarf 9
-Position: 7,13
+Position: 11,15
 Health: 6/6
-Items: Food
+Items: Food, Food, Wood
 Conditions:
 
 Name: SHARKBAIT
 Description: Dwarf 10
-Position: 7,13
+Position: 10,15
 Health: 6/6
 Items: Food
 Conditions:[/spoiler]
@@ -215,70 +219,70 @@ Conditions:[/spoiler]
 Elves
 [spoiler]Name: ZEISS
 Description: Elf 1
-Position: 1,1
+Position: 4,4
 Health: 5/5
-Items: Food
+Items:
 Conditions:
 
 Name: CYGNUS
 Description: Elf 2
-Position: 1,1
+Position: 5,5
 Health: 5/5
-Items: Food
-Conditions:
+Items: Food, Food
+Conditions: Hungry
 
 Name: USTVAN
 Description: Elf 3
-Position: 1,1
+Position: 5,6
 Health: 5/5
-Items: Food
+Items: Food, Stone
 Conditions:
 
 Name: PRINCE MARV
 Description: Elf 4
-Position: 1,1
+Position: 4,4
 Health: 5/5
-Items: Food
+Items:
 Conditions:
 
 Name: AELYSIUS
 Description: Elf 5
 Position: 1,1
 Health: 5/5
-Items: Food
+Items:
 Conditions:
 
 Name: GREGOIRE DE MONTESQUIEU
 Description: Elf 6
-Position: 1,1
+Position: 6,6
 Health: 5/5
 Items: Food
 Conditions:
 
 Name: BANBECK
 Description: Elf 7
-Position: 5,1
+Position: 9,1
 Health: 5/5
-Items: Food
+Items:
 Conditions:
 
 Name: SYRIL
 Description: Elf 8
-Position: 5,1
+Position: 9,1
 Health: 5/5
-Items: Food
+Items: Stone
 Conditions:
 
 Name: DRYDA
 Description: Elf 9
-Position: 7,13
+Position: 8,11
 Health: 5/5
 Items: Food
 Conditions:
 
 Name: ALKY
 Description: Elf 10
-Position: 7,13
+Position: 5,7
 Health: 5/5
-Items: Food
-Conditions:[/spoiler]
+Items:
+Conditions: Hungry[/spoiler]
