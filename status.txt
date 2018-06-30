@@ -1,0 +1,284 @@
+[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=43637#p43637]Turn 1[/url] snapshot:
+
+Humans
+[spoiler]Name: NIVEK
+Description: Human 1
+Position: 1,1
+Health: 5/5
+Items: Food
+Conditions:
+
+Name: SHIFTY MCGINTY
+Description: Human 2
+Position: 1,1
+Health: 5/5
+Items: Food
+Conditions:
+
+Name: JAZEN
+Description: Human 3
+Position: 5,1
+Health: 5/5
+Items: Food
+Conditions:
+
+Name: KING "LORD" BARON
+Description: Human 4
+Position: 5,1
+Health: 5/5
+Items: Food
+Conditions:
+
+Name: LUCIAN VALENTINI
+Description: Human 5
+Position: 5,1
+Health: 5/5
+Items: Food
+Conditions:
+
+Name: CASTOR
+Description: Human 6
+Position: 5,1
+Health: 5/5
+Items: Food
+Conditions:
+
+Name: ATLAS
+Description: Human 7
+Position: 7,13
+Health: 5/5
+Items: Food
+Conditions:
+
+Name: NA
+Description: Human 8
+Position: 7,13
+Health: 5/5
+Items: Food
+Conditions:
+
+Name: BOB
+Description: Human 9
+Position: 7,13
+Health: 5/5
+Items: Food
+Conditions:
+
+Name: DINARI
+Description: Human 10
+Position: 7,13
+Health: 5/5
+Items: Food
+Conditions:[/spoiler]
+Halflings
+[spoiler]Name: VAYRA
+Description: Halfling 1
+Position: 1,1
+Health: 5/5
+Items: Food
+Conditions:
+
+Name: BUTLER JAMES
+Description: Halfling 2
+Position: 1,1
+Health: 5/5
+Items: Food
+Conditions:
+
+Name: DAVID
+Description: Halfling 3
+Position: 1,1
+Health: 5/5
+Items: Food
+Conditions:
+
+Name: HALFLING 4
+Description: Halfling 4
+Position: 1,1
+Health: 5/5
+Items: Food
+Conditions:
+
+Name: CADE SEAHATER
+Description: Halfling 5
+Position: 1,1
+Health: 5/5
+Items: Food
+Conditions:
+
+Name: DASH ASTERISK
+Description: Halfling 6
+Position: 1,1
+Health: 5/5
+Items: Food
+Conditions:
+
+Name: MINTINA
+Description: Halfling 7
+Position: 5,1
+Health: 5/5
+Items: Food
+Conditions:
+
+Name: ULYSSES
+Description: Halfling 8
+Position: 5,1
+Health: 5/5
+Items: Food
+Conditions:
+
+Name: ESMERALDA
+Description: Halfling 9
+Position: 7,13
+Health: 5/5
+Items: Food
+Conditions:
+
+Name: BELTENI
+Description: Halfling 10
+Position: 7,13
+Health: 5/5
+Items: Food
+Conditions:[/spoiler]
+
+Dwarves
+[spoiler]Name: SMACKDOODLE
+Description: Dwarf 1
+Position: 1,1
+Health: 6/6
+Items: Food
+Conditions:
+
+Name: GRABBIE
+Description: Dwarf 2
+Position: 1,1
+Health: 6/6
+Items: Food
+Conditions:
+
+Name: URIST MCCOY
+Description: Dwarf 3
+Position: 5,1
+Health: 6/6
+Items: Food
+Conditions:
+
+Name: URIST MCZEALOT
+Description: Dwarf 4
+Position: 1,1
+Health: 6/6
+Items: Food
+Conditions:
+
+Name: TOOYUN TADAI
+Description: Dwarf 5
+Position: 1,1
+Health: 6/6
+Items: Food
+Conditions:
+
+Name: TENTOES
+Description: Dwarf 6
+Position: 1,1
+Health: 6/6
+Items: Food
+Conditions:
+
+Name: DEWDROP
+Description: Dwarf 7
+Position: 5,1
+Health: 6/6
+Items: Food
+Conditions:
+
+Name: HEPHAESTUS
+Description: Dwarf 8
+Position: 5,1
+Health: 6/6
+Items: Food
+Conditions:
+
+Name: KHRAIN
+Description: Dwarf 9
+Position: 7,13
+Health: 6/6
+Items: Food
+Conditions:
+
+Name: SHARKBAIT
+Description: Dwarf 10
+Position: 7,13
+Health: 6/6
+Items: Food
+Conditions:[/spoiler]
+
+Elves
+[spoiler]Name: ZEISS
+Description: Elf 1
+Position: 1,1
+Health: 5/5
+Items: Food
+Conditions:
+
+Name: CYGNUS
+Description: Elf 2
+Position: 1,1
+Health: 5/5
+Items: Food
+Conditions:
+
+Name: USTVAN
+Description: Elf 3
+Position: 1,1
+Health: 5/5
+Items: Food
+Conditions:
+
+Name: PRINCE MARV
+Description: Elf 4
+Position: 1,1
+Health: 5/5
+Items: Food
+Conditions:
+
+Name: AELYSIUS
+Description: Elf 5
+Position: 1,1
+Health: 5/5
+Items: Food
+Conditions:
+
+Name: GREGOIRE DE MONTESQUIEU
+Description: Elf 6
+Position: 1,1
+Health: 5/5
+Items: Food
+Conditions:
+
+Name: BANBECK
+Description: Elf 7
+Position: 5,1
+Health: 5/5
+Items: Food
+Conditions:
+
+Name: SYRIL
+Description: Elf 8
+Position: 5,1
+Health: 5/5
+Items: Food
+Conditions:
+
+Name: DRYDA
+Description: Elf 9
+Position: 7,13
+Health: 5/5
+Items: Food
+Conditions:
+
+Name: ALKY
+Description: Elf 10
+Position: 7,13
+Health: 5/5
+Items: Food
+Conditions:[/spoiler]
