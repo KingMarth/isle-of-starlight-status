@@ -1,41 +1,18 @@
-[url=http://willsaveworldforgold.com/forum/viewtopic.php?f=11&t=242&start=525#p44570]Turn 12[/url] snapshot:
-
-Totals Among All Survivors
-Food	45
-Stone Spear	8
-Wood	33
-Gatherer?	27
-Stone	24
-Hungry	7
-Leather	6
-Mana Stone	1
-Shell Shield	1
-Wood Shield	6
-Wood Spear	6
-Gem	1
-Stone Axe	2
-Stone Pick	3
-Leather*	1
-Loose	4
-Stone*	1
-Food*	1
-Structure	3
-
-
+[url=http://willsaveworldforgold.com/forum/viewtopic.php?f=11&t=242&start=550#p44655]Turn 13[/url] snapshot:
 [size=150]Character Status[/size]
 Humans
 [spoiler]NIVEK
 Human 1
 Position: 11,15
 Health: 3/5
-Items: Food, Stone Spear, Wood
+Items: Stone Spear
 Conditions: 
 Profession: Gatherer?
 
 SHIFTY MCGINTY
 Human 2
 Position: 10,10
-Health: 5/5
+Health: 4/5
 Items: Stone, Stone
 Conditions: Hungry
 Profession: Gatherer?
@@ -44,13 +21,14 @@ JAZEN
 Human 3
 Position: 11,3
 Health: 3/5
-Items: Leather, Leather, Wood, Wood, Wood
+Items: Leather, Wood, Wood, Wood
 Conditions: Hungry
+Class: Warrior?
 
 KING “LORD” BARON
 Human 4
-Position: 12,1
-Health: 4/5
+Position: 11,4
+Health: 5/5
 Items: Mana Stone, Shell Shield, Stone Spear, Wood
 Conditions: 
 Profession: Gatherer?
@@ -59,38 +37,39 @@ LUCIAN VALENTINI
 Human 5
 Position: 17,18
 Health: 5/5
-Items: Food, Wood
-Conditions: 
+Items: Food, Wood, Wood
+Conditions: Hungry
 Profession: Gatherer?
 
 CASTOR
 Human 6
-Position: 11,3
-Health: 2/5
-Items: Stone, Wood, Wood Shield, Wood Spear
+Position: 10,4
+Health: 3/5
+Items: Food, Stone, Wood, Wood, Wood Shield
 Conditions: 
+Profession: Gatherer?
 
 ATLAS
 Human 7, Warrior
 Position: 11,15
-Health: 4/5
-Items: Food, Food, Wood, Wood, Wood Spear
+Health: 5/5
+Items: Food, Wood, Wood, Wood Spear
 Conditions: 
 Profession: Gatherer?
 
 NAIRI
 Human 8, Gatherer
-Position: 18,9
+Position: 21,9
 Health: 5/5
-Items: Food, Wood, Wood, Wood Spear, Stone
+Items: Food, Food, Food, Wood, Wood, Wood Spear, Stone
 Conditions: 
 
 BOB
 Human 9
-Position: 11,15
+Position: 14,16
 Health: 5/5
-Items: Food, Wood, Wood Shield
-Conditions: 
+Items: Food, Food, Stone, Wood, Wood Shield
+Conditions: Hungry
 Class: Warrior?
 Profession: Gatherer?
 
@@ -99,83 +78,83 @@ Human 10
 Position: 17,13
 Health: 5/5
 Items: Food, Wood Spear
-Conditions: 
+Conditions: Hungry
 Profession: Gatherer?[/spoiler]
 Halflings
 [spoiler]VAYRA
 Halfling 1
-Position: 10,10
-Health: 4/5
-Items: Food
-Conditions: Hungry
+Position: 11,10
+Health: 5/5
+Items: Food, Food, Food, Food, Stone
+Conditions: 
 Profession: Gatherer?
 
 BUTLER JAMES
 Halfling 2
-Position: 10,10
-Health: 5/5
-Items: 
+Position: 9,11
+Health: 4/5
+Items: Food, Food, Wood
 Conditions: Hungry
 
 DAVID
 Halfling 3, Gatherer
-Position: 10,10
+Position: 10,11
 Health: 5/5
 Items: Food
-Conditions: 
+Conditions: Hungry
 
 DROGO CULLWORT
 Halfling 4
 Position: 10,8
 Health: 5/5
 Items: Wood
-Conditions: 
+Conditions: Hungry
 Profession: Gatherer?
 
 CADE SEAHATER
 Halfling 5
 Position: 23,19
 Health: 5/5
-Items: Food, Stone, Stone, Stone Spear, Wood
-Conditions: Hungry
+Items: Stone, Stone Spear, Wood
+Conditions: 
 Profession: Gatherer?
 
 DASH ASTERISK
 Halfling 6, Gatherer
 Position: 23,19
 Health: 5/5
-Items: Food, Gem, Stone, Stone, Stone, Stone
-Conditions: 
+Items: Food, Gem, Stone, Stone, Stone, Stone, Stone
+Conditions: Hungry
 
 MINTINA
 Halfling 7
-Position: 9,6
+Position: 10,6
 Health: 5/5
-Items: Food
-Conditions: 
+Items: Food, Food, Stone, Stone
+Conditions: Hungry
 Profession: Gatherer?
 
 ULYSSES
 Halfling 8
 Position: 10,4
 Health: 5/5
-Items: Food, Food, Wood
+Items: Food, Wood
 Conditions: 
 
 ESMERALDA
 Halfling 9
-Position: 10,10
+Position: 9,11
 Health: 5/5
-Items: Stone Axe
-Conditions: Hungry
+Items: Food, Stone Axe
+Conditions: 
 Profession: Gatherer?
 
 BELTENI
 Halfling 10
-Position: 11,10
+Position: 10,11
 Health: 5/5
-Items: Stone, Stone, Stone, Stone, Stone Pick
-Conditions: 
+Items: Stone Pick
+Conditions: Hungry
 Profession: Gatherer?[/spoiler]
 Dwarves
 [spoiler]SMACKDOODLE
@@ -183,29 +162,29 @@ Dwarf 1
 Position: 11,6
 Health: 6/6
 Items: Food, Food, Food, Stone, Stone Spear
-Conditions: 
+Conditions: Hungry
 Profession: Gatherer?
 
 GRABBIE
 Dwarf 2, Gatherer
 Position: 9,11
 Health: 6/6
-Items: Food, Food, Stone, Wood, Wood Shield
+Items: Food, Food, Food, Stone, Wood, Wood, Wood, Wood, Wood Shield
 Conditions: 
 
 URIST MCCOY
 Dwarf 3
-Position: 9,6
+Position: 10,9
 Health: 6/6
-Items: Stone Pick, Wood
-Conditions: Hungry
+Items: Food, Stone Pick, Wood
+Conditions: 
 Profession: Gatherer?
 
 URIST MCZEALOT
 Dwarf 4
 Position: 10,10
 Health: 6/6
-Items: Food, Stone, Stone, Wood
+Items: Stone, Stone, Wood
 Conditions: 
 Profession: Gatherer?
 
@@ -214,44 +193,45 @@ Dwarf 5
 Position: 10,10
 Health: 6/6
 Items: Food, Stone
-Conditions: 
+Conditions: Hungry
 Profession: Gatherer?
 
 TENTOES
 Dwarf 6
-Position: 12,15
+Position: 9,13
 Health: 6/6
 Items: Stone Axe, Wood, Wood
-Conditions: 
+Conditions: Hungry
 Profession: Gatherer?
 
 DEWDROP
 Dwarf 7
 Position: 10,6
-Health: 4/6
-Items: Food, Food, Stone, Stone Pick
+Health: 5/6
+Items: Food, Food, Stone, Stone, Stone Pick
 Conditions: 
 Profession: Gatherer?
 
 HEPHAESTUS
 Dwarf 8
 Position: 11,3
-Health: 5/6
-Items: Food, Leather, Leather, Leather, Leather
-Conditions: 
+Health: 4/6
+Items: Leather, Leather, Leather, Leather, Leather
+Conditions: Hungry, Sick
+Class: Warrior?
 Profession: Gatherer?
 
 KHRAIN
 Dwarf 9
 Position: 14,13
-Health: 5/6
-Items: Food, Wood, Wood, Wood Spear
+Health: 6/6
+Items: Wood Spear
 Conditions: 
 Profession: Gatherer?
 
 SHARKBAIT
 Dwarf 10
-Position: 14,16
+Position: 11,15
 Health: 6/6
 Items: Food, Stone, Wood, Wood Shield
 Conditions: 
@@ -259,85 +239,87 @@ Profession: Gatherer?[/spoiler]
 Elves
 [spoiler]ZEISS
 Elf 1
-Position: 11,6
+Position: 10,9
 Health: 5/5
-Items: Food, Stone Spear, Stone
+Items: Stone Spear, Stone
 Conditions: 
 Profession: Gatherer?
 
 CYGNUS
 Elf 2
-Position: 26,11
+Position: 27,9
 Health: 5/5
-Items: Wood, Wood, Wood, Wood
-Conditions: 
+Items: Wood, Wood Shield
+Conditions: Hungry
 
 USTVAN
 Elf 3
 Position: 9,13
 Health: 4/5
-Items: Food, Stone Spear, Wood, Wood Shield
+Items: Food, Leather, Stone Spear, Wood, Wood Shield
 Conditions: 
 Profession: Gatherer?
 
 PRINCE MARV
 Elf 4
-Position: 10,10
+Position: 14,13
 Health: 5/5
-Items: 
-Conditions: 
+Items: 2 Wood
+Conditions: Hungry
 
 AELYSIUS
 Elf 5
-Position: 13,5
+Position: 14,5
 Health: 5/5
-Items: Food, Food, Stone, Wood
-Conditions: 
+Items: Food, Food, Stone, Wood, Wood
+Conditions: Hungry
+
 Profession: Gatherer?
 
 GREGOIRE DE MONTESQUIEU
 Elf 6, Gatherer
-Position: 10,9
+Position: 11,10
 Health: 5/5
-Items: Food, Food, Food, Food, Wood
+Items: Food, Food, Food, Food, Food, Stone, Wood
 Conditions: 
 
 BANBECK
 Elf 7
 Position: 10,4
-Health: 3/5
-Items: Food, Stone Spear, Wood
+Health: 4/5
+Items: Stone Spear, Wood
 Conditions: 
 
 SYRIL DAWNTREADER
 Elf 8
-Position: 10,8
+Position: 12,6
 Health: 5/5
 Items: Food, Food, Food, Stone Spear, Wood Shield
-Conditions: 
+Conditions: Hungry
 Profession: Gatherer?
 
 DRYDA
 Elf 9
-Position: 11,15
-Health: 2/5
+Position: 10,12
+Health: 3/5
 Items: Wood, Wood Spear
 Conditions: 
+Profession: Gatherer?
 
 ALKY
 Elf 10
-Position: 10,6
+Position: 14,5
 Health: 5/5
-Items: Food, Food, Food, Stone, Wood
+Items: Food, Food, Stone, Wood
 Conditions: 
 Profession: Gatherer?[/spoiler]
 
 Loose Items
-[spoiler]9,13: 1 Food,* 1 Leather*
-10,6: 1 Stone*
-10,8: 1 Food
-11,10: 1 Food*, 2 Food[/spoiler]
+[spoiler]10,4: 1 Wood Spear
+10,8: 1 Food* 
+11,15: 1 Wood[/spoiler]
 Structures
 [spoiler]9,6: Mana Collecter  (designated; Gems 0/3, Stone 13/15)
 10,10: Storehouse (8/8 health)
+10,11: Tavern (designated; Stone 4/10, Wood 0/20)
 14,9: Mana Collector (designated; Gems 0/3, Stone 0/15)[/spoiler]
