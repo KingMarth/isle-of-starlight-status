@@ -1,114 +1,116 @@
-[url=http://willsaveworldforgold.com/forum/viewtopic.php?f=11&t=242&start=300#p44130]Turn 7[/url] snapshot:
+[url=http://willsaveworldforgold.com/forum/viewtopic.php?f=11&t=242&start=350#p44206]Turn 8[/url] snapshot:
 
 Totals Among All Survivors
-Food	64
-Stone Spear	6
-Hungry	19
-Gatherer?	14
-Wood	25
+Stone Spear	7
+Gatherer?	18
+Wood	24
+Hungry	10
+Food	53
+Stone	16
 Wood Spear	5
-Stone	13
+Wood Shield	2
 Stone Axe	1
-Wood Shield	1
-Stone Pick	1
-Food*	3
-Loose	3
+Stone Pick	2
+Food Stone Spear	1
+Loose	2
 Structure	3
 
-[size=150]Character Status[/size]
 Humans
 [spoiler]NIVEK
 Human 1
 Position: 15,15
 Health: 5/5
-Items: Food, Stone Spear
-Conditions: Hungry
+Items: Stone Spear
+Conditions: 
 Profession: Gatherer?
 
 SHIFTY MCGINTY
 Human 2
 Position: 10,10
 Health: 5/5
-Items: Food, Wood, Wood
+Items: 
 Conditions: 
 
 JAZEN
+Human 3
 Position: 10,4
 Health: 5/5
 Items: Wood, Wood, Wood
-Conditions: 
+Conditions: Hungry
 
 KING “LORD” BARON
 Human 4
 Position: 10,4
 Health: 5/5
-Items: Food, Food, Food, Stone Spear, Wood
-Conditions: Hungry
+Items: Food, Food, Stone Spear, Wood
+Conditions: 
 Profession: Gatherer?
 
 LUCIAN VALENTINI
 Human 5
-Position: 14,12
+Position: 15,15
 Health: 5/5
-Items: Food, Food, Food
-Conditions: 
+Items: Food, Food
+Conditions: Hungry
 Profession: Gatherer?
 
 CASTOR
 Human 6
-Position: 13,4
-Health: 5/5
-Items: Wood Spear
-Conditions: Hungry
+Position: 12,3
+Health: 1/5
+Items: Stone, Wood Spear
+Conditions: 
 
 ATLAS
 Human 7
 Position: 11,15
-Health: 5/5
-Items: Wood Spear
+Health: 3/5
+Items: Food, Wood Spear
 Conditions: Hungry
 
 NAIRI
 Human 8
-Position: 14,12
+Position: 11,13
 Health: 5/5
-Items: Food, Food, Food, Food, Wood
-Conditions: Hungry
+Items: Food, Food, Food, Wood, Wood
+Conditions: 
+Profession: Gatherer?
 
 BOB
 Human 9
 Position: 11,15
 Health: 5/5
-Items: Food, Food, Wood, Wood, Wood
-Conditions: 
+Items: Food, Food, Wood Shield
+Conditions: Hungry
 
 DINARI
 Human 10
-Position: 12,13
+Position: 15,15
 Health: 5/5
-Items: Food, Food, Wood Spear
+Items: Food, Wood Spear
 Conditions:[/spoiler]
 Halflings
 [spoiler]VAYRA
 Halfling 1
 Position: 5,5
 Health: 5/5
-Items: Food, Food
+Items: 
 Conditions: 
 
 BUTLER JAMES
 Halfling 2
 Position: 8,6
 Health: 5/5
-Items: Food, Food
-Conditions: Hungry
+Items: Food
+Conditions: 
 
 DAVID
 Halfling 3
-Position: 5,6
+Position: 7,8
 Health: 5/5
-Items: Food, Food, Stone
-Conditions: Hungry
+Items: Food, Stone, Wood
+Conditions: 
+Profession: Gatherer?
 
 HALFLING 4
 Halfling 4
@@ -119,25 +121,26 @@ Conditions:
 
 CADE SEAHATER
 Halfling 5
-Position: 14,13
+Position: 15,15
 Health: 5/5
-Items: Food, Food, Food, Stone, Stone Spear
-Conditions: 
+Items: Stone Spear
+Conditions: Hungry
 
 DASH ASTERISK
 Halfling 6
 Position: 15,15
 Health: 5/5
-Items: Food, Food, Food, Stone
-Conditions: 
+Items: Food, Food, Food, Stone, Stone
+Conditions: Hungry
 Profession: Gatherer?
 
 MINTINA
 Halfling 7
 Position: 10,6
 Health: 5/5
-Items: Food, Food, Stone
-Conditions: Hungry
+Items: Food, Food, Stone, Stone
+Conditions: 
+Profession: Gatherer?
 
 ULYSSES
 Halfling 8
@@ -150,121 +153,122 @@ ESMERALDA
 Halfling 9
 Position: 9,11
 Health: 5/5
-Items: Food, Stone Axe
-Conditions: Hungry
+Items: Food, Food, Food, Stone Axe
+Conditions: 
+Profession: Gatherer?
 
 BELTENI
 Halfling 10
-Position: 7,8
+Position: 9,11
 Health: 5/5
-Items: Stone, Wood
-Conditions: 
+Items: Food, Food, Stone Pick
+Conditions: Hungry
 Profession: Gatherer?[/spoiler]
 Dwarves
 [spoiler]SMACKDOODLE
 Dwarf 1
-Position: 5,6
+Position: 7,5
 Health: 6/6
-Items: Food, Stone, Wood, Wood
-Conditions: Hungry
+Items: Stone Spear
+Conditions: 
 Profession: Gatherer?
 
 GRABBIE
 Dwarf 2, Gatherer
 Position: 9,11
 Health: 6/6
-Items: Food, Stone, Wood, Wood, Wood Shield
+Items: Food, Stone, Wood, Wood, Wood, Wood, Wood, Wood Shield
 Conditions: 
 
 URIST MCCOY
 Dwarf 3
-Position: 10,8
+Position: 10,6
 Health: 6/6
-Items: Food, Food, Food, Wood, Wood
+Items: Food, Food, Stone, Wood, Wood
 Conditions: 
 Profession: Gatherer?
 
 URIST MCZEALOT
 Dwarf 4
-Position: 7,8
+Position: 5,6
 Health: 6/6
-Items: Stone, Wood
-Conditions: 
+Items: Food, Stone, Stone, Wood
+Conditions: Hungry
 
 TOOYUN TADAI
 Dwarf 5
-Position: 5,5
-Health: 6/6
-Items: 
+Position: 8,6
+Health: 5/6
+Items: Food, Food
 Conditions: Hungry
 
 TENTOES
 Dwarf 6
-Position: 11,10
+Position: 11,13
 Health: 6/6
-Items: Food, Food, Food, Stone
+Items: Food, Food, Stone, Wood
 Conditions: 
 Profession: Gatherer?
 
 DEWDROP
 Dwarf 7
-Position: 10,6
+Position: 10,4
 Health: 6/6
-Items: Food, Food, Food, Stone
-Conditions: Hungry
-Profession: Gatherer?
+Items: Food, Food, Stone
+Conditions: 
 
 HEPHAESTUS
 Dwarf 8
 Position: 10,4
-Health: 6/6
-Items: Food, Food, Food, Food, Stone Pick
-Conditions: Hungry
+Health: 5/6
+Items: Food, Food, Food, Stone Pick
+Conditions: 
 Profession: Gatherer?
 
 KHRAIN
 Dwarf 9
-Position: 11,12
+Position: 14,13
 Health: 6/6
-Items: Food, Wood Spear
-Conditions: Hungry
+Items: Food, Food, Wood, Wood Spear
+Conditions: 
+Profession: Gatherer?
 
 SHARKBAIT
 Dwarf 10
 Position: 11,15
-Health: 6/6
-Items: Food, Food, Wood, Wood
-Conditions: Hungry
+Health: 5/6
+Items: Food, Wood, Wood, Wood
+Conditions: 
 Profession: Gatherer?[/spoiler]
 Elves
 [spoiler]ZEISS
 Elf 1
-Position: 5,6
+Position: 7,5
 Health: 5/5
-Items: Food, Food, Stone, Wood, Wood
-Conditions: Hungry
+Items: Food, Stone Spear
+Conditions: 
 Profession: Gatherer?
 
 CYGNUS
 Elf 2
-Position: 16,11
-Health: 4/5
-Items: Food
+Position: 20,12
+Health: 5/5
+Items: 
 Conditions: 
 
 USTVAN
 Elf 3
 Position: 9,11
 Health: 5/5
-Items: Food, Food, Stone Spear, Wood, Wood
-Conditions: Hungry
+Items: Food, Stone Spear, Wood, Wood, Wood
+Conditions: 
 Profession: Gatherer?
 
 PRINCE MARV
 Elf 4
-Position: 5,5
+Position: 5,6
 Health: 5/5
-Items: 
+Items: Stone
 Conditions: 
 
 AELYSIUS
@@ -278,22 +282,22 @@ GREGOIRE DE MONTESQUIEU
 Elf 6
 Position: 9,6
 Health: 5/5
-Items: Food
+Items: 
 Conditions: 
 Profession: Gatherer?
 
 BANBECK
 Elf 7
 Position: 10,4
-Health: 5/5
+Health: 3/5
 Items: Food, Stone Spear
 Conditions: Hungry
 
 SYRIL
 Elf 8
-Position: 10,4
-Health: 1/5
-Items: Food, Stone Spear
+Position: 10,8
+Health: 2/5
+Items: Food, Food, Food Stone Spear
 Conditions: 
 
 DRYDA
@@ -307,13 +311,13 @@ ALKY
 Elf 10
 Position: 5,6
 Health: 5/5
-Items: Food, Food, Food, Stone, Stone
-Conditions: Hungry[/spoiler]
+Items: Food, Food, Stone, Stone
+Conditions:[/spoiler]
+
 Loose Items
-[spoiler]9,11: 1 Food*
-10,8: 1 Food*, 2 Food
-11,10: 1 Food*[/spoiler]
+[spoiler]10,6: 1 Food
+15,15: 4 Food, 1 Stone[/spoiler]
 Structures
 [spoiler]9,6: Mana Collecter  (designated; Gems 0/3, Stone 4/15)
-10,10: Storehouse (designated; 0/10 Stone, 0/10 Wood)
+10,10: Storehouse (designated; 0/10 Stone, 2/10 Wood)
 14,9: Mana Collector (designated; Gems 0/3, Stone 0/15)[/spoiler]
