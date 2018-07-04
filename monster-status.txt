@@ -42,7 +42,7 @@ Starlight Crab
 Max Health: ???
 Items: ???
 Conditions: Aquatic
-Movement: 3?
+Movement: 3-4
 Melee Attack Bonus: +2? 4-8
 Damage: 1
 Defense Bonus: +1? 4-7
@@ -71,21 +71,21 @@ Personality: Runs away when injured.
 Wyrmling
 Max Health: 5?
 Items: ???
-Conditions: Poison Blood: When damaged in melee, the attacker becomes Sick.
+Conditions: Poison Blood: When damaged in melee (without weapon?), the attacker becomes Sick.
 Movement: 3?
 Spell Attack Bonus: +2 (two targets in hex, one attack per target)
-Melee Attack Bonus: ??? 4-5
+Melee Attack Bonus: +2? 4-8
 Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 20
+[b]Known Creatures[/b] Last update: Turn 21
 [spoiler]Deepspawn 9 - Appeared on coast (13,18) turn 10.
-Position: 11,16
+Position: 11,16?
 Health: 3/3
 
 Deepspawn 10 - Appeared on plains (10,14) turn 19.
-Position: 11,16
+Position: 11,16?
 Health: 3/3
 
 Husk Moth 1 - Appeared in Forest of Dust (30,10) turn 19.
@@ -97,7 +97,7 @@ Position: ???
 Health: 0 damage
 
 Horror of the Deep 1 - Appeared on Coast (13,18) turn 10.
-Position: 11,16
+Position: 11,16?
 Health: 3 damage
 
 Starlight Bison 3 - Appeared on Burnt Plains (14,6) turn 12.
@@ -105,23 +105,23 @@ Position: ???
 Health: 5/5
 
 Starlight Crab 1 - Appeared on river (10,9) turn 12.
-Position: 11,10
+Position: 13,7
 Health: 1 damage
 
 Starlight Dog 3 - Appeared from Beneath the Suspicious Hill (23,19) turn 13.
-Position: 17,19
+Position: ???
 Health: 5/5
 
 Starlight Dog 4 - Appeared from Beneath the Suspicious Hill (23,19) turn 13.
-Position: 17,19
+Position: ???
 Health: 5/5
 
 Starlight Goat 1 - Appeared on Burnt Plains (11,6) turn 8.
-Position: 9,5
+Position: ???
 Health: 2/2
 
 Starlight Goat 2 - Appeared on Burnt Plains (11,6) turn 8.
-Position: 9,5
+Position: ???
 Health: 2/2
 
 Starlight Goat 4 - Appeared on Packlands (14,15) turn 8.
