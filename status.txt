@@ -2,15 +2,14 @@
 Totals Among All Survivors
 1	16
 2	1
-5	1
 Architect	1
 Architect?	1
 Dead	3
-Food	54
+Food	56
 Gatherer	9
 Gatherer?	24
 Gem	5
-Healer	2
+Healer	1
 Hungry	7
 Knight	1
 Knight?	2
@@ -30,10 +29,11 @@ Stone*	1
 Structure	6
 Warrior	3
 Warrior?	1
-Wood	41
+Wood	42
 Wood Bow and Arrows	2
 Wood Shield	14
 Wood Spear	8
+
 
 [size=150]Character Status[/size]
 Humans
@@ -60,9 +60,9 @@ Conditions:
 
 KING “LORD” BARON
 Human 4
-Position: 11,10
-Health: 4/5
-Items: Shell Shield, Stone, Stone Spear
+Position: 11,15
+Health: 3/5
+Items: Food, Shell Shield, Stone, Stone Spear, Wood
 Conditions: 
 Profession: Gatherer?
 
@@ -112,7 +112,6 @@ Position: 9,11
 Health: 3/5
 Items: Food, Food, Food, Wood, Wood Spear
 Conditions: 
-Class: Healer 5/15
 Profession: Gatherer?[/spoiler]
 Halflings
 [spoiler]VAYRA
@@ -270,7 +269,7 @@ CYGNUS
 Elf 2, Gatherer 1
 Position: 19,5
 Health: 5/5
-Items: Food,, Food, Stone Spear, Wood Shield
+Items: Food, Food, Food, Stone Spear, Wood Shield
 Conditions: 
 
 USTVAN
