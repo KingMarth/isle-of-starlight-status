@@ -79,7 +79,7 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 21
+[b]Known Creatures[/b] Last update: Turn 22
 [spoiler]Deepspawn 9 - Appeared on coast (13,18) turn 10.
 Position: 11,16
 Health: 3/3
@@ -105,8 +105,8 @@ Position: ???
 Health: 5/5
 
 Starlight Crab 1 - Appeared on river (10,9) turn 12.
-Position: 13,7
-Health: 1 damage
+Position: 14,8
+Health: 2 damage
 
 Starlight Dog 3 - Appeared from Beneath the Suspicious Hill (23,19) turn 13.
 Position: ???
@@ -117,11 +117,11 @@ Position: ???
 Health: 5/5
 
 Starlight Goat 1 - Appeared on Burnt Plains (11,6) turn 8.
-Position: ???
+Position: 10,6
 Health: 2/2
 
 Starlight Goat 2 - Appeared on Burnt Plains (11,6) turn 8.
-Position: ???
+Position: 10,6
 Health: 2/2
 
 Starlight Goat 4 - Appeared on Packlands (14,15) turn 8.
@@ -133,15 +133,15 @@ Position: ???
 Health: 3 damage
 
 Wyrmling 2 - Appeared from Acrid Burrow (19,7) turn 18.
-Position: 19,7
+Position: 19,7?
 Health: 1 damage
 
 Wyrmling 3 - Appeared from Acrid Burrow (19,7) turn 18.
-Position: 19,7
+Position: 19,7?
 Health: 0 damage
 
 Wyrmling 4 - Appeared at Acrid Burrow (19,7) turn 20.
-Position: 19,7
+Position: 19,7?
 Health: 0 damage[/spoiler]
 
 [b]Dead Creatures[/b]
