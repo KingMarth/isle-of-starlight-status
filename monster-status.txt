@@ -9,6 +9,26 @@ Damage: 1
 Defense Bonus: +1
 Personality: Follows other monsters. As a group, they attack separate targets, unless one target is injured in which case they focus on the injured target.
 
+Goblin
+Max Health: ???
+Items: ???
+Conditions: ???
+Movement: ???
+Melee Attack Bonus: ???
+Damage: 1?
+Defense Bonus: ???
+Personality: Travels in packs
+
+Hobgoblin
+Max Health: ???
+Items: ???
+Conditions: ???
+Movement: ???
+Melee Attack Bonus: ???
+Damage: 1?
+Defense Bonus: ???
+Personality: Travels with Goblins
+
 Husk Moth
 Max Health: ???
 Items: ???
@@ -66,7 +86,7 @@ Movement: 3
 Melee Attack Bonus: +1? 4-7
 Damage: 1
 Defense Bonus: ??? 3-6
-Personality: Runs away when injured.
+Personality: Runs away when injured. Skittish, has left the hex when survivors enter.
 
 Wyrmling
 Max Health: 5?
@@ -79,7 +99,7 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 22
+[b]Known Creatures[/b] Last update: Turn 23
 [spoiler]Deepspawn 9 - Appeared on coast (13,18) turn 10.
 Position: 11,16
 Health: 3/3
@@ -87,6 +107,26 @@ Health: 3/3
 Deepspawn 10 - Appeared on plains (10,14) turn 19.
 Position: 11,16
 Health: 3/3
+
+Goblin 1 - Appeared on Burnt Plains (15,14) turn 23.
+Position: 15,14
+Health: 0 damage
+
+Goblin 2 - Appeared on Burnt Plains (15,14) turn 23.
+Position: 15,14
+Health: 0 damage
+
+Goblin 3 - Appeared on Burnt Plains (15,14) turn 23.
+Position: 15,14
+Health: 0 damage
+
+Goblin 4 - Appeared on Burnt Plains (15,14) turn 23.
+Position: 15,14
+Health: 0 damage
+
+Hobgoblin 1 - Appeared on Burnt Plains (15,14) turn 23.
+Position: 15,14
+Health: 0 damage
 
 Husk Moth 1 - Appeared in Forest of Dust (30,10) turn 19.
 Position: ???
@@ -98,14 +138,14 @@ Health: 0 damage
 
 Horror of the Deep 1 - Appeared on Coast (13,18) turn 10.
 Position: 11,16
-Health: 3 damage
+Health: 4 damage
 
 Starlight Bison 3 - Appeared on Burnt Plains (14,6) turn 12.
 Position: ???
 Health: 5/5
 
 Starlight Crab 1 - Appeared on river (10,9) turn 12.
-Position: 14,8
+Position: 11,9
 Health: 2 damage
 
 Starlight Dog 3 - Appeared from Beneath the Suspicious Hill (23,19) turn 13.
@@ -117,15 +157,15 @@ Position: ???
 Health: 5/5
 
 Starlight Goat 1 - Appeared on Burnt Plains (11,6) turn 8.
-Position: 10,6
+Position: 10,5
 Health: 2/2
 
 Starlight Goat 2 - Appeared on Burnt Plains (11,6) turn 8.
-Position: 10,6
+Position: 10,5
 Health: 2/2
 
 Starlight Goat 4 - Appeared on Packlands (14,15) turn 8.
-Position: ???
+Position: 13,16
 Health: 2/2
 
 Wyrmling 1 - Appeared on Burnt Plains (10,5) turn 5.
