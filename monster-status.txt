@@ -43,7 +43,7 @@ Max Health: 5?
 Items: ???
 Conditions: Aquatic, Stressful: Survivors in the same hex may become Stressed. Coasthome: Cannot leave Coast hexes.
 Movement: 1?
-Melee Attack Bonus: ??? 4-5, damage 2
+Melee Attack Bonus: +2? 4-8, damage 2
 Ranged Attack Bonus: +2? 4-8, damage 1
 Defense Bonus: +2 (3-8)
 Personality: ???
@@ -63,9 +63,9 @@ Max Health: ???
 Items: ???
 Conditions: Aquatic
 Movement: 3-4
-Melee Attack Bonus: +2? 4-8
+Melee Attack Bonus: +2 (3-8)
 Damage: 1
-Defense Bonus: +1? 4-7
+Defense Bonus: +3 (4-9)
 Personality: Uses hit-and-run tactics. Travels along the river to prevent attackers from following.
 
 Starlight Dog
@@ -99,7 +99,7 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 23
+[b]Known Creatures[/b] Last update: Turn 24
 [spoiler]Deepspawn 9 - Appeared on coast (13,18) turn 10.
 Position: 11,16
 Health: 3/3
@@ -109,23 +109,23 @@ Position: 11,16
 Health: 3/3
 
 Goblin 1 - Appeared on Burnt Plains (15,14) turn 23.
-Position: 15,14
+Position: 12,13
 Health: 0 damage
 
 Goblin 2 - Appeared on Burnt Plains (15,14) turn 23.
-Position: 15,14
+Position: 12,13
 Health: 0 damage
 
 Goblin 3 - Appeared on Burnt Plains (15,14) turn 23.
-Position: 15,14
+Position: 12,13
 Health: 0 damage
 
 Goblin 4 - Appeared on Burnt Plains (15,14) turn 23.
-Position: 15,14
+Position: 12,13
 Health: 0 damage
 
 Hobgoblin 1 - Appeared on Burnt Plains (15,14) turn 23.
-Position: 15,14
+Position: 12,13
 Health: 0 damage
 
 Husk Moth 1 - Appeared in Forest of Dust (30,10) turn 19.
@@ -141,11 +141,11 @@ Position: 11,16
 Health: 4 damage
 
 Starlight Bison 3 - Appeared on Burnt Plains (14,6) turn 12.
-Position: ???
+Position: 12,7
 Health: 5/5
 
 Starlight Crab 1 - Appeared on river (10,9) turn 12.
-Position: 11,9
+Position: 10,9
 Health: 2 damage
 
 Starlight Dog 3 - Appeared from Beneath the Suspicious Hill (23,19) turn 13.
@@ -157,15 +157,15 @@ Position: ???
 Health: 5/5
 
 Starlight Goat 1 - Appeared on Burnt Plains (11,6) turn 8.
-Position: 10,5
+Position: ???
 Health: 2/2
 
 Starlight Goat 2 - Appeared on Burnt Plains (11,6) turn 8.
-Position: 10,5
+Position: ???
 Health: 2/2
 
 Starlight Goat 4 - Appeared on Packlands (14,15) turn 8.
-Position: 13,16
+Position: 13,16?
 Health: 2/2
 
 Wyrmling 1 - Appeared on Burnt Plains (10,5) turn 5.
