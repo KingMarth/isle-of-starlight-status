@@ -10,22 +10,21 @@ Defense Bonus: +1
 Personality: Follows other monsters. As a group, they attack separate targets, unless one target is injured in which case they focus on the injured target.
 
 Goblin
-Max Health: ???
-Items: ???
-Conditions: ???
+Max Health: 1
+Items:
+Conditions: Thieves: Can use an action to take items from a structure (survivor?); can use equipment like survivors.
 Movement: ???
 Melee Attack Bonus: ???
 Damage: 1?
-Defense Bonus: ???
+Defense Bonus: ??? (3-5)
 Personality: Travels in packs
 
 Hobgoblin
-Max Health: ???
+Max Health: 1?
 Items: ???
 Conditions: ???
 Movement: ???
-Melee Attack Bonus: ???
-Damage: 1?
+Spell Attack Bonus: ??? (3-3). Ice: Instead of damage, halves target's combat rolls until end of turn. (Rolls are halved after bonuses; e.g. rolling a 1 plus 3 is 4 which halves to 2, you don't halve the rolled 1 and then add 3).
 Defense Bonus: ???
 Personality: Travels with Goblins
 
@@ -99,33 +98,29 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 25
-[spoiler]Deepspawn 9 - Appeared on coast (13,18) turn 10.
+[b]Known Creatures[/b] Last update: Turn 26
+[spoiler]Deepspawn 10 - Appeared on plains (10,14) turn 19.
 Position: 11,16
-Health: 3/3
+Health: 1/3
 
-Deepspawn 10 - Appeared on plains (10,14) turn 19.
-Position: 11,16
+Deepspawn 11 - Appeared on river (10,9) turn 26.
+Position: 10,9
 Health: 3/3
-
-Goblin 1 - Appeared on Burnt Plains (15,14) turn 23.
-Position: 12,10
-Health: 0 damage
 
 Goblin 2 - Appeared on Burnt Plains (15,14) turn 23.
-Position: 12,10
-Health: 0 damage
+Position: 10,10
+Health: 1/1
 
 Goblin 3 - Appeared on Burnt Plains (15,14) turn 23.
-Position: 12,10
-Health: 0 damage
+Position: 10,10
+Health: 1/1
 
 Goblin 4 - Appeared on Burnt Plains (15,14) turn 23.
-Position: 12,10
-Health: 0 damage
+Position: 10,10
+Health: 1/1
 
 Hobgoblin 1 - Appeared on Burnt Plains (15,14) turn 23.
-Position: 12,10
+Position: 10,10
 Health: 0 damage
 
 Husk Moth 1 - Appeared in Forest of Dust (30,10) turn 19.
@@ -152,10 +147,6 @@ Starlight Dog 4 - Appeared from Beneath the Suspicious Hill (23,19) turn 13.
 Position: ???
 Health: 5/5
 
-Starlight Goat 1 - Appeared on Burnt Plains (11,6) turn 8.
-Position: ???
-Health: 2/2
-
 Starlight Goat 2 - Appeared on Burnt Plains (11,6) turn 8.
 Position: ???
 Health: 2/2
@@ -173,7 +164,7 @@ Position: 19,7?
 Health: 1 damage
 
 Wyrmling 3 - Appeared from Acrid Burrow (19,7) turn 18.
-Position: 19,7?
+Position: 13,6
 Health: 0 damage
 
 Wyrmling 4 - Appeared at Acrid Burrow (19,7) turn 20.
@@ -217,6 +208,14 @@ Deepspawn 8 - Arrived at cave (12,3) turn 8.
 Position: 11,3
 Health: -1/3
 
+Deepspawn 9 - Appeared on coast (13,18) turn 10. Defeated turn 26 by Dinari, Dryda, Nivek, Atlas, Ustvan.
+Position: 11,16
+Health: 0/3
+
+Goblin 1 - Appeared on Burnt Plains (15,14) turn 23. Defeated turn 26 by Nairi.
+Position: 10,10
+Health: 0/1
+
 Horror of the Deep 1 - Appeared on Coast (13,18) turn 10. Defeated turn 25, brought down by Dinari, Nivek, King, and Ustvan.
 Position: 11,16
 Health: 0/8
@@ -238,6 +237,10 @@ Health: 0/5
 Starlight Dog 2 - Appeared from Beneath the Suspicious Hill (23,19) turn 13. Defeated turn 19, brought down by Khrain, Dinari, Ustvan, and Prince Marvelous.
 Position: 15,15
 Health: 0/5
+
+Starlight Goat 1 - Appeared on Burnt Plains (11,6) turn 8. Possibly eaten by wyrmlings turn 26.
+Position: 17,5
+Health: 0/2?
 
 Starlight Goat 3 - Appeared on Packlands (14,15) turn 8.
 Position: 9,13
