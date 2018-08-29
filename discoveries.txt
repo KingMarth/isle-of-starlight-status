@@ -1,0 +1,211 @@
+﻿[b]Useful Tools[/b]
+[spoiler][url=http://hexagrid.xyz]Starlight Map[/url]
+[url=https://github.com/KingMarth/isle-of-starlight-status/pull/1]Turn Status Snapshots[/url][/spoiler]
+
+[b]Gather Resources Amounts[/b]
+[spoiler][quote="Official Rules"]Gather: The character gathers resources from their hex. The type and amount of resources gathered depends on the hex type, any terrain features present, any structures present which improve the terrain, and any bonus the character has to gathering. All terrain types give a chance to find something, even if they appear to be empty.[/quote]
+[quote="Working Theory"]Each hex, terrain feature, structure, and character bonus has a resource or resources associated with it. When the Gather action is taken, these resources are added together and everything is given to the survivor gathering. Currently, assume that all resources drop 100% of the time, though as official rules mention 'chance' this may not hold. Note that while all terrain types have resources, not all features may add something.
+Tools may either add a resource to gathering outright, or require a given terrain feature (e.g. pickaxe needs a cave, doesn't add stone on its own). Professions can be conditional.[/quote]
+Coast hex: Food
+Plains hex: Food
+Forest hex: Wood
+Mountain hex: Stone
+
+Fruit Trees feature: Food, Wood
+Cave feature: Stone
+River feature: Food
+Mana Leak feature: None
+Star Chart feature: None?
+
+Mine (level 2, need a pick): 3 Stone, 1 Iron before pick bonuses.
+[quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=44739#p44739]Turn 8[/url]"]A mine is a special cross between a terrain feature and a building. If you build a mine on a cave, it replaces the cave. No other building can be built in a hex with a mine.[/quote][quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45942#p45942]Turn 29[/url]"]Mines are a unique cross between structures and terrain features. They count as structures for connectivity purposes, and block other structures from being built. However they can't be destroyed, damaged, or repaired. You need to use a pick to benefit from a mine.[/quote]
+
+Tower of Wreckage dungeon (9,1): None
+Beneath the Suspicious Hill dungeon (23, 19): None?
+The Acrid Burrow dungeon (19,7): None?
+
+Gatherer profession (no tool or structure): +level resource from those available in the hex, favoring building materials (Stone, Wood) over Food
+Miner profession (gathering metal, stone, or gems with a pick): +level Metal/Stone/Gem
+Lumberjack profession (gathering wood with an axe): +level Wood?
+
+Stone Axe (in forest): Wood
+Stone Pick (in cave): Stone
+Stone Pick (in mountain/gorge): Stone?
+
+Mana Collector structure: None?
+Mana Generator structure: None?
+Fishery structure: Food?
+Storehouse structure: None?
+Tavern structure: None?
+Workshop structure: None?[/spoiler]
+
+[b]Known Dungeon Results[/b]
+[spoiler][quote="Official Rules"]Explore a Dungeon: There are several dungeons scattered across the island. A character who explores one might find resources, stumble upon a hostile creature, fall prey to a hazard, or locate a special item. All dungeons have a particular condition which, when met, "clears" the dungeon. A cleared dungeon offers no more unique rewards or threats, but might still hold resources or minor enemies.[/quote]
+[quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=44930#p44930]LoneStarNorth turn 16[/url]"]Another jackpot on a random dungeon results table. I can never seem to roll mixed results.[/quote]
+[quote="Working Theory"]When taking the Explore a Dungeon action, a d6 is rolled, which may have bonuses applied based on profession/class/dungeon-specific conditional. The result is compared to a hidden table of results. A sufficiently high result provides a 'clear' result, which is then removed from the table and replaced with a different result (which may be a new 'clear' result or just a normal result). When all 'clear' results are cleared from the table, we are informed that the dungeon is cleared.
+A randomly determined result might have another random number pass to determine how many of that result happen (e.g. on a d6, 1-3 for 1 item/monster, 4-5 for 2 items/monsters, 6 for 3 items/monsters).[/quote]
+Tower of Wreckage dungeon (9,1): (3 Wood), (3 Deepspawn), (Collapse: Ranged attack 5-5, 1 damage)
+One-time: (Mana Stone), (Shell Shield)
+
+Beneath the Suspicious Hill dungeon (23, 19): (3 Stone), (Food, Stone?), (Gem), (3 Starlight Dog)
+Halfling bonus?
+
+The Acrid Burrow dungeon (19,7): (2 Food)*2, (Gem), (2 Gem), (2 Wyrmling)
+One-time: (5 Gems)?[/spoiler]
+
+[b]Star Charts[/b]
+[spoiler][quote="Official Rules"]Study the Stars: The stars are always overhead, but just looking at them doesn't seem to reveal anything. There must be some way to learn more...[/quote][quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=44130#p44130]Turn 7[/url]"]Nivek and Dash met at the star chart obelisk and began to study it. Examining the white dots set into the black stone, they felt something reach out to their minds.
+
+There was something to be learned here. Though there were many stars depicted on the chart, one was brighter than the rest. More study would be required to determine which star was represented, however.[/quote][quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=44206#p44206]Turn 8[/url]"]Cade, Dash, Dinari, Nivek, and Lucian noticed another pair of goats wandering in the Packlands. Or at least, they might have if they hadn't all been enthralled by the obelisk before them. As they studied the white specks and compared them to the stars overhead, they noticed which star the chart seemed to be focusing on. A voice, or perhaps a force, touched each of their minds and revealed a single syllable:
+
+Es.
+
+Along with this word (name?) comes a rush of information. Some of it may have been memory, but most seemed to come from an outside source. The survivors thus learned their first spell.
+
+The explorers felt like there may be more to be learned from this star chart, as well.[/quote]
+[quote="Theory"]Each star chart requires a certain number of survivor-turns to decipher; for example, one survivor could spend five turns Studying the Stars at the chart, or five survivors could each spend one turn for the same effect. Once deciphered, all survivors gain access to whatever magic is unlocked by the star chart. Each chart has several stars which can be unlocked; each star/syllable can extend the spell?[/quote]
+Star Chart Destroyers (15,15): Studied 13/15? (unlocked Es at 5)
+Star Chart Creators (17,13): Studied 5/15? (unlocked At at 5)
+Star Chart Unfathomable (17,2): Studied 12+1/15? (unlocked Om at 5)
+
+OM
+Unfathomable
+Star Chart: 17,2
+Spell: Wave
+A useful resource (or possibly a creature) washes up from a river or coast hex you're occupying.
+[quote="Working Theory"]When casting Wave, roll a d6 and add your Spell bonus. Look up the result from a table.[/quote]Wave results: (Deepspawn) x2, both with Spell +0.
+[quote="LoneStarNorth [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45850&sid=1eb56455fad75a0a1e590a9e76f53e0b#p45850]Turn 28[/url]"]I promise Wave has possible results other than summoning a deepspawn. Really![/quote][/spoiler]
+
+[b]Known Terrain Rules[/b]
+[spoiler]River feature: Difficult Terrain. (Note: 'crossing' the river doesn't matter. If a hex has a river in it, it's difficult terrain.)
+Forest hex: Cover.
+Mountain hex: Difficult Terrain.
+Ocean 'hex': Impassible Terrain.
+
+Difficult Terrain: Movement automatically ends when entering difficult terrain, and the Extra Movement action cannot be taken to escape. Building is prohibited. Starting in difficult terrain has no penalty, you may leave as normal.
+Cover: Hostile creatures in adjacent forest hexes will not be revealed. This works the other way around, as well; you can potentially use forests to hide from enemies. Unconfirmed whether objects or structures are hidden.
+Impassible Terrain: You cannot enter impassible terrain.[/spoiler]
+
+[b]Known Profession/Class Unlock Conditions[/b]
+[spoiler][quote="Official Rules"]Progression
+By performing certain actions, a character can unlock both a profession (which improves their survival and crafting abilities) and a class (which improves their combat and spellcasting). Each character can have only one profession and one class, and cannot change once they pick one. Each profession and class grants a unique ability or benefit in addition to a bonus to certain actions.
+
+By continuing to perform actions associated with their profession and class, a character can gain additional levels, improving their bonus, up to level 3.[/quote]
+[quote="Working Theory"]Certain acts allow you to gain experience in a Profession or Class (usually taking Actions, though the Knight gains experience through being hit). On gaining 5 experience you unlock a Profession/Class. On gaining 15 experience total for a Profession/Class (the 5 to get level 1, plus 10 more), you level up to rank 2. To gain rank 3, you need 30? total experience (5 for level 1, +10 for level 2, +15 for level 3). Experience is tracked separately for each Profession/Class, and once you choose a Profession your experience with all other Professions is set to 0 and cannot increase; the same applies for Classes. You can progress in only one Profession and one Class.[/quote]
+
+Five actions without profession:
+Extra Move (Cygnus)
+
+Professions change the color of your survivor dot on the minimap. Classes change the shape of your survivor dot on the minimap.
+
+Profession: ARCHITECT - Blue
+Bonus: Building and repairing structures (+1/level HP per action, so 2 HP/Build at level 1)
+Ability: You can repair structures up to 50% above their normal maximum health.
+Gaining XP: Perform the Build/Repair action (including designating new structures, adding materials, and adding structure HP).
+
+Profession: GATHERER - Green
+Bonus: Gathering resources without a tool or structure
+Ability: Your Encumbrance increases by 5.
+Gaining XP: Perform the Gather action (without a tool or structure?).
+
+Profession: LUMBERJACK - Orange
+Bonus: Gathering wood with an axe
+Ability: You can clear a forest, permanently turning the hex into plains. You gain a large amount of wood for doing so based on your Lumberjack level. You can only do this once.
+Gaining XP: Perform the Gather action with an axe in a Forest hex.
+
+Profession: MINER - Cyan
+Bonus: Gathering metal, stone, or gems with a pick
+Ability: You can dig a mine in mountain terrain or any hex with a cave where a mine does not already exist. The depth of the mine depends on your Miner level. You can only do this once.
+Gaining XP: Perform the Gather action with a pick, actually using the pick to gather metal/stone/gems.
+
+Profession: SMITH - Dark red (darker than enemies which are more orange, like area boundaries)
+Bonus: Crafting weapons, tools, and armour
+[quote="LoneStarNorth"]The Smith bonus is a little weird compared to the other professions, so I'll go ahead and explain it. It means you use fewer resources when crafting items. Similar to a Gatherer on a hex with multiple resources, though, you don't get to pick which resources you save. You always need at minimum one of each resources used. So your bonus wouldn't help you when crafting a Stone Axe, for example.[/quote]Ability: You can create a Masterwork, a more powerful weapon, shield, or armour than normal. The power of the Masterwork is based on your Smith level. You can only do this once.
+Gaining XP: Craft weapons/tools/armour.
+
+
+Class: HEALER - Down-left pointing triangle :.
+Bonus: Creator study and all spells
+Ability: Each ally that ends their turn in your hex has a 1 in 3 chance of recovering 1 health. Note: This can heal damage due to the Hungry condition, even if you end turn next to a Healer with full health while Hungry and not eating.
+Gaining XP: Study the Stars at the Creators star chart or Cast a Spell using a Creators star.
+
+Class: HUNTER - Horizontal line --
+Bonus: Ranged attacks (+1/level?)
+Ability: If you travel alone or only with other Hunters, you can pass by hostile creatures unnoticed if you don't attack them.
+Gaining XP: Make ranged Attack rolls
+
+Class: KNIGHT - Down-right pointing triangle .:
+Bonus: Defense (+1/level)
+Ability: Your non-Knight allies in the same hex can't be targeted by attacks. (Spells are not attacks, even if they make attack rolls).
+Gaining XP: Be targeted by attacks (spells don't count)
+
+Class: WARRIOR - Vertical line |
+Bonus: Melee attacks (+1/level)
+Ability: Once per turn when you are attacked in melee you can make a free melee counterattack.
+Gaining XP: Make melee Attack rolls. Weapons are not required. Counterattacks do not count.
+
+Class: WIZARD - Top-right pointing triangle ':
+Bonus: Unfathomable study and all spells
+Ability: When you cast a Creator or Destroyer spell, you can spend 1 extra mana to imbue it with an Unfathomable star's power, altering the effect slightly.
+Gaining XP: Study the Stars at the Unfathomable star chart or Cast a Spell using an Unfathomable star. Using the special ability [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45907#p45907]does not[/url] grant XP.[/spoiler]
+
+[b]Named Areas[/b]
+[spoiler][quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45810#p45810]Tygerion[/url]"]Hey, just cloned the current map, and added labels for all known "zones".
+[img]https://cdn1.imggmi.com/uploads/2018/8/16/5c78842c0e4f5c0855e52ca986865cf8-full.png[/img][/quote]1 - Castaway Coast ([url=http://willsaveworldforgold.com/forum/viewtopic.php?p=43637#p43637]turn 1[/url])
+2 - Packlands (turn 1)
+3 - Black Plains (turn 1)
+4 - River of Bones ([url=http://willsaveworldforgold.com/forum/viewtopic.php?p=43722#p43722]turn 2[/url])
+5 - Forest of Dust ([url=http://willsaveworldforgold.com/forum/viewtopic.php?p=44312#p44312]turn 9[/url])
+6 - Wyrmpeak ([url=http://willsaveworldforgold.com/forum/viewtopic.php?p=44833#p44833]turn 15[/url])
+7 - Frogwood ([url=http://willsaveworldforgold.com/forum/viewtopic.php?p=44482#p44482]turn 11[/url])
+The red lines are to indicate named areas; we have (Turn 1) the Castaway Coast, the River of Bones, the Black Plain, the Packlands, (Turn 9) the Forest of Dust, and (turn 15) Wyrmpeak. Nice catch how thus far there has been at most one mana leak and dungeon each per area.[/spoiler]
+
+[b]FAQ and Common Misunderstandings with Actions[/b]
+[spoiler][quote="Official Rules: Turn Order"]Step 1: Choose a character to control. [...]
+
+Step 2: Declare your character's movement. You can move northwest, northeast, west, east, southwest, or southeast (usually), and characters can move up to 3 hexes. Your character will stop moving if they reach a hex with difficult terrain or which is impassable. You can also declare that you are following another character or an enemy, even if they're not in your same starting hex. This might not always be possible, but you can always try.
+
+Step 3: Declare your character's action. This can be [b]an attack[/b], casting a spell, [b]gathering resources from their hex, exploring a dungeon, crafting an item, or moving 1 additional hex[/b]. You can try to do other things as well depending on your terrain, what sort of items you're carrying, etc. Similar to moving, you can declare that you mimic another character's action.
+
+Step 4: Declare your end-of-turn maintenance. These are minor actions that don't take up the whole turn, and you can do several of these if you like. [b]These actions include trading items, dropping items, collecting loose items from the ground[/b], choosing a class or profession (if possible), [b]and eating[/b]. Characters that have access to food will eat automatically unless someone tells them not to. Each character can only eat once per turn.
+[...]
+Encumbrance: How many items a character can carry. [b]Most characters can carry 5 items.[/b]
+[...]
+You can't pick up items above your limit. They'll drop to the ground in that hex. These are indeed the "loose items" you can pick up for free at the end of your turn. Yes, you can also drop items for free if you need to.
+
+Don't trust loose items to wait around forever, though.[/quote][quote="Official Rules - Combat and Order of Actions"]Combat is based around a d6 system. When a character attacks, they roll 1d6 and add their melee, ranged, or spell bonus (depending what kind of attack they're making). When a character is attacked, they roll 1d6 and add their defense bonus. If an attack roll meets or exceeds a defense roll, damage is dealt to the defender. For characters, damage is based on their weapon.
+Unarmed characters deal 1 damage and can only make melee attacks.
+
+When combat occurs, spells are resolved first. Ranged attacks are resolved second. Melee attacks are resolved last. This means if a character makes a ranged attack against a creature which only attacks in melee, it is possible to kill that creature before it has a chance to act. Any non-combat actions occur after combat is resolved. Spells are resolved before any other action, even if they aren't combat related.[/quote]
+The order in which events happen during a turn is important. First, everyone moves. Second, everyone acts (spells, then combat, then everything else). Third, maintenance happens. This means:
+[list]
+[*]You [i][b]cannot[/b][/i] give an item to someone and then move away from them. [i][b]You must end your turn in the same hex as someone else to trade.[/b][/i]
+[*]Dropping an item is also a maintenance action. [i][b]You cannot drop an item and then move.[/b][/i]
+[*]You also cannot take an action and then move. [i][b]You must end your turn in the same hex where you take an action.[/b][/i] This is to prevent attacking and running away, though you can run away and attack anything that pursues you.
+[*]If your turn depends on ending in the same hex as something that can move (attacking a monster or trading with a survivor), you should strongly consider declaring that you Follow your target.
+[*]You [i][b]cannot[/b][/i] craft an item using items another player (or structure, like the Storehouse) has, or using items on the ground. [i][b]You must start your turn with items in inventory in order to craft using them.[/b][/i] The same applies to building.
+[*]Putting resources towards building [i][b]requires the build action[/b][/i]. While dropping items on a hex can be done during maintenance, loose items are not part of a structure. Once items are built into a structure, they cannot be recovered.
+[*]If you obtain more items than you can carry, you drop the surplus on the ground. [i][b]If you might gain more items than you can carry, say what items you want in your inventory at end of turn.[/b][/i] Otherwise, you might not be able to do what you want next turn. Dropping and picking up items are both maintenance actions, so you can generally choose what your inventory will look like out of all the items you are carrying and those loose in your hex.
+[*]Picking up loose items happens during maintenance. [i][b]Loose items do not appear spontaneously, they must be dropped by a survivor or monster.[/b][/i] You do not need to always say you are picking up loose items.
+[*]Loose items are destroyed after two full turns on the ground: If I drop an item during turn 5, then it is loose at the start of turn 6, it is still available at the start of turn 7, but it vanishes at the start of turn 8. [i][b]If a loose item is marked with an asterisk (*), then it will vanish at the start of next turn.[/b][/i]
+[*]Eating Food is done during maintenance, and so [i][b]you can eat Food left on the ground, traded to you by others, or Gathered that same turn.[/b][/i]
+[*]By default, all survivors Eat during maintenance, taking food from: their own inventory, food stored in the hex (possibly including on the ground as well as in structures), or the inventory of other survivors in the same hex ([i][b]only when the survivor is idle[/b][/i]), in that order. However, if you specify a list of maintenance actions and do not say you are eating, [i][b]then you will not eat[/b][/i]. The Tavern provides food to survivors on connected structures up to three hexes away, presumably defaulting after food in your inventory but before food in other survivors' inventories, though you can(?) choose to explicitly eat from the Tavern even if you have food in your inventory.
+[*]All Attacks are resolved during actions, after movement and before maintenance. First, spells are resolved (whether they make attack rolls or not); next, ranged attacks are resolved; finally, melee attacks are resolved. All Attacks of the same 'speed' resolve at the same time; this means that if a monster with 1 HP fights a survivor and both take Melee attacks, then it is impossible for the survivor to roll 'first' and kill the monster before it can attack. However, if a survivor takes a Ranged attack against a monster with 1 HP which takes a Melee attack, then since Ranged attacks are all resolved first, the Ranged attack can hit and kill the monster before it has a chance to make that Melee attack.
+[*]All Spells are resolved before Attacks, so casting the Heal spell will only do something when targeting a survivor who is injured at the start of the turn. You [i][b]cannot[/b][/i] use the Heal spell to heal combat damage on the turn that a survivor is injured.
+[*]All non-combat, non-Spell actions are resolved after combat. For example, the Repair action will restore HP to a structure after combat has happened, so you can Repair damage dealt to a structure on the turn that the structure is damaged (and if a structure is already damaged, you [i][b]cannot[/b][/i] Repair it before it is Attacked on the same turn).
+[*]When deciding how to Attack: If all else is equal, take a faster attack (e.g. the Wood Spear has a +1 Melee attack for 1 damage and a +1 Ranged attack for 1 damage; only take a Melee attack if you want experience towards the Warrior class). However, attack speed doesn't always matter. If the weakest monster you might Attack has more hit points left than the total amount of damage all survivors in the area could deal with Ranged attacks, then it does not matter whether you take a Ranged or Melee attack since it is impossible to kill the monster before it takes a Melee attack. Similarly, if you are fighting a monster with Ranged or Magic attacks, then it doesn't matter if your attack is slower (because if you are in danger of death you should be getting out of there instead of attacking). In these cases, a weapon like the Stone Spear (+2 Melee vs +1 Ranged) should be used in Melee to increase the effectiveness of your attack.
+[*]Remember that anyone can play any character. While it'll likely be assumed that any action you post will apply to a character you've consistently played even if you don't specify, you should always clearly state which character you are controlling on a given turn.
+[*]Mana is first-come, first-served; the first character to post using the Cast a Spell action will be the one to use mana for the turn. Mana cannot be stockpiled between turns (unless some future structure allows that...).[/list]
+
+To reduce mistakes and make things easier for LoneStarNorth, the following format is recommended at the end of your post:
+[quote]Movement:
+Action:
+Maintenance:[/quote]
+To make things easier for me when reverse-engineering rules, it is appreciated if you mention the current turn number and use the same action names as in the Rules post (so I can search the main post for "Study" and see who studied the stars and when). More information like your current location and inventory is also useful when looking back at turns.[/spoiler]
+
+[b]Combat Probability[/b]
+[spoiler][quote="Official Rules"]Combat is based around a d6 system. When a character attacks, they roll 1d6 and add their melee, ranged, or spell bonus (depending what kind of attack they're making). When a character is attacked, they roll 1d6 and add their defense bonus. If an attack roll meets or exceeds a defense roll, damage is dealt to the defender.[/quote]
+[code]Attacker - Defender Bonus:  -3    -2    -1    0     +1    +2    +3
+To-hit Probability (exact): 6/36  10/36 15/36 21/36 26/36 30/36 33/36
+To-hit Probability (%):     17%   28%   42%   58%   72%   83%   92%[/code]
+[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=44077#p44077]Proof[/url][/spoiler]
