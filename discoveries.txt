@@ -64,16 +64,17 @@ Along with this word (name?) comes a rush of information. Some of it may have be
 
 The explorers felt like there may be more to be learned from this star chart, as well.[/quote]
 [quote="Theory"]Each star chart requires a certain number of survivor-turns to decipher; for example, one survivor could spend five turns Studying the Stars at the chart, or five survivors could each spend one turn for the same effect. Once deciphered, all survivors gain access to whatever magic is unlocked by the star chart. Each chart has several stars which can be unlocked; each star/syllable can extend the spell?[/quote]
-Star Chart Destroyers (15,15): Studied 13/15? (unlocked Es at 5)
+Star Chart Destroyers (15,15): Studied 16/30? (unlocked Es at 5, level 2 at 15)
 Star Chart Creators (17,13): Studied 5/15? (unlocked At at 5)
-Star Chart Unfathomable (17,2): Studied 12+1/15? (unlocked Om at 5)
+Star Chart Unfathomable (17,2): Studied 15+2/30? (unlocked Om at 5, level 2 at 15)
 
 OM
 Unfathomable
 Star Chart: 17,2
 Spell: Wave
-A useful resource (or possibly a creature) washes up from a river or coast hex you're occupying.
-[quote="Working Theory"]When casting Wave, roll a d6 and add your Spell bonus. Look up the result from a table.[/quote]Wave results: (Deepspawn) x2, both with Spell +0.
+Level 1: A useful resource (or possibly a creature) washes up from a river or coast hex you're occupying.
+Level 2: As level 1, but a useful item (or possibly a dangerous creature).
+[quote="Working Theory"]When casting Wave, roll a d6 and add your Spell bonus. Look up the result from a table.[/quote]Wave 1 results: (Deepspawn) x2, both with Spell +0.
 [quote="LoneStarNorth [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45850&sid=1eb56455fad75a0a1e590a9e76f53e0b#p45850]Turn 28[/url]"]I promise Wave has possible results other than summoning a deepspawn. Really![/quote][/spoiler]
 
 [b]Known Terrain Rules[/b]
