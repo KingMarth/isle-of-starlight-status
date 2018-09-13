@@ -17,7 +17,7 @@ River feature: Food
 Mana Leak feature: None
 Star Chart feature: None?
 
-Mine (level 2, need a pick): 3 Stone, 1 Iron before pick bonuses.
+Mine (level 2, need a pick): 3? Stone, 1 Iron before pick bonuses.
 [quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=44739#p44739]Turn 8[/url]"]A mine is a special cross between a terrain feature and a building. If you build a mine on a cave, it replaces the cave. No other building can be built in a hex with a mine.[/quote][quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45942#p45942]Turn 29[/url]"]Mines are a unique cross between structures and terrain features. They count as structures for connectivity purposes, and block other structures from being built. However they can't be destroyed, damaged, or repaired. You need to use a pick to benefit from a mine.[/quote]
 
 Tower of Wreckage dungeon (9,1): None
@@ -64,7 +64,7 @@ Along with this word (name?) comes a rush of information. Some of it may have be
 
 The explorers felt like there may be more to be learned from this star chart, as well.[/quote]
 [quote="Theory"]Each star chart requires a certain number of survivor-turns to decipher; for example, one survivor could spend five turns Studying the Stars at the chart, or five survivors could each spend one turn for the same effect. Once deciphered, all survivors gain access to whatever magic is unlocked by the star chart. Each chart has several stars which can be unlocked; each star/syllable can extend the spell?[/quote]
-Star Chart Destroyers (15,15): Studied 16/30? (unlocked Es at 5, level 2 at 15)
+Star Chart Destroyers (15,15): Studied 18/30? (unlocked Es at 5, level 2 at 15)
 Star Chart Creators (17,13): Studied 5/15? (unlocked At at 5)
 Star Chart Unfathomable (17,2): Studied 15+2/30? (unlocked Om at 5, level 2 at 15)
 
@@ -75,6 +75,7 @@ Spell: Wave
 Level 1: A useful resource (or possibly a creature) washes up from a river or coast hex you're occupying.
 Level 2: As level 1, but a useful item (or possibly a dangerous creature).
 [quote="Working Theory"]When casting Wave, roll a d6 and add your Spell bonus. Look up the result from a table.[/quote]Wave 1 results: (Deepspawn) x2, both with Spell +0.
+Wave 2 results: (Stone Pick) x1, with Spell +1
 [quote="LoneStarNorth [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45850&sid=1eb56455fad75a0a1e590a9e76f53e0b#p45850]Turn 28[/url]"]I promise Wave has possible results other than summoning a deepspawn. Really![/quote][/spoiler]
 
 [b]Known Terrain Rules[/b]
@@ -125,7 +126,7 @@ Bonus: Crafting weapons, tools, and armour
 Gaining XP: Craft weapons/tools/armour.
 
 
-Class: HEALER - Down-left pointing triangle :.
+Class: HEALER - Down-left pointing triangle :. ◺
 Bonus: Creator study and all spells
 Ability: Each ally that ends their turn in your hex has a 1 in 3 chance of recovering 1 health. Note: This can heal damage due to the Hungry condition, even if you end turn next to a Healer with full health while Hungry and not eating.
 Gaining XP: Study the Stars at the Creators star chart or Cast a Spell using a Creators star.
@@ -135,17 +136,22 @@ Bonus: Ranged attacks (+1/level?)
 Ability: If you travel alone or only with other Hunters, you can pass by hostile creatures unnoticed if you don't attack them.
 Gaining XP: Make ranged Attack rolls
 
-Class: KNIGHT - Down-right pointing triangle .:
+Class: KNIGHT - Down-right pointing triangle .: ◿
 Bonus: Defense (+1/level)
 Ability: Your non-Knight allies in the same hex can't be targeted by attacks. (Spells are not attacks, even if they make attack rolls).
 Gaining XP: Be targeted by attacks (spells don't count)
+
+Class: WARMAGE - Top-left pointing triangle? ːˑ ◸
+Bonus: Destroyer study and all spells
+Ability: When you cast a Destroyer spell it has a 50% chance to deal 1 extra damage.
+Gaining XP: Study the Stars at the Destroyers star chart or Cast a Spell using a Destroyers star.
 
 Class: WARRIOR - Vertical line |
 Bonus: Melee attacks (+1/level)
 Ability: Once per turn when you are attacked in melee you can make a free melee counterattack.
 Gaining XP: Make melee Attack rolls. Weapons are not required. Counterattacks do not count.
 
-Class: WIZARD - Top-right pointing triangle ':
+Class: WIZARD - Top-right pointing triangle ˑː ◹
 Bonus: Unfathomable study and all spells
 Ability: When you cast a Creator or Destroyer spell, you can spend 1 extra mana to imbue it with an Unfathomable star's power, altering the effect slightly.
 Gaining XP: Study the Stars at the Unfathomable star chart or Cast a Spell using an Unfathomable star. Using the special ability [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45907#p45907]does not[/url] grant XP.[/spoiler]
@@ -210,3 +216,4 @@ To make things easier for me when reverse-engineering rules, it is appreciated i
 To-hit Probability (exact): 6/36  10/36 15/36 21/36 26/36 30/36 33/36
 To-hit Probability (%):     17%   28%   42%   58%   72%   83%   92%[/code]
 [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=44077#p44077]Proof[/url][/spoiler]
+

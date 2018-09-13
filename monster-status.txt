@@ -58,8 +58,8 @@ Defense Bonus: ??? 3-5
 Personality: ???
 
 Starlight Crab
-Max Health: ???
-Items: ???
+Max Health: 4
+Items: Food, Food, Leather, Leather
 Conditions: Aquatic
 Movement: 4
 Melee Attack Bonus: +2 (3-8)
@@ -98,17 +98,17 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 30
+[b]Known Creatures[/b] Last update: Turn 31
 [spoiler]Deepspawn 11 - Appeared on river (10,9) turn 26.
-Position: 12,8
+Position: 15,11
 Health: 3/3
 
 Deepspawn 12 - Conjured using Wave on river (12,8) turn 27.
-Position: 12,8
+Position: 15,11
 Health: 3/3
 
 Deepspawn 13/Test Subject #1 - Conjured using Wave on coast (20,1) turn 28.
-Position: 15,4?
+Position: 15,7?
 Health: 3/3
 
 Husk Moth 1 - Appeared in Forest of Dust (30,10) turn 19.
@@ -120,12 +120,8 @@ Position: ???
 Health: 0 damage
 
 Starlight Bison 3 - Appeared on Burnt Plains (14,6) turn 12.
-Position: ???
+Position: 9,10
 Health: 5/5
-
-Starlight Crab 1 - Appeared on river (10,9) turn 12.
-Position: 13,7
-Health: 3 damage
 
 Starlight Dog 3 - Appeared from Beneath the Suspicious Hill (23,19) turn 13.
 Position: ???
@@ -136,7 +132,7 @@ Position: ???
 Health: 5/5
 
 Starlight Goat 2 - Appeared on Burnt Plains (11,6) turn 8.
-Position: 14,8
+Position: ???
 Health: 2/2
 
 Starlight Goat 4 - Appeared on Packlands (14,15) turn 8.
@@ -144,7 +140,7 @@ Position: ???
 Health: 2/2
 
 Starlight Goat 5 - Appeared on Packlands (12,10) turn 28.
-Position: 14,8
+Position: ???
 Health: 2/2
 
 Wyrmling 1 - Appeared on Burnt Plains (10,5) turn 5.
@@ -156,7 +152,7 @@ Position: 19,7?
 Health: 1 damage
 
 Wyrmling 3 - Appeared from Acrid Burrow (19,7) turn 18.
-Position: 12,6?
+Position: ???
 Health: 3 damage
 
 Wyrmling 4 - Appeared at Acrid Burrow (19,7) turn 20.
@@ -241,6 +237,10 @@ Starlight Bison 2 - Appeared on Burnt Plains (10,5) turn 5.
 Position: 11,4
 Health: 0/5
 Conditions: Poisoned?
+
+Starlight Crab 1 - Appeared on river (10,9) turn 12. Defeated turn 31 by Tooyun Tadai.
+Position: 16,11
+Health: 0/4
 
 Starlight Dog 1 - Appeared in forest (11,13) turn 4. Defeated turn 18, killing blow by Tooyun Tadai.
 Position: 15,15
