@@ -2,22 +2,22 @@
 Totals Among All Survivors
 1	21
 2	8
-3	1
 Architect	2
 Architect?	2
 Bile of the Deep	1
 Dead	3
-Food	48
+Food	63
 Food*	2
 Gatherer	13
 Gatherer?	18
+Gem	1
 Healer	1
 Hungry	8
 Hunter	2
 Iron	6
 Knight	2
 Knight?	2
-Leather	3
+Leather	7
 Leather Armour	1
 Loose	5
 Lumberjack	1
@@ -26,20 +26,21 @@ Miner	2
 Miner?	1
 Shell Shield	1
 Smith	1
-Stone	29
+Stone	34
 Stone Axe	4
 Stone Pick	7
-Stone Spear	17
+Stone Spear	18
 Structure	12
 Warmage?	1
-Warrior	4
+Warrior	3
 Warrior?	2
 Wizard	2
-Wood	38
+Wood	48
 Wood Bow And Arrows	1
 Wood Bow and Arrows	5
-Wood Shield	16
-Wood Spear	5
+Wood Magic Staff	1
+Wood Shield	17
+Wood Spear	6
 Wood*	1
 
 [size=150]Character Status[/size]
