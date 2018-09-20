@@ -4,7 +4,7 @@
 
 [b]Gather Resources Amounts[/b]
 [spoiler][quote="Official Rules"]Gather: The character gathers resources from their hex. The type and amount of resources gathered depends on the hex type, any terrain features present, any structures present which improve the terrain, and any bonus the character has to gathering. All terrain types give a chance to find something, even if they appear to be empty.[/quote]
-[quote="Working Theory"]Each hex, terrain feature, structure, and character bonus has a resource or resources associated with it. When the Gather action is taken, these resources are added together and everything is given to the survivor gathering. Currently, assume that all resources drop 100% of the time, though as official rules mention 'chance' this may not hold. Note that while all terrain types have resources, not all features may add something.
+[quote="Working Theory"]Each hex, terrain feature, structure, and character bonus can have a resource or resources associated with it. When the Gather action is taken, these resources are added together and everything is given to the survivor gathering. Currently, assume that all resources drop 100% of the time, though as official rules mention 'chance' this may not hold. Note that while all terrain types have resources, not all features may add something.
 Tools may either add a resource to gathering outright, or require a given terrain feature (e.g. pickaxe needs a cave, doesn't add stone on its own). Professions can be conditional.[/quote]
 Coast hex: Food
 Plains hex: Food
@@ -15,9 +15,9 @@ Fruit Trees feature: Food, Wood
 Cave feature: Stone
 River feature: Food
 Mana Leak feature: None
-Star Chart feature: None?
+Star Chart feature: None
 
-Mine (level 2, need a pick): 3? Stone, 1 Iron before pick bonuses.
+Mine (level 2, need a pick): 3-4 Stone, 0-2 Iron. Unclear interaction with Pick and Miner bonuses.
 [quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=44739#p44739]Turn 8[/url]"]A mine is a special cross between a terrain feature and a building. If you build a mine on a cave, it replaces the cave. No other building can be built in a hex with a mine.[/quote][quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45942#p45942]Turn 29[/url]"]Mines are a unique cross between structures and terrain features. They count as structures for connectivity purposes, and block other structures from being built. However they can't be destroyed, damaged, or repaired. You need to use a pick to benefit from a mine.[/quote]
 
 Tower of Wreckage dungeon (9,1): None
@@ -64,8 +64,8 @@ Along with this word (name?) comes a rush of information. Some of it may have be
 
 The explorers felt like there may be more to be learned from this star chart, as well.[/quote]
 [quote="Theory"]Each star chart requires a certain number of survivor-turns to decipher; for example, one survivor could spend five turns Studying the Stars at the chart, or five survivors could each spend one turn for the same effect. Once deciphered, all survivors gain access to whatever magic is unlocked by the star chart. Each chart has several stars which can be unlocked; each star/syllable can extend the spell?[/quote]
-Star Chart Destroyers (15,15): Studied 18/30? (unlocked Es at 5, level 2 at 15)
-Star Chart Creators (17,13): Studied 5/15? (unlocked At at 5)
+Star Chart Destroyers (15,15): Studied 19/30? (unlocked Es at 5, level 2 at 15)
+Star Chart Creators (17,13): Studied 7+1/15? (unlocked At at 5)
 Star Chart Unfathomable (17,2): Studied 15+2/30? (unlocked Om at 5, level 2 at 15)
 
 OM
@@ -93,55 +93,56 @@ Impassible Terrain: You cannot enter impassible terrain.[/spoiler]
 By performing certain actions, a character can unlock both a profession (which improves their survival and crafting abilities) and a class (which improves their combat and spellcasting). Each character can have only one profession and one class, and cannot change once they pick one. Each profession and class grants a unique ability or benefit in addition to a bonus to certain actions.
 
 By continuing to perform actions associated with their profession and class, a character can gain additional levels, improving their bonus, up to level 3.[/quote]
-[quote="Working Theory"]Certain acts allow you to gain experience in a Profession or Class (usually taking Actions, though the Knight gains experience through being hit). On gaining 5 experience you unlock a Profession/Class. On gaining 15 experience total for a Profession/Class (the 5 to get level 1, plus 10 more), you level up to rank 2. To gain rank 3, you need 30? total experience (5 for level 1, +10 for level 2, +15 for level 3). Experience is tracked separately for each Profession/Class, and once you choose a Profession your experience with all other Professions is set to 0 and cannot increase; the same applies for Classes. You can progress in only one Profession and one Class.[/quote]
+[quote="Working Theory"]Certain acts allow you to gain experience in a Profession or Class (usually taking Actions, though the Knight gains experience through being attacked). On gaining 5 experience you unlock a Profession/Class. On gaining 15 experience total for a Profession/Class (the 5 to get level 1, plus 10 more), you level up to rank 2. To gain rank 3, you need 30? total experience (5 for level 1, +10 for level 2, +15 for level 3). Experience is tracked separately for each Profession/Class, and once you choose a Profession your experience with all other Professions is set to 0 and cannot increase; the same applies for Classes. You can progress in only one Profession and one Class.[/quote]
 
 Five actions without profession:
 Extra Move (Cygnus)
 
-Professions change the color of your survivor dot on the minimap. Classes change the shape of your survivor dot on the minimap.
+Professions change the color of your survivor dot on the minimap (default white). Classes change the shape of your survivor dot on the minimap.
 
-Profession: ARCHITECT - Blue
+Profession: ARCHITECT - [color=#3a44ba]Blue[/color]
 Bonus: Building and repairing structures (+1/level HP per action, so 2 HP/Build at level 1)
 Ability: You can repair structures up to 50% above their normal maximum health.
 Gaining XP: Perform the Build/Repair action (including designating new structures, adding materials, and adding structure HP).
 
-Profession: GATHERER - Green
+Profession: GATHERER - [color=#007700]Green[/color]
 Bonus: Gathering resources without a tool or structure
 Ability: Your Encumbrance increases by 5.
 Gaining XP: Perform the Gather action (without a tool or structure?).
 
-Profession: LUMBERJACK - Orange
+Profession: LUMBERJACK - [color=#d26900]Orange[/color]
 Bonus: Gathering wood with an axe
 Ability: You can clear a forest, permanently turning the hex into plains. You gain a large amount of wood for doing so based on your Lumberjack level. You can only do this once.
 Gaining XP: Perform the Gather action with an axe in a Forest hex.
 
-Profession: MINER - Cyan
+Profession: MINER - [color=#76cde2]Light blue[/color]
 Bonus: Gathering metal, stone, or gems with a pick
 Ability: You can dig a mine in mountain terrain or any hex with a cave where a mine does not already exist. The depth of the mine depends on your Miner level. You can only do this once.
 Gaining XP: Perform the Gather action with a pick, actually using the pick to gather metal/stone/gems.
 
-Profession: SMITH - Dark red (darker than enemies which are more orange, like area boundaries)
+Profession: SMITH - [color=#8a0000]Dark red[/color] (darker than enemies which are more [color=#FF0000]bright red[/color], like area boundaries)
 Bonus: Crafting weapons, tools, and armour
 [quote="LoneStarNorth"]The Smith bonus is a little weird compared to the other professions, so I'll go ahead and explain it. It means you use fewer resources when crafting items. Similar to a Gatherer on a hex with multiple resources, though, you don't get to pick which resources you save. You always need at minimum one of each resources used. So your bonus wouldn't help you when crafting a Stone Axe, for example.[/quote]Ability: You can create a Masterwork, a more powerful weapon, shield, or armour than normal. The power of the Masterwork is based on your Smith level. You can only do this once.
 Gaining XP: Craft weapons/tools/armour.
 
 
-Class: HEALER - Down-left pointing triangle :. ◺
+Class: HEALER - Down-left pointing triangle ◺
 Bonus: Creator study and all spells
 Ability: Each ally that ends their turn in your hex has a 1 in 3 chance of recovering 1 health. Note: This can heal damage due to the Hungry condition, even if you end turn next to a Healer with full health while Hungry and not eating.
 Gaining XP: Study the Stars at the Creators star chart or Cast a Spell using a Creators star.
 
-Class: HUNTER - Horizontal line --
+Class: HUNTER - Horizontal line —
 Bonus: Ranged attacks (+1/level?)
 Ability: If you travel alone or only with other Hunters, you can pass by hostile creatures unnoticed if you don't attack them.
 Gaining XP: Make ranged Attack rolls
 
-Class: KNIGHT - Down-right pointing triangle .: ◿
+Class: KNIGHT - Down-right pointing triangle ◿
 Bonus: Defense (+1/level)
-Ability: Your non-Knight allies in the same hex can't be targeted by attacks. (Spells are not attacks, even if they make attack rolls).
+Ability: Your non-Knight allies in the same hex can't be targeted by attacks. (Spells and dungeon traps are not attacks, even if they make attack rolls).
 Gaining XP: Be targeted by attacks (spells don't count)
+[quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=46153#p46153]LoneStarNorth[/url]"]The knight's ability works on all attacks, but not on all attack rolls. Spells and traps use attack rolls, but are not attacks, and thus bypass a knight's protection.[/quote]
 
-Class: WARMAGE - Top-left pointing triangle? ːˑ ◸
+Class: WARMAGE - Top-left pointing triangle? ◸
 Bonus: Destroyer study and all spells
 Ability: When you cast a Destroyer spell it has a 50% chance to deal 1 extra damage.
 Gaining XP: Study the Stars at the Destroyers star chart or Cast a Spell using a Destroyers star.
@@ -151,7 +152,7 @@ Bonus: Melee attacks (+1/level)
 Ability: Once per turn when you are attacked in melee you can make a free melee counterattack.
 Gaining XP: Make melee Attack rolls. Weapons are not required. Counterattacks do not count.
 
-Class: WIZARD - Top-right pointing triangle ˑː ◹
+Class: WIZARD - Top-right pointing triangle ◹
 Bonus: Unfathomable study and all spells
 Ability: When you cast a Creator or Destroyer spell, you can spend 1 extra mana to imbue it with an Unfathomable star's power, altering the effect slightly.
 Gaining XP: Study the Stars at the Unfathomable star chart or Cast a Spell using an Unfathomable star. Using the special ability [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45907#p45907]does not[/url] grant XP.[/spoiler]

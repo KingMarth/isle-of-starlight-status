@@ -7,7 +7,7 @@ Movement: 3-4
 Melee Attack Bonus: +1 (2-7)
 Damage: 1
 Defense Bonus: +1 (2-7)
-Personality: Follows other monsters. As a group, they attack separate targets, unless one target is injured in which case they focus on the injured target.
+Personality: Follows other monsters. As a group, they attack separate targets, unless one target is injured in which case they focus on the injured target. When conjured by the Wave spell, they do not seem to attack (unless hit?)
 
 Goblin
 Max Health: 1
@@ -98,17 +98,17 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 31
-[spoiler]Deepspawn 11 - Appeared on river (10,9) turn 26.
-Position: 15,11
-Health: 3/3
-
-Deepspawn 12 - Conjured using Wave on river (12,8) turn 27.
-Position: 15,11
+[b]Known Creatures[/b] Last update: Turn 32
+[spoiler]Deepspawn 12 - Conjured using Wave on river (12,8) turn 27.
+Position: 17,13
 Health: 3/3
 
 Deepspawn 13/Test Subject #1 - Conjured using Wave on coast (20,1) turn 28.
-Position: 15,7?
+Position: 13,7
+Health: 3/3
+
+Deepspawn 14 - Appeared on mine (11,10) turn 32.
+Position: 11,10
 Health: 3/3
 
 Husk Moth 1 - Appeared in Forest of Dust (30,10) turn 19.
@@ -120,7 +120,7 @@ Position: ???
 Health: 0 damage
 
 Starlight Bison 3 - Appeared on Burnt Plains (14,6) turn 12.
-Position: 9,10
+Position: ???
 Health: 5/5
 
 Starlight Dog 3 - Appeared from Beneath the Suspicious Hill (23,19) turn 13.
@@ -152,7 +152,7 @@ Position: 19,7?
 Health: 1 damage
 
 Wyrmling 3 - Appeared from Acrid Burrow (19,7) turn 18.
-Position: ???
+Position: 13,7
 Health: 3 damage
 
 Wyrmling 4 - Appeared at Acrid Burrow (19,7) turn 20.
@@ -202,6 +202,10 @@ Health: 0/3
 
 Deepspawn 10 - Appeared on plains (10,14) turn 19. Defeated turn 28 by Ulysses.
 Position: 11,13
+Health: 0/3
+
+Deepspawn 11 - Appeared on river (10,9) turn 26. Defeated turn 32 by King and Nivek.
+Position: 17,13
 Health: 0/3
 
 Goblin 1 - Appeared on Burnt Plains (15,14) turn 23. Defeated turn 26 by Nairi.
