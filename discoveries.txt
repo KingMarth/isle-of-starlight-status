@@ -17,14 +17,14 @@ River feature: Food
 Mana Leak feature: None
 Star Chart feature: None
 
-Mine (level 2, need a pick): 3-4 Stone, 0-2 Iron. Unclear interaction with Pick and Miner bonuses.
-[quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=44739#p44739]Turn 8[/url]"]A mine is a special cross between a terrain feature and a building. If you build a mine on a cave, it replaces the cave. No other building can be built in a hex with a mine.[/quote][quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45942#p45942]Turn 29[/url]"]Mines are a unique cross between structures and terrain features. They count as structures for connectivity purposes, and block other structures from being built. However they can't be destroyed, damaged, or repaired. You need to use a pick to benefit from a mine.[/quote]
+Mine (level 2, need a pick): Stone + (Stone or Iron)
+[quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45942#p45942]Turn 29[/url]"]Mines are a unique cross between structures and terrain features. They count as structures for connectivity purposes, and block other structures from being built. However they can't be destroyed, damaged, or repaired. You need to use a pick to benefit from a mine.[/quote][quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=46306#p46306]Rules Clarification[/url]"]Both the cave and the mine modify the resources gained from the base hex. You can benefit from all three at once.[/quote]
 
 Tower of Wreckage dungeon (9,1): None
 Beneath the Suspicious Hill dungeon (23, 19): None?
 The Acrid Burrow dungeon (19,7): None?
 
-Gatherer profession (no tool or structure): +level resource from those available in the hex, favoring building materials (Stone, Wood) over Food
+Gatherer profession (no tool or structure): +level resource from those available in the hex, you do not get to choose which. On Plains/Fruit Tree, generates +Wood. On Forest/River, generates +Wood. On Plains/Cave, generates +Food.
 Miner profession (gathering metal, stone, or gems with a pick): +level Metal/Stone/Gem
 Lumberjack profession (gathering wood with an axe): +level Wood?
 
@@ -44,10 +44,10 @@ Workshop structure: None?[/spoiler]
 [quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=44930#p44930]LoneStarNorth turn 16[/url]"]Another jackpot on a random dungeon results table. I can never seem to roll mixed results.[/quote]
 [quote="Working Theory"]When taking the Explore a Dungeon action, a d6 is rolled, which may have bonuses applied based on profession/class/dungeon-specific conditional. The result is compared to a hidden table of results. A sufficiently high result provides a 'clear' result, which is then removed from the table and replaced with a different result (which may be a new 'clear' result or just a normal result). When all 'clear' results are cleared from the table, we are informed that the dungeon is cleared.
 A randomly determined result might have another random number pass to determine how many of that result happen (e.g. on a d6, 1-3 for 1 item/monster, 4-5 for 2 items/monsters, 6 for 3 items/monsters).[/quote]
-Tower of Wreckage dungeon (9,1): (3 Wood), (3 Deepspawn), (Collapse: Ranged attack 5-5, 1 damage)
+Tower of Wreckage dungeon (9,1): (3 Wood), (Deepspawn), (2 Deepspawn), (Collapse: Ranged attack 5-5, 1 damage)
 One-time: (Mana Stone), (Shell Shield)
 
-Beneath the Suspicious Hill dungeon (23, 19): (3 Stone), (Food, Stone?), (Gem), (3 Starlight Dog)
+Beneath the Suspicious Hill dungeon (23, 19): (3 Stone), (Food, Stone?), (Gem), (Starlight Dog), (2 Starlight Dog)
 Halfling bonus?
 
 The Acrid Burrow dungeon (19,7): (2 Food)*2, (Gem), (2 Gem), (2 Wyrmling)
@@ -64,9 +64,9 @@ Along with this word (name?) comes a rush of information. Some of it may have be
 
 The explorers felt like there may be more to be learned from this star chart, as well.[/quote]
 [quote="Theory"]Each star chart requires a certain number of survivor-turns to decipher; for example, one survivor could spend five turns Studying the Stars at the chart, or five survivors could each spend one turn for the same effect. Once deciphered, all survivors gain access to whatever magic is unlocked by the star chart. Each chart has several stars which can be unlocked; each star/syllable can extend the spell?[/quote]
-Star Chart Destroyers (15,15): Studied 19/30? (unlocked Es at 5, level 2 at 15)
-Star Chart Creators (17,13): Studied 7+1/15? (unlocked At at 5)
-Star Chart Unfathomable (17,2): Studied 15+2/30? (unlocked Om at 5, level 2 at 15)
+Star Chart Destroyers (15,15): Studied 19/30? (unlocked Es at 5, level 2 at 16)
+Star Chart Creators (17,13): Studied 9+2/15? (unlocked At at 5)
+Star Chart Unfathomable (17,2): Studied 15+2/30? (unlocked Om at 5, level 2 at 17)
 
 OM
 Unfathomable
