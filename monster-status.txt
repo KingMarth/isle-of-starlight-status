@@ -98,18 +98,18 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 33
+[b]Known Creatures[/b] Last update: Turn 34
 [spoiler]Deepspawn 12 - Conjured using Wave on river (12,8) turn 27.
 Position: 17,13
 Health: 3/3
 
-Deepspawn 13/Test Subject #1 - Conjured using Wave on coast (20,1) turn 28.
-Position: 16,11
+Deepspawn 14 - Appeared on mine (11,10) turn 32.
+Position: 17,13
 Health: 2/3
 
-Deepspawn 14 - Appeared on mine (11,10) turn 32.
-Position: 13,11
-Health: 2/3
+Deepspawn 15 - Appeared on mine (11,10) turn 34.
+Position: 11,10
+Health: 3/3
 
 Husk Moth 1 - Appeared in Forest of Dust (30,10) turn 19.
 Position: ???
@@ -120,44 +120,41 @@ Position: ???
 Health: 0 damage
 
 Starlight Bison 3 - Appeared on Burnt Plains (14,6) turn 12.
-Position: ???
-Health: 5/5
+Position: 18,6
+Health: 4?/5, Sick
 
 Starlight Bison 4 - Appeared on River of Bones (18,13) turn 33.
-Position: 18,13
+Position: ???
 Health: 5/5
 
 Starlight Dog 3 - Appeared from Beneath the Suspicious Hill (23,19) turn 13.
-Position: ???
-Health: 5/5
+Position: 15,16
+Health: 4?/5
 
 Starlight Dog 4 - Appeared from Beneath the Suspicious Hill (23,19) turn 13.
-Position: ???
+Position: 15,16
 Health: 5/5
 
-Starlight Goat 2 - Appeared on Burnt Plains (11,6) turn 8.
-Position: 15,9
-Health: 2/2
+Starlight Dog 5 - Appeared on Packlands (15,16) turn 34.
+Position: 15,16
+Health: 5/5
 
 Starlight Goat 4 - Appeared on Packlands (14,15) turn 8.
 Position: ???
 Health: 2/2
 
 Starlight Goat 5 - Appeared on Packlands (12,10) turn 28.
-Position: 15,9
+Position: 15,11
 Health: 2/2
 
-Wyrmling 1 - Appeared on Burnt Plains (10,5) turn 5.
-Position: ???
-Health: 1/4
-
 Wyrmling 2 - Appeared from Acrid Burrow (19,7) turn 18.
-Position: ???
-Health: 3/4
+Position: 18,6
+Health: 3?/4
 
 Wyrmling 4 - Appeared at Acrid Burrow (19,7) turn 20.
 Position: ???
-Health: 0/4[/spoiler]
+Health: 4/4
+[/spoiler]
 
 [b]Dead Creatures[/b]
 [spoiler]Dash Asterisk  :Asad: 
@@ -205,6 +202,10 @@ Position: 11,13
 Health: 0/3
 
 Deepspawn 11 - Appeared on river (10,9) turn 26. Defeated turn 32 by King and Nivek.
+Position: 17,13
+Health: 0/3
+
+Deepspawn 13/Test Subject #1 - Conjured using Wave on coast (20,1) turn 28. Defeated turn 34 by Nivek.
 Position: 17,13
 Health: 0/3
 
@@ -258,10 +259,19 @@ Starlight Goat 1 - Appeared on Burnt Plains (11,6) turn 8. Possibly eaten by wyr
 Position: 17,5
 Health: 0/2?
 
+Starlight Goat 2 - Appeared on Burnt Plains (11,6) turn 8.
+Position: 15,11
+Health: 0/2
+
 Starlight Goat 3 - Appeared on Packlands (14,15) turn 8.
 Position: 9,13
 Health: 0/2
 
+Wyrmling 1 - Appeared on Burnt Plains (10,5) turn 5. May have died turn 26?
+Position: 17,5
+Health: 1/4 last seen
+
 Wyrmling 3 - Appeared from Acrid Burrow (19,7) turn 18.
 Position: 13,7
-Health: 0/4[/spoiler]
+Health: 0/4
+[/spoiler]
