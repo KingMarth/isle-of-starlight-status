@@ -22,19 +22,21 @@ Mine (level 2, need a pick): Stone + (Stone or Iron)
 
 Tower of Wreckage dungeon (9,1): None
 Beneath the Suspicious Hill dungeon (23, 19): None?
-The Acrid Burrow dungeon (19,7): None?
+The Acrid Burrow dungeon (19,7): None
 
 Gatherer profession (no tool or structure): +level resource from those available in the hex, you do not get to choose which. On Plains/Fruit Tree, generates +Wood. On Forest/River, generates +Wood. On Plains/Cave, generates +Food.
 Miner profession (gathering metal, stone, or gems with a pick): +level Metal/Stone/Gem
 Lumberjack profession (gathering wood with an axe): +level Wood?
 
 Stone Axe (in forest): Wood
+Iron Axe (in forest): Wood, Wood
 Stone Pick (in cave): Stone
+Iron Pick (in cave): Stone, Stone (?)
 Stone Pick (in mountain/gorge): Stone?
 
 Mana Collector structure: None?
 Mana Generator structure: None?
-Fishery structure: Food?
+Fishery structure: Food, Food
 Storehouse structure: None?
 Tavern structure: None?
 Workshop structure: None?[/spoiler]
@@ -50,7 +52,7 @@ One-time: (Mana Stone), (Shell Shield)
 Beneath the Suspicious Hill dungeon (23, 19): (3 Stone), (Food, Stone?), (Gem), (Starlight Dog), (2 Starlight Dog)
 Halfling bonus?
 
-The Acrid Burrow dungeon (19,7): (2 Food)*2, (Gem), (2 Gem), (2 Wyrmling), (Acrid Puddle: Melee attack 6-6, 1 damage + sickness)
+The Acrid Burrow dungeon (19,7): (2 Food) *3, (Gem) *2, (2 Gem), (2 Wyrmling), (Acrid Puddle: Melee attack 3-6, 1 damage + sickness) *2
 One-time: (5 Gems)?[/spoiler]
 
 [b]Star Charts[/b]
@@ -65,7 +67,7 @@ Along with this word (name?) comes a rush of information. Some of it may have be
 The explorers felt like there may be more to be learned from this star chart, as well.[/quote]
 [quote="Theory"]Each star chart requires a certain number of survivor-turns to decipher; for example, one survivor could spend five turns Studying the Stars at the chart, or five survivors could each spend one turn for the same effect. Once deciphered, all survivors gain access to whatever magic is unlocked by the star chart. Each chart has several stars which can be unlocked; each star/syllable can extend the spell?[/quote]
 Star Chart Destroyers (15,15): Studied 19/30? (unlocked Es at 5, level 2 at 16)
-Star Chart Creators (17,13): Studied 10+2/15? (unlocked At at 5)
+Star Chart Creators (17,13): Studied 11+2/15? (unlocked At at 5)
 Star Chart Unfathomable (17,2): Studied 15+2/30? (unlocked Om at 5, level 2 at 17)
 
 OM
@@ -154,7 +156,7 @@ Gaining XP: Make melee Attack rolls. Weapons are not required. Counterattacks do
 
 Class: WIZARD - Top-right pointing triangle ◹
 Bonus: Unfathomable study and all spells
-Ability: When you cast a Creator or Destroyer spell, you can spend 1 extra mana to imbue it with an Unfathomable star's power, altering the effect slightly.
+Ability: When you cast a Creator or Destroyer spell, you can spend 1 extra mana to imbue it with an Unfathomable star's power, altering the effect slightly. (Different Unfathomable stars imbue different effects.)
 Gaining XP: Study the Stars at the Unfathomable star chart or Cast a Spell using an Unfathomable star. Using the special ability [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45907#p45907]does not[/url] grant XP.[/spoiler]
 
 [b]Named Areas[/b]
