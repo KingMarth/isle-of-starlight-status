@@ -98,17 +98,17 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 35
+[b]Known Creatures[/b] Last update: Turn 36
 [spoiler]Deepspawn 12 - Conjured using Wave on river (12,8) turn 27.
-Position: 15,12
+Position: 12,10
 Health: 3/3
 
 Deepspawn 14 - Appeared on mine (11,10) turn 32.
-Position: 15,12
+Position: 12,10
 Health: 2/3
 
 Deepspawn 15 - Appeared on mine (11,10) turn 34.
-Position: 13,11
+Position: 12,10
 Health: 3/3
 
 Husk Moth 1 - Appeared in Forest of Dust (30,10) turn 19.
@@ -120,15 +120,11 @@ Position: ???
 Health: 0 damage
 
 Starlight Bison 4 - Appeared on River of Bones (18,13) turn 33.
-Position: ???
+Position: 17,14
 Health: 5/5
 
-Starlight Dog 4 - Appeared from Beneath the Suspicious Hill (23,19) turn 13.
-Position: 15,12
-Health: 4/5
-
 Starlight Dog 5 - Appeared on Packlands (15,16) turn 34.
-Position: 15,12
+Position: 15,16
 Health: 5/5
 
 Starlight Goat 4 - Appeared on Packlands (14,15) turn 8.
@@ -136,17 +132,20 @@ Position: ???
 Health: 2/2
 
 Starlight Goat 5 - Appeared on Packlands (12,10) turn 28.
-Position: ???
+Position: 12,11
 Health: 2/2
-
-Wyrmling 2 - Appeared from Acrid Burrow (19,7) turn 18.
-Position: 15,7?
-Health: 3?/4
 
 Wyrmling 4 - Appeared at Acrid Burrow (19,7) turn 20.
 Position: ???
 Health: 4/4
-[/spoiler]
+
+Wyrmling 5 - Appeared from Acrid Burrow (19,7) turn 36.
+Position: 19,7
+Health: 4/4
+
+Wyrmling 6 - Appeared from Acrid Burrow (19,7) turn 36.
+Position: 19,7
+Health: 4/4[/spoiler]
 
 [b]Dead Creatures[/b]
 [spoiler]Dash Asterisk  :Asad: 
@@ -255,6 +254,10 @@ Starlight Dog 3 - Appeared from Beneath the Suspicious Hill (23,19) turn 13. Def
 Position: 15,12
 Health: 0/5
 
+Starlight Dog 4 - Appeared from Beneath the Suspicious Hill (23,19) turn 13. Defeated turn 36 by Mintina, Tooyun Tadai, Ustvan, and Prince Marvellous.
+Position: 15,16
+Health: 0/5
+
 Starlight Goat 1 - Appeared on Burnt Plains (11,6) turn 8. Possibly eaten by wyrmlings turn 26.
 Position: 17,5
 Health: 0/2?
@@ -270,6 +273,10 @@ Health: 0/2
 Wyrmling 1 - Appeared on Burnt Plains (10,5) turn 5. May have died turn 26?
 Position: 17,5
 Health: 1/4 last seen
+
+Wyrmling 2 - Appeared from Acrid Burrow (19,7) turn 18. Defeated turn 36 by Cygnus.
+Position: 15,7
+Health: 0/4
 
 Wyrmling 3 - Appeared from Acrid Burrow (19,7) turn 18.
 Position: 13,7
