@@ -50,8 +50,10 @@ One-time: (Mana Stone), (Shell Shield)
 Beneath the Suspicious Hill dungeon (23, 19): (3 Stone), (Food, Stone?), (Gem), (Starlight Dog), (2 Starlight Dog)
 Halfling bonus?
 
-The Acrid Burrow dungeon (19,7): (2 Food) *3, (Gem) *3, (2 Gem), (2 Stone), (Wyrmling) *2, (2 Wyrmling), (Acrid Puddle: Melee attack 3-6, 1 damage + sickness) *2
-One-time: (5 Gems)?[/spoiler]
+The Acrid Burrow dungeon (19,7): (2 Food) *3, (Gem) *3, (2 Gem), (2 Stone), (Wyrmling) *3, (2 Wyrmling), (Acrid Puddle: Melee attack 3-6, 1 damage + sickness) *2
+One-time: (5 Gems)?
+
+The Gurgling Pit (16,21): ???[/spoiler]
 
 [b]Star Charts[/b]
 [spoiler][quote="Official Rules"]Study the Stars: The stars are always overhead, but just looking at them doesn't seem to reveal anything. There must be some way to learn more...[/quote][quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=44130#p44130]Turn 7[/url]"]Nivek and Dash met at the star chart obelisk and began to study it. Examining the white dots set into the black stone, they felt something reach out to their minds.
@@ -64,8 +66,8 @@ Along with this word (name?) comes a rush of information. Some of it may have be
 
 The explorers felt like there may be more to be learned from this star chart, as well.[/quote]
 [quote="Theory"]Each star chart requires a certain number of survivor-turns to decipher; for example, one survivor could spend five turns Studying the Stars at the chart, or five survivors could each spend one turn for the same effect. Once deciphered, all survivors gain access to whatever magic is unlocked by the star chart. Each chart has several stars which can be unlocked; each star/syllable can extend the spell?[/quote]
-Star Chart Destroyers (15,15): Studied 20/30? (unlocked Es at 5, level 2 at 16)
-Star Chart Creators (17,13): Studied 12+2/15? (unlocked At at 5)
+Star Chart Destroyers (15,15): Studied 21/30? (unlocked Es at 5, level 2 at 16)
+Star Chart Creators (17,13): Studied 13+2/15? (unlocked At at 5, level 2 at 15)
 Star Chart Unfathomable (17,2): Studied 15+2/30? (unlocked Om at 5, level 2 at 17)
 
 OM
@@ -223,4 +225,3 @@ To make things easier for me when reverse-engineering rules, it is appreciated i
 To-hit Probability (exact): 1/36  3/36  6/36  10/36 15/36 21/36 26/36 30/36 33/36 35/36 36/36
 To-hit Probability (%):     3%    8%    17%   28%   42%   58%   72%   83%   92%   97%   100%[/code]
 [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=44077#p44077]Proof[/url][/spoiler]
-
