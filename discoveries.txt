@@ -50,7 +50,7 @@ One-time: (Mana Stone), (Shell Shield)
 Beneath the Suspicious Hill dungeon (23, 19): (3 Stone), (Food, Stone?), (Gem), (Starlight Dog), (2 Starlight Dog)
 Halfling bonus?
 
-The Acrid Burrow dungeon (19,7): (2 Food) *3, (Gem) *3, (2 Gem), (2 Stone), (Wyrmling) *3, (2 Wyrmling), (Acrid Puddle: Melee attack 3-6, 1 damage + sickness) *2
+The Acrid Burrow dungeon (19,7): (2 Food) *3, (Gem) *4, (2 Gem), (2 Stone), (Wyrmling) *5, (2 Wyrmling), (Acrid Puddle: Melee attack 3-6, 1 damage + sickness) *2
 One-time: (5 Gems)?
 
 The Gurgling Pit (16,21): ???[/spoiler]
@@ -66,8 +66,8 @@ Along with this word (name?) comes a rush of information. Some of it may have be
 
 The explorers felt like there may be more to be learned from this star chart, as well.[/quote]
 [quote="Theory"]Each star chart requires a certain number of survivor-turns to decipher; for example, one survivor could spend five turns Studying the Stars at the chart, or five survivors could each spend one turn for the same effect. Once deciphered, all survivors gain access to whatever magic is unlocked by the star chart. Each chart has several stars which can be unlocked; each star/syllable can extend the spell?[/quote]
-Star Chart Destroyers (15,15): Studied 22/30? (unlocked Es at 5, level 2 at 16)
-Star Chart Creators (17,13): Studied 15+2/30? (unlocked At at 5, level 2 at 15)
+Star Chart Destroyers (15,15): Studied 23/30? (unlocked Es at 5, level 2 at 16)
+Star Chart Creators (17,13): Studied 16+2/30? (unlocked At at 5, level 2 at 15)
 Star Chart Unfathomable (17,2): Studied 15+2/30? (unlocked Om at 5, level 2 at 17)
 
 OM

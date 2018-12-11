@@ -98,7 +98,7 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 40
+[b]Known Creatures[/b] Last update: Turn 41
 [spoiler]Deepspawn 12 - Conjured using Wave on river (12,8) turn 27.
 Position: 17,13
 Health: 3/3
@@ -119,8 +119,12 @@ Husk Moth 2 - Appeared in Forest of Dust (30,10) turn 19.
 Position: ???
 Health: 0 damage
 
-Starlight Bison 4 - Appeared on River of Bones (18,13) turn 33.
+Starlight Bison 4 - Appeared on River of Bones (18,13) turn 33. Reappeared on Packlands (8,8) turn 41.
 Position: ???
+Health: 5/5
+
+Starlight Bison 5 - Appeared on Packlands (8,8) turn 41.
+Position: 8,8
 Health: 5/5
 
 Starlight Dog 5 - Appeared on Packlands (15,16) turn 34.
@@ -128,15 +132,27 @@ Position: ???
 Health: 5/5
 
 Starlight Goat 4 - Appeared on Packlands (14,15) turn 8.
-Position: 9,12
+Position: 10,13
 Health: 2/2
 
 Starlight Goat 5 - Appeared on Packlands (12,10) turn 28.
-Position: ???
+Position: 11,9
+Health: 2/2
+
+Starlight Goat 6 - Appeared on River of Bones (11,9) turn 41.
+Position: 11,9
 Health: 2/2
 
 Wyrmling 4 - Appeared at Acrid Burrow (19,7) turn 20.
 Position: ???
+Health: 4/4
+
+Wyrmling 8 - Appeared at Acrid Burrow (19,7) turn 41.
+Position: 19,7
+Health: 4/4
+
+Wyrmling 9 - Appeared at Acrid Burrow (19,7) turn 41.
+Position: 19,7
 Health: 4/4[/spoiler]
 
 [b]Dead Creatures[/b]
