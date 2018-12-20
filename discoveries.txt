@@ -17,8 +17,8 @@ River feature: Food
 Mana Leak feature: None
 Star Chart feature: None
 
-Mine (level 2, need a pick): Stone + (Stone or Iron)
-[quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45942#p45942]Turn 29[/url]"]Mines are a unique cross between structures and terrain features. They count as structures for connectivity purposes, and block other structures from being built. However they can't be destroyed, damaged, or repaired. You need to use a pick to benefit from a mine.[/quote][quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=46306#p46306]Rules Clarification[/url]"]Both the cave and the mine modify the resources gained from the base hex. You can benefit from all three at once.[/quote]
+Mine (level 2, need a pick): Stone + (Stone or Iron) on average
+[quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45942#p45942]Turn 29[/url]"]Mines are a unique cross between structures and terrain features. They count as structures for connectivity purposes, and block other structures from being built. However they can't be destroyed, damaged, or repaired. You need to use a pick to benefit from a mine.[/quote][quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=46306#p46306]Rules Clarification[/url]"]Both the cave and the mine modify the resources gained from the base hex. You can benefit from all three at once.[/quote][quote="Working Theory"]Mines have a table of possible results much like Dungeons. On a Gather action using a Pick, in addition to the regular effects of the hex a d6 is rolled and compared to the table for the Mine of the given level. The resulting resources are added to the outcome of the Gather action; there is no chance of spawning monsters or triggering hazards.[/quote]
 
 Tower of Wreckage dungeon (9,1): None
 Beneath the Suspicious Hill dungeon (23, 19): None?
@@ -66,8 +66,8 @@ Along with this word (name?) comes a rush of information. Some of it may have be
 
 The explorers felt like there may be more to be learned from this star chart, as well.[/quote]
 [quote="Theory"]Each star chart requires a certain number of survivor-turns to decipher; for example, one survivor could spend five turns Studying the Stars at the chart, or five survivors could each spend one turn for the same effect. Once deciphered, all survivors gain access to whatever magic is unlocked by the star chart. Each chart has several stars which can be unlocked; each star/syllable can extend the spell?[/quote]
-Star Chart Destroyers (15,15): Studied 23/30? (unlocked Es at 5, level 2 at 16)
-Star Chart Creators (17,13): Studied 16+2/30? (unlocked At at 5, level 2 at 15)
+Star Chart Destroyers (15,15): Studied 26+1/30? (unlocked Es at 5, level 2 at 16)
+Star Chart Creators (17,13): Studied 17+2/30? (unlocked At at 5, level 2 at 15)
 Star Chart Unfathomable (17,2): Studied 15+2/30? (unlocked Om at 5, level 2 at 17)
 
 OM
