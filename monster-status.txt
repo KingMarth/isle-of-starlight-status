@@ -3,7 +3,7 @@
 Max Health: 3
 Items:
 Conditions: Aquatic - Ignores difficult terrain from River. Improved movement when adjacent to river/coast?
-Movement: 3-4
+Movement: 2-4
 Melee Attack Bonus: +1 (2-7)
 Damage: 1
 Defense Bonus: +1 (2-7)
@@ -14,10 +14,19 @@ Max Health: 1
 Items:
 Conditions: Thieves: Can use an action to take items from a structure (survivor?); can use equipment like survivors.
 Movement: 3
-Melee Attack Bonus: ??? (3-5), 1 damage
+Melee Attack Bonus: ??? (3-5), 1 damage. +1? (3-7) using Wood Spears
 Ranged Attack Bonus: ??? (4-7) Using +1 ranged weapons (Wood/Stone Spears)
 Defense Bonus: +2 (3-8)
 Personality: Travels in packs
+
+Black Goblin
+Max Health: 2?
+Items:
+Conditions: ???
+Movement: 3?
+Melee Attack Bonus: +2? (8-8) using Wood Spears
+Defense Bonus: +2?
+Personality: Travels with Goblins
 
 Hobgoblin
 Max Health: 2?
@@ -81,7 +90,7 @@ Starlight Goat
 Max Health: 2
 Items: Food, Leather
 Conditions: Non-Hostile
-Movement: 3
+Movement: 4
 Melee Attack Bonus: +1? (3-7)
 Damage: 1
 Defense Bonus: +1? (3-7)
@@ -98,22 +107,26 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 42
+[b]Known Creatures[/b] Last update: Turn 43
 [spoiler]Deepspawn 12 - Conjured using Wave on river (12,8) turn 27.
-Position: 17,11? (Last seen 17,13)
+Position: 17,9 (from 17,11?)
 Health: 3/3
 
 Deepspawn 14 - Appeared on mine (11,10) turn 32.
-Position: 17,11?
+Position: 17,9
 Health: 2/3
 
 Deepspawn 15 - Appeared on mine (11,10) turn 34.
-Position: 17,11?
+Position: 17,9
 Health: 3/3
 
-Goblins 5-11 - Sighted on Packlands along (18,14)-(22,18) turn 42.
-Position: ???
+Goblins 5-10 - Sighted on Packlands along (18,14)-(22,18) turn 42.
+Position: 15,15
 Health: 1 each
+
+Black Goblin 1 - Confirmed on Packlands at (15,15) turn 43.
+Position: 15,15
+Health: 0 damage
 
 Husk Moth 1 - Appeared in Forest of Dust (30,10) turn 19.
 Position: ???
@@ -123,16 +136,16 @@ Husk Moth 2 - Appeared in Forest of Dust (30,10) turn 19.
 Position: ???
 Health: 0 damage
 
-Starlight Bison 4 - Appeared on River of Bones (18,13) turn 33. Reappeared on Packlands (8,8) turn 41.
+Starlight Bison 4 - Appeared on River of Bones (18,13) turn 33.
 Position: ???
 Health: 5/5
 
 Starlight Bison 5 - Appeared on Packlands (8,8) turn 41.
-Position: 8,6
+Position: 11,7 (from 8,6)
 Health: 5/5
 
 Starlight Crab 2 - Appeared on River of Bones (11,9) turn 42.
-Position: 11,9
+Position: 14,8 (from 11,9)
 Health: 4/4
 
 Starlight Dog 5 - Appeared on Packlands (15,16) turn 34.
@@ -140,29 +153,26 @@ Position: ???
 Health: 5/5
 
 Starlight Goat 4 - Appeared on Packlands (14,15) turn 8.
-Position: 10,13
+Position: 10,13 (from 10,13)
 Health: 2/2
 
 Starlight Goat 6 - Appeared on River of Bones (11,9) turn 41.
-Position: 9,7
+Position: 13,6 (from 9,7)
 Health: 2/2
 
 Wyrmling 4 - Appeared at Acrid Burrow (19,7) turn 20.
 Position: ???
 Health: 4/4
 
-Wyrmling 8 - Appeared at Acrid Burrow (19,7) turn 41.
-Position: 19,7
-Health: 2/4
-
 Wyrmling 9 - Appeared at Acrid Burrow (19,7) turn 41.
-Position: 19,7
-Health: 4/4[/spoiler]
+Position: 19,7 (from 19,17)
+Health: 3/4[/spoiler]
 
 [b]Dead Creatures[/b]
 [spoiler]Dash Asterisk  :Asad: 
 Tentoes  :Ascared:
 Cade Seahater  :Agrumpy: 
+Prince Marvelous :Amad: 
 
 Deepspawn 1 - Arrived at tree (11,15) turn 3. Defeated turn 5, killing blow by Atlas.
 Position: 11,15
@@ -308,4 +318,8 @@ Health: 0/4
 
 Wyrmling 7 - Appeared from Acrid Burrow (19,7) turn 38. Defeated turn 40 by Alky, Aelysius, Syril.
 Position: 19,7
-Health: -1/4[/spoiler]
+Health: -1/4
+
+Wyrmling 8 - Appeared at Acrid Burrow (19,7) turn 41. Defeated turn 43 by Nivek.
+Position: 19,7
+Health: 0/4[/spoiler]
