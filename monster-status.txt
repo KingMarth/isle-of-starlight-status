@@ -11,7 +11,7 @@ Personality: Follows other monsters. As a group, they attack separate targets, u
 
 Goblin
 Max Health: 1
-Items:
+Items: (carried equipment)
 Conditions: Thieves: Can use an action to take items from a structure (survivor?); can use equipment like survivors.
 Movement: 3
 Melee Attack Bonus: ??? (3-5), 1 damage. +1? (3-7) using Wood Spears
@@ -20,12 +20,12 @@ Defense Bonus: +2 (3-8)
 Personality: Travels in packs
 
 Black Goblin
-Max Health: 2?
-Items:
-Conditions: ???
+Max Health: 2
+Items: (carried equipment)
+Conditions: Warlord: Provides 'fervor' to Goblins (in the same hex?). Theory: +1 to Melee accuracy
 Movement: 3?
 Melee Attack Bonus: +2? (8-8) using Wood Spears
-Defense Bonus: +2?
+Defense Bonus: +2? (5-6)
 Personality: Travels with Goblins
 
 Hobgoblin
@@ -107,26 +107,22 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 43
+[b]Known Creatures[/b] Last update: Turn 44
 [spoiler]Deepspawn 12 - Conjured using Wave on river (12,8) turn 27.
-Position: 17,9 (from 17,11?)
+Position: 18,7 (from 17,9)
 Health: 3/3
 
 Deepspawn 14 - Appeared on mine (11,10) turn 32.
-Position: 17,9
+Position: 18,7
 Health: 2/3
 
 Deepspawn 15 - Appeared on mine (11,10) turn 34.
-Position: 17,9
+Position: 18,7
 Health: 3/3
 
 Goblins 5-10 - Sighted on Packlands along (18,14)-(22,18) turn 42.
-Position: 15,15
+Position: 15,15 (from 15,15)
 Health: 1 each
-
-Black Goblin 1 - Confirmed on Packlands at (15,15) turn 43.
-Position: 15,15
-Health: 0 damage
 
 Husk Moth 1 - Appeared in Forest of Dust (30,10) turn 19.
 Position: ???
@@ -141,23 +137,23 @@ Position: ???
 Health: 5/5
 
 Starlight Bison 5 - Appeared on Packlands (8,8) turn 41.
-Position: 11,7 (from 8,6)
+Position: ??? (from 11,7 turn 43)
 Health: 5/5
 
 Starlight Crab 2 - Appeared on River of Bones (11,9) turn 42.
-Position: 14,8 (from 11,9)
-Health: 4/4
+Position: 11,9 (from 14,8)
+Health: 2/4
 
 Starlight Dog 5 - Appeared on Packlands (15,16) turn 34.
 Position: ???
 Health: 5/5
 
 Starlight Goat 4 - Appeared on Packlands (14,15) turn 8.
-Position: 10,13 (from 10,13)
+Position: ??? (from 10,13 turn 43)
 Health: 2/2
 
 Starlight Goat 6 - Appeared on River of Bones (11,9) turn 41.
-Position: 13,6 (from 9,7)
+Position: 17,6 (from 13,6)
 Health: 2/2
 
 Wyrmling 4 - Appeared at Acrid Burrow (19,7) turn 20.
@@ -166,7 +162,7 @@ Health: 4/4
 
 Wyrmling 9 - Appeared at Acrid Burrow (19,7) turn 41.
 Position: 19,7 (from 19,17)
-Health: 3/4[/spoiler]
+Health: 1/4[/spoiler]
 
 [b]Dead Creatures[/b]
 [spoiler]Dash Asterisk  :Asad: 
@@ -221,6 +217,10 @@ Health: 0/3
 Deepspawn 13/Test Subject #1 - Conjured using Wave on coast (20,1) turn 28. Defeated turn 34 by Nivek.
 Position: 17,13
 Health: 0/3
+
+Black Goblin 1 - Confirmed on Packlands at (15,15) turn 43. Defeated turn 44 by Tooyun Tadai, Khrain.
+Position: 15,15
+Health: 0/2
 
 Goblin 1 - Appeared on Burnt Plains (15,14) turn 23. Defeated turn 26 by Nairi.
 Position: 10,10
