@@ -107,7 +107,7 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 46
+[b]Known Creatures[/b] Last update: Turn 47
 [spoiler]Deepspawn 12 - Conjured using Wave on river (12,8) turn 27.
 Position: 19,7 (from 19,7)
 Health: 3/3
@@ -121,7 +121,11 @@ Position: 19,7
 Health: 3/3
 
 Deepspawn 16 - Appeared on fruit trees (17,8) turn 46.
-Position: 17,8
+Position: 19,7 (from 17,8)
+Health: 3/3
+
+Deepspawn 17-20 - Appeared from Gurgling Pit (16,21) turn 47.
+Position: 16,21 (dungeon spawn)
 Health: 3/3
 
 Husk Moth 1 - Appeared in Forest of Dust (30,10) turn 19.
@@ -141,7 +145,7 @@ Position: ??? (from 11,7 turn 43)
 Health: 5/5
 
 Starlight Crab 2 - Appeared on River of Bones (11,9) turn 42.
-Position: 13,7? (from 10,9 turn 45)
+Position: 16,11 (from 10,9 turn 45)
 Health: 2/4
 
 Starlight Dog 5 - Appeared on Packlands (15,16) turn 34.
@@ -149,7 +153,7 @@ Position: ???
 Health: 5/5
 
 Starlight Goat 4 - Appeared on Packlands (14,15) turn 8.
-Position: 14,11 (from 14,13)
+Position: 11,12 (from 14,11)
 Health: 1/2
 
 Starlight Goat 6 - Appeared on River of Bones (11,9) turn 41.
