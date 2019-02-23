@@ -67,7 +67,7 @@ Along with this word (name?) comes a rush of information. Some of it may have be
 The explorers felt like there may be more to be learned from this star chart, as well.[/quote]
 [quote="Theory"]Each star chart requires a certain number of survivor-turns to decipher; for example, one survivor could spend five turns Studying the Stars at the chart, or five survivors could each spend one turn for the same effect. Once deciphered, all survivors gain access to whatever magic is unlocked by the star chart. Each chart has several stars which can be unlocked; each star/syllable can extend the spell?[/quote]
 Star Chart Destroyers (15,15): Studied 28+2/30 (unlocked Es at 5, level 2 at 16, level 3 at 30)
-Star Chart Creators (17,13): Studied 17+2/30 (unlocked At at 5, level 2 at 15)
+Star Chart Creators (17,13): Studied 19+4/30 (unlocked At at 5, level 2 at 15)
 Star Chart Unfathomable (17,2): Studied 15+2/30 (unlocked Om at 5, level 2 at 17)
 
 OM
@@ -96,11 +96,7 @@ Impassable Terrain: Impassable hexes can be entered, but doing so ends your move
 By performing certain actions, a character can unlock both a profession (which improves their survival and crafting abilities) and a class (which improves their combat and spellcasting). Each character can have only one profession and one class, and cannot change once they pick one. Each profession and class grants a unique ability or benefit in addition to a bonus to certain actions.
 
 By continuing to perform actions associated with their profession and class, a character can gain additional levels, improving their bonus, up to level 3.[/quote]
-[quote="Working Theory"]Certain acts allow you to gain experience in a Profession or Class (usually taking Actions, though the Knight gains experience through being attacked). On gaining 5 experience you unlock a Profession/Class. On gaining 15 experience total for a Profession/Class (the 5 to get level 1, plus 10 more), you level up to rank 2. To gain rank 3, you need 30? total experience (5 for level 1, +10 for level 2, +15 for level 3). Experience is tracked separately for each Profession/Class, and once you choose a Profession your experience with all other Professions is set to 0 and cannot increase; the same applies for Classes. You can progress in only one Profession and one Class.[/quote]
-
-Five actions without profession:
-Explore a Dungeon (King)
-Extra Move (Cygnus)
+[quote="Working Theory"]Certain acts allow you to gain experience in a Profession or Class (usually taking Actions, though the Knight gains experience through being attacked). On gaining 5 experience you unlock a Profession/Class. On gaining 15 experience total for a Profession/Class (the 5 to get level 1, plus 10 more), you level up to rank 2. To gain rank 3, you need 30 total experience (5 for level 1, +10 for level 2, +15 for level 3). Experience is tracked separately for each Profession/Class, and once you choose a Profession your experience with all other Professions is set to 0 and cannot increase; the same applies for Classes. You can progress in only one Profession and one Class.[/quote]
 
 Professions change the color of your survivor dot on the minimap (default white) and the color of your survivor clothing in closeups. Classes change the shape of your survivor dot on the minimap and the style of your survivor clothing in closeups. [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=46562#p46562]Closeups contributed by GathersIngredients[/url].
 
@@ -108,6 +104,11 @@ Profession: ARCHITECT - [color=#3a44ba]Blue[/color] [img]https://image.ibb.co/hz
 Bonus: Building and repairing structures (+1/level HP per action, so 2 HP/Build at level 1)
 Ability: You can repair structures up to 50% above their normal maximum health.
 Gaining XP: Perform the Build/Repair action (including designating new structures, adding materials, and adding structure HP).
+
+FARMER
+Bonus: Gathering food from farms, fisheries, orchards, or animals
+Ability: You can try to tame a wild beast. This action succeeds on a roll of 5 or 6. If you fail, the beast might attack you.
+Gaining XP: Perform the Gather action using one of the listed structures or using an animal. The Taming action does not grant XP.
 
 Profession: GATHERER - [color=#007700]Green[/color] [img]https://image.ibb.co/k5HqgL/Colour-Gatherer.png[/img]
 Bonus: Gathering resources without a tool or structure

@@ -59,7 +59,7 @@ Personality: Doesn't like to move. Attracts Deepspawn (see Bile of the Deep).
 Starlight Bison
 Max Health: 5
 Items: 4 Food, 3 Leather
-Conditions: Non-hostile: Does not initiate combat with Survivors.
+Conditions: Non-hostile: Does not initiate combat with Survivors. Beast: Normal animal, can be tamed by Farmers.
 Movement: 3?
 Melee Attack Bonus: +2? 4-8
 Damage: 1
@@ -69,7 +69,7 @@ Personality: ???
 Starlight Crab
 Max Health: 4
 Items: Food, Food, Leather, Leather
-Conditions: Aquatic
+Conditions: Aquatic, Beast
 Movement: 4
 Melee Attack Bonus: +2 (3-8)
 Damage: 1
@@ -79,7 +79,7 @@ Personality: Uses hit-and-run tactics. Travels along the river to prevent attack
 Starlight Dog
 Max Health: 5
 Items: Food, Food, Food, Leather
-Conditions: ???
+Conditions: Beast
 Movement: 4
 Melee Attack Bonus: +3 (4-9)
 Damage: 1
@@ -89,7 +89,7 @@ Personality: Runs when injured and outnumbered, follows other dogs to attack the
 Starlight Goat
 Max Health: 2
 Items: Food, Leather
-Conditions: Non-Hostile
+Conditions: Non-Hostile, Beast
 Movement: 4
 Melee Attack Bonus: +1? (3-7)
 Damage: 1
@@ -107,25 +107,25 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 47
+[b]Known Creatures[/b] Last update: Turn 48
 [spoiler]Deepspawn 12 - Conjured using Wave on river (12,8) turn 27.
-Position: 19,7 (from 19,7)
+Position: 17,9 (from 19,7)
 Health: 3/3
 
 Deepspawn 14 - Appeared on mine (11,10) turn 32.
-Position: 19,7
-Health: 2/3
+Position: 17,9
+Health: 1/3
 
 Deepspawn 15 - Appeared on mine (11,10) turn 34.
-Position: 19,7
+Position: 17,9
 Health: 3/3
 
 Deepspawn 16 - Appeared on fruit trees (17,8) turn 46.
-Position: 19,7 (from 17,8)
+Position: 17,9
 Health: 3/3
 
-Deepspawn 17-20 - Appeared from Gurgling Pit (16,21) turn 47.
-Position: 16,21 (dungeon spawn)
+Deepspawn 19-20 - Appeared from Gurgling Pit (16,21) turn 47.
+Position: 16,19 (from 16,21)
 Health: 3/3
 
 Husk Moth 1 - Appeared in Forest of Dust (30,10) turn 19.
@@ -145,16 +145,12 @@ Position: ??? (from 11,7 turn 43)
 Health: 5/5
 
 Starlight Crab 2 - Appeared on River of Bones (11,9) turn 42.
-Position: 16,11 (from 10,9 turn 45)
+Position: 15,12 (from 16,11)
 Health: 2/4
 
 Starlight Dog 5 - Appeared on Packlands (15,16) turn 34.
 Position: ???
 Health: 5/5
-
-Starlight Goat 4 - Appeared on Packlands (14,15) turn 8.
-Position: 11,12 (from 14,11)
-Health: 1/2
 
 Starlight Goat 6 - Appeared on River of Bones (11,9) turn 41.
 Position: ??? (from 17,6 turn 45)
@@ -216,6 +212,14 @@ Health: 0/3
 
 Deepspawn 13/Test Subject #1 - Conjured using Wave on coast (20,1) turn 28. Defeated turn 34 by Nivek.
 Position: 17,13
+Health: 0/3
+
+Deepspawn 17 - Appeared from Gurgling Pit (16,21) turn 47. Oneshot turn 48 by King "Lord" Baron.
+Position: 16,19 (from 16,21)
+Health: 0/3
+
+Deepspawn 18 - Appeared from Gurgling Pit (16,21) turn 47. Defeated turn 48 by Sharkbait, Zeiss.
+Position: 16,19 (from 16,21)
 Health: 0/3
 
 Black Goblin 1 - Confirmed on Packlands at (15,15) turn 43. Defeated turn 44 by Tooyun Tadai, Khrain.
@@ -295,6 +299,10 @@ Health: 0/2
 Starlight Goat 3 - Appeared on Packlands (14,15) turn 8.
 Position: 9,13
 Health: 0/2
+
+Starlight Goat 4 - Appeared on Packlands (14,15) turn 8. Hunted turn 48 by Lucian Valentini.
+Position: 8,8 (from 11,12)
+Health: -1/2
 
 Starlight Goat 5 - Appeared on Packlands (12,10) turn 28. Hunted turn 42 by Jazen.
 Position: 9,7
