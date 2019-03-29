@@ -70,8 +70,8 @@ Along with this word (name?) comes a rush of information. Some of it may have be
 The explorers felt like there may be more to be learned from this star chart, as well.[/quote]
 [quote="Theory"]Each star chart requires a certain number of survivor-turns to decipher; for example, one survivor could spend five turns Studying the Stars at the chart, or five survivors could each spend one turn for the same effect. Once deciphered, all survivors gain access to whatever magic is unlocked by the star chart. Each chart has several stars which can be unlocked; each star/syllable can extend the spell?[/quote]
 Star Chart Destroyers (15,15): Studied 28+2/30 (unlocked Es at 5, level 2 at 16, level 3 at 30)
-Star Chart Creators (17,13): Studied 21+4/30 (unlocked At at 5, level 2 at 15)
-Star Chart Unfathomable (17,2): Studied 17+4/30 (unlocked Om at 5, level 2 at 17)
+Star Chart Creators (17,13): Studied 22+4/30 (unlocked At at 5, level 2 at 15)
+Star Chart Unfathomable (17,2): Studied 18+5/30 (unlocked Om at 5, level 2 at 17)
 
 OM
 Unfathomable
