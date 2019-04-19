@@ -56,7 +56,7 @@ Halfling bonus?
 The Acrid Burrow dungeon (19,7): (2 Food) *3, (Gem) *4, (2 Gem), (2 Stone), (Wyrmling) *5, (2 Wyrmling), (Acrid Puddle: Melee attack +2 3-8, 1 damage + sickness) *3
 One-time: (5 Gems)?, (Mana Stone)
 
-The Gurgling Pit (16,21): (Gem) *2, (2 Stone 2 Wood) *1, (2 Deepspawn) *3, (1 Starlight Crab) *2[/spoiler]
+The Gurgling Pit (16,21): (3 Food) *1, (Gem) *2, (2 Stone 2 Wood) *2, (2 Deepspawn) *3, (1 Starlight Crab) *2[/spoiler]
 
 [b]Star Charts[/b]
 [spoiler][quote="Official Rules"]Study the Stars: The stars are always overhead, but just looking at them doesn't seem to reveal anything. There must be some way to learn more...[/quote][quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=44130#p44130]Turn 7[/url]"]Nivek and Dash met at the star chart obelisk and began to study it. Examining the white dots set into the black stone, they felt something reach out to their minds.
@@ -69,9 +69,10 @@ Along with this word (name?) comes a rush of information. Some of it may have be
 
 The explorers felt like there may be more to be learned from this star chart, as well.[/quote]
 [quote="Theory"]Each star chart requires a certain number of survivor-turns to decipher; for example, one survivor could spend five turns Studying the Stars at the chart, or five survivors could each spend one turn for the same effect. When a casting class studies at their matching star chart, they contribute an additional number of survivor-turns towards study equal to their class level. Once deciphered, all survivors gain access to whatever magic is unlocked by the star chart. Each chart has several stars which can be unlocked; each star/syllable can extend the spell?[/quote]
-Star Chart Destroyers (15,15): Studied 28+2/30 (unlocked Es at 5, level 2 at 16, level 3 at 30)
-Star Chart Creators (17,13): Studied 22+4/30 (unlocked At at 5, level 2 at 15)
-Star Chart Unfathomable (17,2): Studied 19+6/30 (unlocked Om at 5, level 2 at 17)
+Star Chart Destroyers ES (15,15): Studied 28+2/30 (unlocked Es at 5, level 2 at 16, level 3 at 30)
+Star Chart Destroyers ??? (31,19): New.
+Star Chart Creators AT (17,13): Studied 22+4/30 (unlocked At at 5, level 2 at 15)
+Star Chart Unfathomable OM (17,2): Studied 20+7/30 (unlocked Om at 5, level 2 at 17)
 
 OM
 Unfathomable
@@ -112,6 +113,11 @@ FARMER - [color=#e8e800]Yellow[/color] [img]https://i.ibb.co/YdNZVT8/Colour-Farm
 Bonus: Gathering food from farms, fisheries, orchards, or animals
 Ability: You can try to tame a wild beast. This action succeeds on a roll of 5 or 6. If you fail, the beast might attack you.
 Gaining XP: Perform the Gather action using one of the listed structures or using an animal. The Taming action does not grant XP (?).
+[quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=47339#p47339]LoneStarNorth[/url]"]Hey, you unlocked the final profession finally! Let me explain how tame animals work.
+
+A tame animal becomes a follower. Each survivor can have only one follower at a time. Certain buildings can also have one follower stationed at them (dependent on the type of follower). Followers don't act independently as creatures, they instead give the survivor or building a bonus. Followers that end up unattended (such as if their survivor dies) will return to being NPCs.
+
+Also note that "beast" in the context of the farmer is a specific type of NPC and not all enemies can be tamed. Think of real animals rather than dragons and monsters.[/quote]
 
 Profession: GATHERER - [color=#007700]Green[/color] [img]https://image.ibb.co/k5HqgL/Colour-Gatherer.png[/img]
 Bonus: Gathering resources without a tool or structure
@@ -130,7 +136,7 @@ Gaining XP: Perform the Gather action with a pick, actually using the pick to ga
 
 Profession: SMITH - [color=#8a0000]Dark red[/color] (darker than enemies which are more [color=#FF0000]bright red[/color], like area boundaries) [img]https://image.ibb.co/n4B5Ff/Colour-Smith.png[/img]
 Bonus: Crafting weapons, tools, and armour
-[quote="LoneStarNorth"]The Smith bonus is a little weird compared to the other professions, so I'll go ahead and explain it. It means you use fewer resources when crafting items. Similar to a Gatherer on a hex with multiple resources, though, you don't get to pick which resources you save. You always need at minimum one of each resources used. So your bonus wouldn't help you when crafting a Stone Axe, for example.[/quote]Ability: You can create a Masterwork, a more powerful weapon, shield, or armour than normal. The power of the Masterwork is based on your Smith level. You can only do this once.
+[quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45184#p45184]LoneStarNorth[/url]"]The Smith bonus is a little weird compared to the other professions, so I'll go ahead and explain it. It means you use fewer resources when crafting items. Similar to a Gatherer on a hex with multiple resources, though, you don't get to pick which resources you save. You always need at minimum one of each resources used. So your bonus wouldn't help you when crafting a Stone Axe, for example.[/quote]Ability: You can create a Masterwork, a more powerful weapon, shield, or armour than normal. The power of the Masterwork is based on your Smith level. You can only do this once.
 Gaining XP: Craft weapons/tools/armour.
 
 
@@ -166,19 +172,16 @@ Ability: When you cast a Creator or Destroyer spell, you can spend 1 extra mana 
 Gaining XP: Study the Stars at the Unfathomable star chart or Cast a Spell using an Unfathomable star. Using the special ability [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45907#p45907]does not[/url] grant XP.[/spoiler]
 
 [b]Named Areas[/b]
-[spoiler][quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45810#p45810]Tygerion[/url]"]Hey, just cloned the current map, and added labels for all known "zones".
-[img]https://cdn1.imggmi.com/uploads/2018/8/16/5c78842c0e4f5c0855e52ca986865cf8-full.png[/img][/quote]1 - Castaway Coast ([url=http://willsaveworldforgold.com/forum/viewtopic.php?p=43637#p43637]turn 1[/url])
+[spoiler][img]https://cdn1.imggmi.com/uploads/2019/4/13/e5189070626ea13863d33aeb8430e565-full.png[/img]
+1 - Castaway Coast ([url=http://willsaveworldforgold.com/forum/viewtopic.php?p=43637#p43637]turn 1[/url])
 2 - Packlands (turn 1)
 3 - Black Plains (turn 1)
 4 - River of Bones ([url=http://willsaveworldforgold.com/forum/viewtopic.php?p=43722#p43722]turn 2[/url])
 5 - Forest of Dust ([url=http://willsaveworldforgold.com/forum/viewtopic.php?p=44312#p44312]turn 9[/url])
 6 - Wyrmpeak ([url=http://willsaveworldforgold.com/forum/viewtopic.php?p=44833#p44833]turn 15[/url])
 7 - Frogwood ([url=http://willsaveworldforgold.com/forum/viewtopic.php?p=44482#p44482]turn 11[/url])
-Gazemount ([url=http://willsaveworldforgold.com/forum/viewtopic.php?p=46860#p46860]turn 40[/url])
-The Glass Furnace ([url=http://willsaveworldforgold.com/forum/viewtopic.php?p=47587#p47587]turn 52[/url])
-
-The red lines are to indicate named areas; we have (Turn 1) the Castaway Coast, the River of Bones, the Black Plain, the Packlands, (Turn 9) the Forest of Dust, and (turn 15) Wyrmpeak. [s]Nice catch how thus far there has been at most one mana leak and dungeon each per area.[/s]
-
+8 - Gazemount ([url=http://willsaveworldforgold.com/forum/viewtopic.php?p=46860#p46860]turn 40[/url])
+9 - The Glass Furnace ([url=http://willsaveworldforgold.com/forum/viewtopic.php?p=47587#p47587]turn 52[/url])
 [quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=46278#p46278]Turn 33[/url]"]Fully exploring an area reveals the points where enemies can spawn. If a spawn point is in sight at the end of the turn, no creature can spawn there. Dungeons, of course, aren't limited in this way.
 
 Additionally, when you use an action to move, you can move up to three hexes instead of just 1 (though you'll stop moving if you enter difficult/impassable terrain or an area that is not fully explored).[/quote][/spoiler]
@@ -206,8 +209,8 @@ The order in which events happen during a turn is important. First, everyone mov
 [*]Dropping an item is also a maintenance action. [i][b]You cannot drop an item and then move.[/b][/i]
 [*]You also cannot take an action and then move. [i][b]You must end your turn in the same hex where you take an action.[/b][/i] This is to prevent attacking and running away, though you can run away and attack anything that pursues you.
 [*]If your turn depends on ending in the same hex as something that can move (attacking a monster or trading with a survivor), you should strongly consider declaring that you Follow your target.
-[*]You [i][b]cannot[/b][/i] craft an item using items another player (or structure, like the Storehouse) has, or using items on the ground. [i][b]You must start your turn with items in inventory in order to craft using them.[/b][/i] The same applies to building.
-[*]Putting resources towards building [i][b]requires the build action[/b][/i]. While dropping items on a hex can be done during maintenance, loose items are not part of a structure. Once items are built into a structure, they cannot be recovered.
+[*]You [i][b]cannot[/b][/i] craft an item using items another player (or structure, like the Storehouse) has, or using items on the ground. [i][b]You must start your turn with items in inventory in order to craft using them.[/b][/i] The same applies to building. EXCEPTION: You can use items in Workshops within 3 connected hexes to Craft, though not to Build.
+[*]Putting resources towards building [i][b]requires the Build action[/b][/i]. While dropping items on a hex can be done during maintenance, loose items are not part of a structure. Once items are built into a structure, they cannot be recovered.
 [*]If you obtain more items than you can carry, you drop the surplus on the ground. [i][b]If you might gain more items than you can carry, say what items you want in your inventory at end of turn.[/b][/i] Otherwise, you might not be able to do what you want next turn. Dropping and picking up items are both maintenance actions, so you can generally choose what your inventory will look like out of all the items you are carrying and those loose in your hex.
 [*]Picking up loose items happens during maintenance. [i][b]Loose items do not appear spontaneously, they must be dropped by a survivor or monster.[/b][/i] You do not need to always say you are picking up loose items.
 [*]Loose items are destroyed after two full turns on the ground: If I drop an item during turn 5, then it is loose at the start of turn 6, it is still available at the start of turn 7, but it vanishes at the start of turn 8. [i][b]If a loose item is marked with an asterisk (*), then it will vanish at the start of next turn.[/b][/i]
@@ -218,7 +221,8 @@ The order in which events happen during a turn is important. First, everyone mov
 [*]All non-combat, non-Spell actions are resolved after combat. For example, the Repair action will restore HP to a structure after combat has happened, so you can Repair damage dealt to a structure on the turn that the structure is damaged (and if a structure is already damaged, you [i][b]cannot[/b][/i] Repair it before it is Attacked on the same turn).
 [*]When deciding how to Attack: If all else is equal, take a faster attack (e.g. the Wood Spear has a +1 Melee attack for 1 damage and a +1 Ranged attack for 1 damage; only take a Melee attack if you want experience towards the Warrior class). However, attack speed doesn't always matter. If the weakest monster you might Attack has more hit points left than the total amount of damage all survivors in the area could deal with Ranged attacks, then it does not matter whether you take a Ranged or Melee attack since it is impossible to kill the monster before it takes a Melee attack. Similarly, if you are fighting a monster with Ranged or Spell attacks, then it doesn't matter if your attack is slower (because if you are in danger of death you should be getting out of there instead of attacking). In these cases, a weapon like the Stone Spear (+2 Melee vs +1 Ranged) should be used in Melee to increase the effectiveness of your attack.
 [*]Remember that anyone can play any character. While it'll likely be assumed that any action you post will apply to a character you've consistently played even if you don't specify, you should always clearly state which character you are controlling on a given turn.
-[*]Mana is first-come, first-served; the first character to post using the Cast a Spell action will be the one to use mana for the turn. Mana cannot be stockpiled between turns (unless some future structure allows that...).[/list]
+[*]Mana is first-come, first-served; the first character to post using the Cast a Spell action will be the one to use mana for the turn. Mana cannot be stockpiled between turns (unless some future structure allows that...).
+[*]Study the Stars does not seem to have any effect when not on a Star Chart.[/list]
 
 To reduce mistakes and make things easier for LoneStarNorth, the following format is recommended at the end of your post:
 [quote]Movement:

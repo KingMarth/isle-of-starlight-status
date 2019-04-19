@@ -13,17 +13,17 @@ Eye Beast
 Max Health: 8?
 Items: ???
 Conditions: ???
-Movement: ???
-Melee Attack Bonus: +6? (12-12)
+Movement: 3?
+Melee Attack Bonus: +2?, +2 per Floating Eye? (12-12) with 2 Floating Eyes, (6-6) with 1 Floating Eye.
 Damage: 2
-Defense Bonus: ???
-Personality: Lives in Gazemount, follows intruders. Brings Floating Eyes.
+Defense Bonus: +2? (6-8) during ranged phase going from 2 to 1 Floating Eye
+Personality: Lives in Gazemount, follows intruders. Brings Floating Eyes. Smart enough to focus on sole targets.
 
 Floating Eye
-Max Health: 2?
-Items: ???
-Conditions: ???
-Movement: ???
+Max Health: 1
+Items:
+Conditions: Spotter: Grants +2? bonus to Eye Beast attack rolls
+Movement: 3?
 Melee Attack Bonus: +1? (2-4)
 Damage: 1
 Defense Bonus: ???
@@ -34,7 +34,7 @@ Max Health: 1
 Items: (carried equipment)
 Conditions: Thieves: Can use an action to take items from a structure (survivor?); can use equipment like survivors.
 Movement: 3
-Melee Attack Bonus: ??? (3-5), 1 damage. +2 (3-8) using Wood Spears
+Melee Attack Bonus: +1 (2-7), 1 damage. +2 (3-8) using Wood Spears
 Ranged Attack Bonus: ??? (4-7) Using +1 ranged weapons (Wood/Stone Spears)
 Defense Bonus: +2 (3-8)
 Personality: Travels in packs
@@ -127,30 +127,26 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 52
+[b]Known Creatures[/b] Last update: Turn 53
 [spoiler]Deepspawn 16 - Appeared on fruit trees (17,8) turn 46.
-Position: 8,8 (from 10,10)
+Position: 6,8 (from 8,8)
 Health: 2?/3
 
-Deepspawn 21 - Appeared from Gurgling Pit (16,21) turn 49.
-Position: 11,13 (from 13,17 turn 50)
-Health: 2/3
-
-Deepspawn 22 - Appeared from Gurgling Pit (16,21) turn 49.
-Position: 11,13 (from 13,17 turn 50)
-Health: 3/3
-
 Deepspawn 23 - Conjured using Wave on river (36,16) turn 50.
-Position: 29,16? (from 36,16 turn 50)
+Position: 26,14? (from 36,16 turn 50)
 Health: 3/3
 
 Eye Beast 1 - Appeared on Packlands (19,17) turn 52.
-Position: 19,17
+Position: 16,15 (from 19,17)
 Health: 0 damage
 
-Floating Eye 1-2 - Appeared on Packlands (19,17) turn 52.
-Position: 19,17
-Health: 0 damage
+Floating Eye 2 - Appeared on Packlands (19,17) turn 52.
+Position: 16,15 (from 19,17)
+Health: 1/1
+
+Goblins 11-18 - Appeared on River of Bones (16,13) turn 53, from eastern side.
+Position: 16,13 (from 18,14?)
+Health: 1 each
 
 Husk Moth 1 - Appeared in Forest of Dust (30,10) turn 19.
 Position: ???
@@ -168,12 +164,16 @@ Starlight Bison 5 - Appeared on Packlands (8,8) turn 41.
 Position: ??? (from 11,7 turn 43)
 Health: 5/5
 
-Starlight Crab 3-4 - Appeared from Gurgling Pit (16,21) turn 52.
-Position: 16,21
+Starlight Crab 3 - Appeared from Gurgling Pit (16,21) turn 52.
+Position: 16,21 (from 16,21)
+Health: 2/4
+
+Starlight Crab 4 - Appeared from Gurgling Pit (16,21) turn 52.
+Position: 16,21 (from 16,21)
 Health: 4/4
 
 Starlight Dog 6 - Appeared on Packlands river (18,20) turn 50.
-Position: 16,19 (from 16,19)
+Position: ??? (from 16,19 turn 52)
 Health: 5/5
 
 Starlight Goat 6 - Appeared on River of Bones (11,9) turn 41.
@@ -189,6 +189,7 @@ Health: 4/4[/spoiler]
 Tentoes  :Ascared:
 Cade Seahater  :Agrumpy: 
 Prince Marvelous :Amad: 
+Ulysses :Agrumpy: 
 
 Deepspawn 1 - Arrived at tree (11,15) turn 3. Defeated turn 5, killing blow by Atlas.
 Position: 11,15
@@ -265,6 +266,18 @@ Health: 0/3
 Deepspawn 20 - Appeared from Gurgling Pit (16,21) turn 47. Defeated turn 49 by Smackdoodle, Sharkbait, and Zeiss.
 Position: 16,17 (from 16,19)
 Health: 0/3
+
+Deepspawn 21 - Appeared from Gurgling Pit (16,21) turn 49. Defeated turn 53 by Belteni, Urist McCoy, Dryda, Jazen, Hephaestus.
+Position: 9,11 (from 11,13)
+Health: 0/3
+
+Deepspawn 22 - Appeared from Gurgling Pit (16,21) turn 49. Defeated turn 53 by Belteni, Urist McCoy, Dryda, Jazen, Hephaestus. Killing blow by Jazen.
+Position: 9,11 (from 11,13)
+Health: -3/3
+
+Floating Eye 1 - Appeared on Packlands (19,17) turn 52. Defeated turn 53 by Ustvan.
+Position: 16,15 (from 19,17)
+Health: 0/1
 
 Black Goblin 1 - Confirmed on Packlands at (15,15) turn 43. Defeated turn 44 by Tooyun Tadai, Khrain.
 Position: 15,15
