@@ -10,19 +10,29 @@ Defense Bonus: +1 (2-7)
 Personality: Follows other monsters. As a group, they attack separate targets, unless one target is injured in which case they focus on the injured target. When conjured by the Wave spell, they do not seem to attack (unless hit?)
 
 Eye Beast
-Max Health: 8?
-Items: ???
-Conditions: ???
+Max Health: 8? (6-10)
+Items: 5 Food, 5 Leather
+Conditions: Shell: Leaves behind an Eye Beast Core after death.
 Movement: 3?
 Melee Attack Bonus: +2?, +2 per Floating Eye? (12-12) with 2 Floating Eyes, (6-6) with 1 Floating Eye.
 Damage: 2
-Defense Bonus: +2? (6-8) during ranged phase going from 2 to 1 Floating Eye
+Defense Bonus: +2 (3-8) with no Floating Eyes. +2? (6-8) during ranged phase going from 2 to 1 Floating Eye
 Personality: Lives in Gazemount, follows intruders. Brings Floating Eyes. Smart enough to focus on sole targets.
+
+Eye Beast Core
+Max Health: ???
+Items: ???
+Conditions: ???
+Movement: 3?
+Melee Attack Bonus: ???
+Damage: 2?
+Defense Bonus: +2?
+Personality: ???
 
 Floating Eye
 Max Health: 1
 Items:
-Conditions: Spotter: Grants +2? bonus to Eye Beast attack rolls
+Conditions: Spotter: Grants +2? bonus to Eye Beast attack rolls, +1? bonus to Eye Beast defense rolls?
 Movement: 3?
 Melee Attack Bonus: +1? (2-6)
 Damage: 1
@@ -127,23 +137,27 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 54
+[b]Known Creatures[/b] Last update: Turn 55
 [spoiler]Deepspawn 16 - Appeared on fruit trees (17,8) turn 46.
-Position: 4,5? (from 6,8)
+Position: 1,1 (from 6,8 turn 54)
 Health: 2?/3
 
 Deepspawn 23 - Conjured using Wave on river (36,16) turn 50.
-Position: 22,13? (from 36,16 turn 50)
+Position: 18,13? (from 36,16 turn 50)
 Health: 3/3
 
-Eye Beast 1 - Appeared on Packlands (19,17) turn 52.
-Position: 16,16 (from 16,16)
-Health: 3 damage
+Deepspawn 24-25 - Appeared from Gurgling Pit (16,21) turn 55.
+Position: 16,21
+Health: 3/3
 
-Goblins 11-18 - Appeared on River of Bones (16,13) turn 53, from eastern side.
-Position: 16,13? (from 16,13)
+Eye Beast Core 1 - Appeared on Packlands (16,16) turn 55 from corpse of Eye Beast 1.
+Position: 16,16
+Health: 0 damage
+
+Goblins 15-18 - Appeared on River of Bones (16,13) turn 53, from eastern side.
+Position: 15,13 (from 16,13 turn 53)
 Health: 1 each
-Items: Stone Spear, 3 Food, 2 Stone
+Items: Stone Spear, 3 Food
 
 Husk Moth 1 - Appeared in Forest of Dust (30,10) turn 19.
 Position: ???
@@ -154,7 +168,7 @@ Position: ???
 Health: 0 damage
 
 Starlight Bison 4 - Appeared on River of Bones (18,13) turn 33.
-Position: ??? (from 16,16)
+Position: 14,13 (from 16,16 last seen)
 Health: 5/5
 
 Starlight Bison 5 - Appeared on Packlands (8,8) turn 41.
@@ -162,15 +176,19 @@ Position: ??? (from 11,7 turn 43)
 Health: 5/5
 
 Starlight Crab 3 - Appeared from Gurgling Pit (16,21) turn 52.
-Position: 19,20? (from 16,21)
+Position: 17,22 (from 16,21 turn 53)
 Health: 2/4
 
 Starlight Crab 4 - Appeared from Gurgling Pit (16,21) turn 52.
-Position: 19,20? (from 16,21)
+Position: 17,22 (from 16,21 turn 53)
 Health: 4/4
 
 Starlight Dog 6 - Appeared on Packlands river (18,20) turn 50.
-Position: ??? (from 16,19 turn 52)
+Position: 13,16 (from 16,19 turn 52)
+Health: 5/5
+
+Starlight Dog 7 - Appeared on Packlands forest (11,13) turn 55.
+Position: 11,13
 Health: 5/5
 
 Starlight Goat 6 - Appeared on River of Bones (11,9) turn 41.
@@ -178,7 +196,7 @@ Position: ??? (from 17,6 turn 45)
 Health: 2/2
 
 Wyrmling 4 - Appeared at Acrid Burrow (19,7) turn 20.
-Position: ???
+Position: ??? (14,9 turn 55?)
 Health: 4/4[/spoiler]
 
 [b]Dead Creatures[/b]
@@ -272,6 +290,10 @@ Deepspawn 22 - Appeared from Gurgling Pit (16,21) turn 49. Defeated turn 53 by B
 Position: 9,11 (from 11,13)
 Health: -3/3
 
+Eye Beast 1 - Appeared on Packlands (19,17) turn 52. Defeated turn 55 by King "Lord" Baron, Castor, Tooyun Tadai, Aelysius, and Banbeck.
+Position: 16,16 (from 16,16)
+Health: 9-10 damage
+
 Floating Eye 1 - Appeared on Packlands (19,17) turn 52. Defeated turn 53 by Ustvan.
 Position: 16,15 (from 19,17)
 Health: 0/1
@@ -288,21 +310,17 @@ Goblin 1 - Appeared on Burnt Plains (15,14) turn 23. Defeated turn 26 by Nairi.
 Position: 10,10
 Health: 0/1
 
-Goblin 2 - Appeared on Burnt Plains (15,14) turn 23. Defeated turn 27 by Tooyun Tadai.
+Goblins 2-4 - Appeared on Burnt Plains (15,14) turn 23. Defeated turn 27 by Tooyun Tadai, Jazen, Nairi.
 Position: 13,12
-Health: 0/1
-
-Goblin 3 - Appeared on Burnt Plains (15,14) turn 23. Defeated turn 27 by Jazen.
-Position: 13,12
-Health: 0/1
-
-Goblin 4 - Appeared on Burnt Plains (15,14) turn 23. Defeated turn 27 by Nairi.
-Position: 13,12
-Health: 0/1
+Health: 0/1 each
 
 Goblins 5-10 - Sighted on Packlands along (18,14)-(22,18) turn 42. Defeated turn 45, killing blows by King Baron, Mintina, Tooyun Tadai, Ustvan, Smackdoodle, and Urist McZealot.
 Position: 16,15 (from 15,15)
 Health: 1 each
+
+Goblins 11-14 - Appeared on River of Bones (16,13) turn 53, from eastern side. Defeated turn 55 by Drogo Cullwort, Belteni, and Hephaestus (double).
+Position: 15,13 (from 16,13 turn 53)
+Health: 0 each
 
 Hobgoblin 1 - Appeared on Burnt Plains (15,14) turn 23. Defeated turn 27 by Smackdoodle and Urist McZealot.
 Position: 13,12

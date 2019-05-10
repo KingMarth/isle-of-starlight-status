@@ -56,7 +56,7 @@ Halfling bonus?
 The Acrid Burrow dungeon (19,7): (2 Food) *3, (Gem) *4, (2 Gem), (2 Stone), (Wyrmling) *5, (2 Wyrmling), (Acrid Puddle: Melee attack +2 3-8, 1 damage + sickness) *3
 One-time: (5 Gems)?, (Mana Stone)
 
-The Gurgling Pit (16,21): (3 Food) *1, (Gem) *2, (2 Stone 2 Wood) *2, (2 Deepspawn) *3, (1 Starlight Crab) *2
+The Gurgling Pit (16,21): (3 Food) *1, (Gem) *2, (2 Stone 2 Wood) *2, (2 Deepspawn) *4, (1 Starlight Crab) *2
 
 Goblin Village dungeon (33,19): ???[/spoiler]
 
@@ -74,7 +74,7 @@ The explorers felt like there may be more to be learned from this star chart, as
 Star Chart Destroyers ES (15,15): Studied 28+2/30 (unlocked Es at 5, level 2 at 16, level 3 at 30)
 Star Chart Destroyers ??? (31,19): New.
 Star Chart Creators AT (17,13): Studied 22+4/30 (unlocked At at 5, level 2 at 15)
-Star Chart Unfathomable OM (17,2): Studied 21+8/30 (unlocked Om at 5, level 2 at 17)
+Star Chart Unfathomable OM (17,2): Studied 22+9/30 (unlocked Om at 5, level 2 at 17, level 3 at 31)
 
 OM
 Unfathomable
@@ -82,7 +82,8 @@ Star Chart: 17,2
 Spell: Wave
 Level 1: A useful resource (or possibly a creature) washes up from a river or coast hex you're occupying.
 Level 2: As level 1, but a useful item (or possibly a dangerous creature).
-[quote="Working Theory"]When casting Wave, roll a d6 [s]and add your Spell bonus[/s]. Look up the result from a table.[/quote]Wave 1 results: (3 Food) *1, (Deepspawn) *2, both with Spell +0. (Iron) *1, (Stone, Stone) *2, (Deepspawn) *1 with Wizard 1/Spell +1.
+Level 3: As level 1, but a powerful item (or possibly a deadly creature).
+[quote="Working Theory"]When casting Wave, roll a d6 [s]and add your Spell bonus[/s]. Look up the result from a table.[/quote]Wave 1 results: (3 Food) *1, (Deepspawn) *2, both with Spell +0. (Gem) *1, (Iron) *1, (Stone, Stone) *2, (Deepspawn) *1 with Wizard 1/Spell +1.
 Wave 2 results: (Stone Pick) x1, with Spell +1
 [quote="LoneStarNorth [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45850&sid=1eb56455fad75a0a1e590a9e76f53e0b#p45850]Turn 28[/url]"]I promise Wave has possible results other than summoning a deepspawn. Really![/quote][/spoiler]
 
