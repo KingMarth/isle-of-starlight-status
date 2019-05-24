@@ -83,7 +83,7 @@ Spell: Wave
 Level 1: A useful resource (or possibly a creature) washes up from a river or coast hex you're occupying.
 Level 2: As level 1, but a useful item (or possibly a dangerous creature).
 Level 3: As level 1, but a powerful item (or possibly a deadly creature).
-[quote="Working Theory"]When casting Wave, roll a d6 [s]and add your Spell bonus[/s]. Look up the result from a table.[/quote]Wave 1 results: (3 Food) *1, (Deepspawn) *2, both with Spell +0. (Gem) *1, (Iron) *1, (Stone, Stone) *2, (Deepspawn) *1 with Wizard 1/Spell +1.
+[quote="Working Theory"]When casting Wave, roll a d6 [s]and add your Spell bonus[/s]. Look up the result from a table.[/quote]Wave 1 results: (3 Food) *1, (Deepspawn) *2, both with Spell +0. (Gem) *1, (Iron) *1, (Stone, Stone) *2, (Wood, Wood) *1, (Deepspawn) *1 with Wizard 1/Spell +1.
 Wave 2 results: (Stone Pick) x1, with Spell +1
 [quote="LoneStarNorth [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45850&sid=1eb56455fad75a0a1e590a9e76f53e0b#p45850]Turn 28[/url]"]I promise Wave has possible results other than summoning a deepspawn. Really![/quote][/spoiler]
 
@@ -105,7 +105,7 @@ By performing certain actions, a character can unlock both a profession (which i
 By continuing to perform actions associated with their profession and class, a character can gain additional levels, improving their bonus, up to level 3.[/quote]
 [quote="Working Theory"]Certain acts allow you to gain experience in a Profession or Class (usually taking Actions, though the Knight gains experience through being attacked). On gaining 5 experience you unlock a Profession/Class. On gaining 15 experience total for a Profession/Class (the 5 to get level 1, plus 10 more), you level up to rank 2. To gain rank 3, you need 30 total experience (5 for level 1, +10 for level 2, +15 for level 3). Experience is tracked separately for each Profession/Class, and once you choose a Profession your experience with all other Professions is set to 0 and cannot increase; the same applies for Classes. You can progress in only one Profession and one Class.[/quote]
 
-Professions change the color of your survivor dot on the minimap (default white) and the color of your survivor clothing in closeups. Classes change the shape of your survivor dot on the minimap and the style of your survivor clothing in closeups. [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=46562#p46562]Closeups contributed by GathersIngredients[/url].
+Professions change the color of your survivor dot on the minimap (default white) and the color of your survivor clothing in closeups. Classes change the shape of your survivor dot on the minimap and the style of your survivor clothing in closeups. [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=46562#p46562]Closeups contributed by GathersIngredients[/url]. Followers appear as black dots in the same hex as the survivor or structure they follow.
 
 Profession: ARCHITECT - [color=#3a44ba]Blue[/color] [img]https://image.ibb.co/hzKQFf/Colour-Architect.png[/img]
 Bonus: Building and repairing structures (+1/level HP per action, so 2 HP/Build at level 1)

@@ -20,19 +20,19 @@ Defense Bonus: +2 (3-8) with no Floating Eyes. +2? (6-8) during ranged phase goi
 Personality: Lives in Gazemount, follows intruders. Brings Floating Eyes. Smart enough to focus on sole targets.
 
 Eye Beast Core
-Max Health: ???
-Items: ???
-Conditions: ???
-Movement: 3?
+Max Health: 4? (3-4)
+Items: Giant Lens
+Conditions: Flier: Ignores Difficult Terrain.
+Movement: 4
 Melee Attack Bonus: ???
 Damage: 2?
-Defense Bonus: +2?
-Personality: ???
+Defense Bonus: +2? (8-8)
+Personality: Tries to escape
 
 Floating Eye
 Max Health: 1
 Items:
-Conditions: Spotter: Grants +2? bonus to Eye Beast attack rolls, +1? bonus to Eye Beast defense rolls?
+Conditions: Flier?, Spotter: Grants +2? bonus to Eye Beast attack rolls, +1? bonus to Eye Beast defense rolls?
 Movement: 3?
 Melee Attack Bonus: +1? (2-6)
 Damage: 1
@@ -78,19 +78,19 @@ Defense Bonus: +2 (3-8)
 Personality: Doesn't like to move. Attracts Deepspawn (see Bile of the Deep).
 
 Husk Moth
-Max Health: ???
-Items: ???
-Conditions: ???
+Max Health: 1
+Items:
+Conditions: Flier?
 Movement: ???
 Melee Attack Bonus: ??? (3-5), damage 1
-Defense Bonus: ???
+Defense Bonus: +2? (8-8)
 Personality: ???
 
 Starlight Bison
 Max Health: 5
 Items: 4 Food, 3 Leather
 Conditions: Non-hostile: Does not initiate combat with Survivors. Beast?: Normal animal, can be tamed by Farmers.
-Movement: 3?
+Movement: 3? (2-2)
 Melee Attack Bonus: +2? 4-8
 Damage: 1
 Defense Bonus: ??? 3-5
@@ -109,12 +109,14 @@ Personality: Uses hit-and-run tactics. Travels along the river to prevent attack
 Starlight Dog
 Max Health: 5
 Items: Food, Food, Food, Leather
-Conditions: Beast?
+Conditions: Beast
 Movement: 4
 Melee Attack Bonus: +3 (4-9)
 Damage: 1
 Defense Bonus: +1 (2-7)
 Personality: Runs when injured and outnumbered, follows other dogs to attack the same target.
+Following: Can make an extra attack when attacking; Melee +3 (1 Damage)
+Stationed (any structure): Structure takes 1 less total damage when attacked on any given turn.
 
 Starlight Goat
 Max Health: 2
@@ -137,59 +139,38 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 55
-[spoiler]Deepspawn 16 - Appeared on fruit trees (17,8) turn 46.
-Position: 1,1 (from 6,8 turn 54)
-Health: 2?/3
-
-Deepspawn 23 - Conjured using Wave on river (36,16) turn 50.
-Position: 18,13? (from 36,16 turn 50)
+[b]Known Creatures[/b] Last update: Turn 56
+[spoiler]Deepspawn 23 - Conjured using Wave on river (36,16) turn 50.
+Position: 14,11?? (from 36,16 turn 50)
 Health: 3/3
 
 Deepspawn 24-25 - Appeared from Gurgling Pit (16,21) turn 55.
-Position: 16,21
+Position: 12,17? (from 16,21 turn 55)
 Health: 3/3
 
-Eye Beast Core 1 - Appeared on Packlands (16,16) turn 55 from corpse of Eye Beast 1.
-Position: 16,16
-Health: 0 damage
-
-Goblins 15-18 - Appeared on River of Bones (16,13) turn 53, from eastern side.
-Position: 15,13 (from 16,13 turn 53)
+Goblins 17-18 - Appeared on River of Bones (16,13) turn 53, from eastern side.
+Position: 18,14 (from 15,13 turn 55)
 Health: 1 each
-Items: Stone Spear, 3 Food
-
-Husk Moth 1 - Appeared in Forest of Dust (30,10) turn 19.
-Position: ???
-Health: 0 damage
 
 Husk Moth 2 - Appeared in Forest of Dust (30,10) turn 19.
 Position: ???
 Health: 0 damage
 
 Starlight Bison 4 - Appeared on River of Bones (18,13) turn 33.
-Position: 14,13 (from 16,16 last seen)
+Position: 12,11 (from 14,13 turn 55)
 Health: 5/5
 
 Starlight Bison 5 - Appeared on Packlands (8,8) turn 41.
 Position: ??? (from 11,7 turn 43)
 Health: 5/5
 
-Starlight Crab 3 - Appeared from Gurgling Pit (16,21) turn 52.
-Position: 17,22 (from 16,21 turn 53)
-Health: 2/4
-
 Starlight Crab 4 - Appeared from Gurgling Pit (16,21) turn 52.
-Position: 17,22 (from 16,21 turn 53)
-Health: 4/4
+Position: 16,21 (from 17,22 turn 55)
+Health: 1/4
 
-Starlight Dog 6 - Appeared on Packlands river (18,20) turn 50.
-Position: 13,16 (from 16,19 turn 52)
-Health: 5/5
-
-Starlight Dog 7 - Appeared on Packlands forest (11,13) turn 55.
-Position: 11,13
-Health: 5/5
+Starlight Dog 6 - Appeared on Packlands river (18,20) turn 50. Tamed turn 56 by Atlas.
+Position: 13,16 (from 13,16 turn 55)
+Health: 3/5
 
 Starlight Goat 6 - Appeared on River of Bones (11,9) turn 41.
 Position: ??? (from 17,6 turn 45)
@@ -266,6 +247,10 @@ Deepspawn 15 - Appeared on mine (11,10) turn 34. Defeated turn 52 by Belteni and
 Position: 8,8 (from 10,10)
 Health: 0/3
 
+Deepspawn 16 - Appeared on fruit trees (17,8) turn 46. Defeated turn 56 by Grabbie.
+Position: 1,1 (from 6,8 turn 54)
+Health: 0/3
+
 Deepspawn 17 - Appeared from Gurgling Pit (16,21) turn 47. Oneshot turn 48 by King "Lord" Baron.
 Position: 16,19 (from 16,21)
 Health: 0/3
@@ -293,6 +278,10 @@ Health: -3/3
 Eye Beast 1 - Appeared on Packlands (19,17) turn 52. Defeated turn 55 by King "Lord" Baron, Castor, Tooyun Tadai, Aelysius, and Banbeck.
 Position: 16,16 (from 16,16)
 Health: 9-10 damage
+
+Eye Beast Core 1 - Appeared on Packlands (16,16) turn 55 from corpse of Eye Beast 1. Defeated turn 56 by King "Lord" Baron, Ustvan, and Aelysius.
+Position: 16,12 (from 16,16)
+Health: 4 damage
 
 Floating Eye 1 - Appeared on Packlands (19,17) turn 52. Defeated turn 53 by Ustvan.
 Position: 16,15 (from 19,17)
@@ -322,6 +311,10 @@ Goblins 11-14 - Appeared on River of Bones (16,13) turn 53, from eastern side. D
 Position: 15,13 (from 16,13 turn 53)
 Health: 0 each
 
+Goblins 15-16 - Appeared on River of Bones (16,13) turn 53, from eastern side. Defeated turn 56 by Hephaestus and Urist McZealot.
+Position: 18,14 (from 15,13 turn 55)
+Health: -1 each
+
 Hobgoblin 1 - Appeared on Burnt Plains (15,14) turn 23. Defeated turn 27 by Smackdoodle and Urist McZealot.
 Position: 13,12
 Health: 2 damage
@@ -329,6 +322,10 @@ Health: 2 damage
 Horror of the Deep 1 - Appeared on Coast (13,18) turn 10. Defeated turn 25, brought down by Dinari, Nivek, King, and Ustvan.
 Position: 11,16
 Health: 0/8
+
+Husk Moth 1 - Appeared in Forest of Dust (30,10) turn 19. Defeated turn 56 by Drogo Cullwort.
+Position: 14,9
+Health: 0/1
 
 Starlight Bison 1 - Appeared on Burnt Plains (11,6) turn 3.
 Position: 11,4
@@ -352,6 +349,10 @@ Starlight Crab 2 - Appeared on River of Bones (11,9) turn 42. Defeated turn 52 b
 Position: 16,11 (from 17,14 turn 49)
 Health: 0/4
 
+Starlight Crab 3 - Appeared from Gurgling Pit (16,21) turn 52. Defeated turn 56 by Nairi, Smackdoodle, and Zeiss.
+Position: 16,21 (from 17,22 turn 55)
+Health: 0/4
+
 Starlight Dog 1 - Appeared in forest (11,13) turn 4. Defeated turn 18, killing blow by Tooyun Tadai.
 Position: 15,15
 Health: 0/5
@@ -371,6 +372,10 @@ Health: 0/5
 Starlight Dog 5 - Appeared on Packlands (15,16) turn 34. Defeated turn 52 by Ustvan, Banbeck, and Sharkbait.
 Position: 16,19 (from 16,19)
 Health: 0/5
+
+Starlight Dog 7 - Appeared on Packlands forest (11,13) turn 55. Defeated turn 56 by Urist McCoy and Esmeralda.
+Position: 11,13
+Health: 1?/5
 
 Starlight Goat 1 - Appeared on Burnt Plains (11,6) turn 8. Possibly eaten by wyrmlings turn 26.
 Position: 17,5
