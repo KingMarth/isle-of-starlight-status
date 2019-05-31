@@ -90,7 +90,7 @@ Starlight Bison
 Max Health: 5
 Items: 4 Food, 3 Leather
 Conditions: Non-hostile: Does not initiate combat with Survivors. Beast?: Normal animal, can be tamed by Farmers.
-Movement: 3? (2-2)
+Movement: 2? (2-2)
 Melee Attack Bonus: +2? 4-8
 Damage: 1
 Defense Bonus: ??? 3-5
@@ -139,17 +139,25 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 56
+[b]Known Creatures[/b] Last update: Turn 57
 [spoiler]Deepspawn 23 - Conjured using Wave on river (36,16) turn 50.
-Position: 14,11?? (from 36,16 turn 50)
+Position: 15,12 (from 36,16 turn 50)
 Health: 3/3
 
 Deepspawn 24-25 - Appeared from Gurgling Pit (16,21) turn 55.
-Position: 12,17? (from 16,21 turn 55)
+Position: 8,13? (from 16,21 turn 55)
+Health: 3/3
+
+Deepspawn 26-27 - Appeared from Gurgling Pit (16,21) turn 57.
+Position: 16,21
+Health: 3/3
+
+Deepspawn 28 - Conjured using Wave on river (19,5) turn 57.
+Position: 19,5
 Health: 3/3
 
 Goblins 17-18 - Appeared on River of Bones (16,13) turn 53, from eastern side.
-Position: 18,14 (from 15,13 turn 55)
+Position: 21,16 (from 18,14 turn 56)
 Health: 1 each
 
 Husk Moth 2 - Appeared in Forest of Dust (30,10) turn 19.
@@ -157,7 +165,7 @@ Position: ???
 Health: 0 damage
 
 Starlight Bison 4 - Appeared on River of Bones (18,13) turn 33.
-Position: 12,11 (from 14,13 turn 55)
+Position: 10,12 (from 12,11 turn 56)
 Health: 5/5
 
 Starlight Bison 5 - Appeared on Packlands (8,8) turn 41.
@@ -165,12 +173,8 @@ Position: ??? (from 11,7 turn 43)
 Health: 5/5
 
 Starlight Crab 4 - Appeared from Gurgling Pit (16,21) turn 52.
-Position: 16,21 (from 17,22 turn 55)
+Position: 19,20? (from 16,21 turn 56)
 Health: 1/4
-
-Starlight Dog 6 - Appeared on Packlands river (18,20) turn 50. Tamed turn 56 by Atlas.
-Position: 13,16 (from 13,16 turn 55)
-Health: 3/5
 
 Starlight Goat 6 - Appeared on River of Bones (11,9) turn 41.
 Position: ??? (from 17,6 turn 45)

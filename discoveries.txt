@@ -56,7 +56,7 @@ Halfling bonus?
 The Acrid Burrow dungeon (19,7): (2 Food) *3, (Gem) *4, (2 Gem), (2 Stone), (Wyrmling) *5, (2 Wyrmling), (Acrid Puddle: Melee attack +2 3-8, 1 damage + sickness) *3
 One-time: (5 Gems)?, (Mana Stone)
 
-The Gurgling Pit (16,21): (3 Food) *1, (Gem) *2, (2 Stone 2 Wood) *2, (2 Deepspawn) *4, (1 Starlight Crab) *2
+The Gurgling Pit (16,21): (3 Food) *1, (Gem) *2, (2 Stone 2 Wood) *2, (2 Deepspawn) *5, (1 Starlight Crab) *2
 
 Goblin Village dungeon (33,19): ???[/spoiler]
 
@@ -83,7 +83,7 @@ Spell: Wave
 Level 1: A useful resource (or possibly a creature) washes up from a river or coast hex you're occupying.
 Level 2: As level 1, but a useful item (or possibly a dangerous creature).
 Level 3: As level 1, but a powerful item (or possibly a deadly creature).
-[quote="Working Theory"]When casting Wave, roll a d6 [s]and add your Spell bonus[/s]. Look up the result from a table.[/quote]Wave 1 results: (3 Food) *1, (Deepspawn) *2, both with Spell +0. (Gem) *1, (Iron) *1, (Stone, Stone) *2, (Wood, Wood) *1, (Deepspawn) *1 with Wizard 1/Spell +1.
+[quote="Working Theory"]When casting Wave, roll a d6 [s]and add your Spell bonus[/s]. Look up the result from a table.[/quote]Wave 1 results: (3 Food) *1, (Deepspawn) *2, both with Spell +0. (Deepspawn) *1 with Wizard 1/Spell +0. (Gem) *1, (Iron) *1, (Stone, Stone) *2, (Wood, Wood) *1, (Deepspawn) *1 with Wizard 1/Spell +1.
 Wave 2 results: (Stone Pick) x1, with Spell +1
 [quote="LoneStarNorth [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45850&sid=1eb56455fad75a0a1e590a9e76f53e0b#p45850]Turn 28[/url]"]I promise Wave has possible results other than summoning a deepspawn. Really![/quote][/spoiler]
 
@@ -150,7 +150,7 @@ Gaining XP: Study the Stars at the Creators star chart or Cast a Spell using a C
 
 Class: HUNTER - Horizontal line — [img]https://image.ibb.co/d2aXvf/Attire-Hunter.png[/img]
 Bonus: Ranged attacks (+1/level?)
-Ability: If you travel alone or only with other Hunters, you can pass by hostile creatures unnoticed if you don't attack them.
+Ability: If you travel alone or only with other Hunters, you can pass by hostile creatures unnoticed if you don't attack them. Followers do not prevent you from hiding.
 Gaining XP: Make ranged Attack rolls
 
 Class: KNIGHT - Down-right pointing triangle ◿ [img]https://image.ibb.co/i48Kaf/Attire-Knight.png[/img]
