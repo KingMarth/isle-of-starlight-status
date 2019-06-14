@@ -45,16 +45,17 @@ Items: (carried equipment)
 Conditions: Thieves: Can use an action to take items from a structure (survivor?); can use equipment like survivors. Fey: Cannot carry or use items made of Iron.
 Movement: 3
 Melee Attack Bonus: +1 (2-7), 1 damage. +2 (3-8) using Wood Spears
-Ranged Attack Bonus: ??? (4-7) Using +1 ranged weapons (Wood/Stone Spears)
+Ranged Attack Bonus: +2? (4-7) Using +1 ranged weapons (Wood/Stone Spears)
 Defense Bonus: +2 (3-8)
 Personality: Travels in packs
 
 Black Goblin
 Max Health: 2
 Items: (carried equipment)
-Conditions: Thieves, Fey?, Warlord: Provides 'fervor' to Goblins (in the same hex?). Theory: +1 to Melee accuracy
+Conditions: Thieves, Fey?, Warlord: Provides 'fervor' to Goblins (in the same hex?). Theory: +1 to Melee/Ranged accuracy
 Movement: 3?
 Melee Attack Bonus: +2? (8-8) using Wood Spears
+Ranged Attack Bonus: +2? (8-8) using Wood Spear
 Defense Bonus: +2? (5-6)
 Personality: Travels with Goblins
 
@@ -89,12 +90,14 @@ Personality: ???
 Starlight Bison
 Max Health: 5
 Items: 4 Food, 3 Leather
-Conditions: Non-hostile: Does not initiate combat with Survivors. Beast?: Normal animal, can be tamed by Farmers.
-Movement: 2? (2-2)
+Conditions: Non-hostile: Does not initiate combat with Survivors. Beast: Normal animal, can be tamed by Farmers.
+Movement: 2 (2-2)
 Melee Attack Bonus: +2? 4-8
 Damage: 1
 Defense Bonus: ??? 3-5
 Personality: ???
+Following: Character's Encumbrance increases by 5.
+Stationed (farm): Increased Food output of structure by 1.
 
 Starlight Crab
 Max Health: 4
@@ -139,33 +142,48 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 57
+[b]Known Creatures[/b] Last update: Turn 58
 [spoiler]Deepspawn 23 - Conjured using Wave on river (36,16) turn 50.
-Position: 15,12 (from 36,16 turn 50)
-Health: 3/3
+Position: 12,9 (from 15,12 turn 57)
+Health: 2/3
 
 Deepspawn 24-25 - Appeared from Gurgling Pit (16,21) turn 55.
-Position: 8,13? (from 16,21 turn 55)
+Position: 5,10? (from 16,21 turn 55)
 Health: 3/3
 
 Deepspawn 26-27 - Appeared from Gurgling Pit (16,21) turn 57.
-Position: 16,21
+Position: 12,17? (from 16,21 turn 57)
 Health: 3/3
 
 Deepspawn 28 - Conjured using Wave on river (19,5) turn 57.
-Position: 19,5
+Position: 16,6? (from 19,5 turn 57)
 Health: 3/3
 
-Goblins 17-18 - Appeared on River of Bones (16,13) turn 53, from eastern side.
-Position: 21,16 (from 18,14 turn 56)
+Deepspawn 29-32 - Appeared from Gurgling Pit (16,21) turn 58.
+Position: 16,21
+Health: 3/3
+
+Goblins 18-20 - Appeared on River of Bones (16,13) turn 53, from eastern side. 19-20 appeared on Frogwood (24,17) turn 58.
+Position: 24,17 (from 21,16 turn 57)
 Health: 1 each
+Items: Wood Spear, Wood Spear
+
+Black Goblin 2 - Appeared on Frogwood (24,17) turn 58.
+Position: 24,17
+Health: 2/2
+Items: Wood Spear
+
+Hobgoblin 2 - Appeared on Frogwood (24,17) turn 58.
+Position: 24,17
+Health: 2/2
+Items: Wood Shield
 
 Husk Moth 2 - Appeared in Forest of Dust (30,10) turn 19.
 Position: ???
 Health: 0 damage
 
-Starlight Bison 4 - Appeared on River of Bones (18,13) turn 33.
-Position: 10,12 (from 12,11 turn 56)
+Starlight Bison 4 - Appeared on River of Bones (18,13) turn 33. Tamed turn 58 by Atlas.
+Position: 10,14 (from 10,12 turn 57)
 Health: 5/5
 
 Starlight Bison 5 - Appeared on Packlands (8,8) turn 41.
@@ -318,6 +336,9 @@ Health: 0 each
 Goblins 15-16 - Appeared on River of Bones (16,13) turn 53, from eastern side. Defeated turn 56 by Hephaestus and Urist McZealot.
 Position: 18,14 (from 15,13 turn 55)
 Health: -1 each
+
+Goblin 17 - Appeared on River of Bones (16,13) turn 53, from eastern side. Defeated turn 58 by Ustvan.
+Position: 24,17 (from 21,16 turn 57)
 
 Hobgoblin 1 - Appeared on Burnt Plains (15,14) turn 23. Defeated turn 27 by Smackdoodle and Urist McZealot.
 Position: 13,12
