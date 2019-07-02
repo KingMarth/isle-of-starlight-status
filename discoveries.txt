@@ -19,6 +19,7 @@ Mana Leak feature: None
 Star Chart feature: None
 
 Mine (level 2, need a pick): Stone + (Stone or Iron) on average
+Mine (level 3, need a pick): (3 Gem) *1
 [quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45942#p45942]Turn 29[/url]"]Mines are a unique cross between structures and terrain features. They count as structures for connectivity purposes, and block other structures from being built. However they can't be destroyed, damaged, or repaired. You need to use a pick to benefit from a mine.[/quote][quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=46306#p46306]Rules Clarification[/url]"]Both the cave and the mine modify the resources gained from the base hex. You can benefit from all three at once.[/quote][quote="Working Theory"]Mines have a table of possible results much like Dungeons. On a Gather action using a Pick, in addition to the regular effects of the hex a d6 is rolled and compared to the table for the Mine of the given level. The resulting resources are added to the outcome of the Gather action; there is no chance of spawning monsters or triggering hazards.[/quote]
 
 Assumption: Dungeons don't add Gather resources.
@@ -56,7 +57,7 @@ Halfling bonus?
 The Acrid Burrow dungeon (19,7): (2 Food) *3, (Gem) *4, (2 Gem), (2 Stone), (Wyrmling) *5, (2 Wyrmling), (Acrid Puddle: Melee attack +2 3-8, 1 damage + sickness) *3
 One-time: (5 Gems)?, (Mana Stone)
 
-The Gurgling Pit (16,21): (3 Food) *1, (Gem) *2, (2 Stone 2 Wood) *3, (2 Deepspawn) *7, (1 Starlight Crab) *2
+The Gurgling Pit (16,21): (3 Food) *2, (Gem) *2, (2 Stone 2 Wood) *3, (2 Deepspawn) *8, (1 Starlight Crab) *2
 
 Goblin Village dungeon (33,19): ???[/spoiler]
 
@@ -73,7 +74,7 @@ The explorers felt like there may be more to be learned from this star chart, as
 [quote="Theory"]Each star chart requires a certain number of survivor-turns to decipher; for example, one survivor could spend five turns Studying the Stars at the chart, or five survivors could each spend one turn for the same effect. When a casting class studies at their matching star chart, they contribute an additional number of survivor-turns towards study equal to their class level. Once deciphered, all survivors gain access to whatever magic is unlocked by the star chart. Each chart has several stars which can be unlocked; each star/syllable can extend the spell?[/quote]
 Star Chart Destroyers ES (15,15): Studied 28+2/30 (unlocked Es at 5, level 2 at 16, level 3 at 30)
 Star Chart Destroyers ??? (31,19): New.
-Star Chart Creators AT (17,13): Studied 23+6/30 (unlocked At at 5, level 2 at 15, level 3 at 29)
+Star Chart Creators AT (17,13): Studied 24+8/30 (unlocked At at 5, level 2 at 15, level 3 at 29)
 Star Chart Unfathomable OM (17,2): Studied 22+9/30 (unlocked Om at 5, level 2 at 17, level 3 at 31)
 
 OM
@@ -240,4 +241,3 @@ To make things easier for me when reverse-engineering rules, it is appreciated i
 To-hit Probability (exact): 1/36  3/36  6/36  10/36 15/36 21/36 26/36 30/36 33/36 35/36 36/36
 To-hit Probability (%):     3%    8%    17%   28%   42%   58%   72%   83%   92%   97%   100%[/code]
 [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=44077#p44077]Proof[/url][/spoiler]
-
