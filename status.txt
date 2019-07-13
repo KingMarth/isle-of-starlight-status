@@ -1,8 +1,8 @@
-[url=http://willsaveworldforgold.com/forum/viewtopic.php?f=11&t=242&start=2350#p48001]Turn 59[/url] snapshot:
+[url=http://willsaveworldforgold.com/forum/viewtopic.php?f=11&t=242&start=2400#p48060]Turn 60[/url] snapshot:
 Totals Among All Survivors
-1	18
+1	17
 1*	2
-2	20
+2	21
 2*	2
 3	7
 3*	1
@@ -11,51 +11,51 @@ Architect?	2
 Bile of the Deep	1
 Dead	5
 Farmer	3
-Food	117
-Food*	11
+Food	119
+Food*	9
 Gatherer	17
 Gatherer?	6
-Gem	6
+Gem	8
 Giant Lens	1
 Healer	3
-Hungry	12
+Hungry	14
 Hunter	9
 Hunter?	2
-Iron	6
+Iron	9
 Iron Armour	15
 Iron Axe	1
 Iron Bow and Arrows	4
 Iron Pick	5
-Iron Shield	16
+Iron Shield	17
 Iron Spear	3
 Iron Staff	1
 Knight	2
-Knight?	1
-Leather	12
-Leather Armour	2
-Loose	13
+Knight?	2
+Leather	10
+Leather Armour	3
+Loose	8
 Lumberjack	2
 Miner	3
 Miner?	1
 Shell Shield	1
 Smith	2
-Stone	58
+Stone	38
 Stone Axe	2
 Stone Pick	2
 Stone Spear	10
-Stone*	3
+Stone*	6
 Structure	28
 Sword	8
 Warmage	2
 Warrior	3
-Warrior?	2
+Warrior?	3
 Wizard	2
-Wood	52
+Wood	47
 Wood Bow and Arrows	8
 Wood Magic Staff	1
 Wood Shield	17
 Wood Spear	4
-Wood*	9
+Wood*	1
 
 [size=150]Character Status[/size]
 Humans
@@ -63,67 +63,67 @@ Humans
 Human 1, Knight 2, Gatherer 2
 Position: 1,1
 Health: 5/5
-Items: Bile of the Deep, Food, Food, Food, Food, Food, Iron Armour, Iron Shield, Sword, Wood
-Conditions: Hungry
+Items: Bile of the Deep, Food, Food, Food, Food, Food, Food, Iron Armour, Iron Shield, Sword
+Conditions: 
 
 SHIFTY MCGINTY
 Human 2, Architect 2
 Position: 7,8
 Health: 5/5
-Items: Stone, Wood
-Conditions: Hungry
+Items: Food, Stone
+Conditions: 
 
 JAZEN
 Human 3, Warrior 1
-Position: 12,9
+Position: 11,10
 Health: 5/5
-Items: Food, Iron Pick, Iron Shield, Sword
-Conditions: Hungry
+Items: Iron, Iron, Iron Pick, Iron Shield, Sword
+Conditions: 
 Profession: Gatherer?
 
 KING “LORD” BARON
 Human 4, Warmage 2, Gatherer 2
-Position: 24,17
+Position: 28,20
 Health: 5/5
-Items: Food, Food, Food, Food, Food, Iron Shield, Iron Staff, Stone Spear
+Items: Food, Food, Food, Food, Food, Food, Food, Iron Shield, Iron Staff, Stone Spear
 Conditions: 
 
 LUCIAN VALENTINI
 Human 5, Hunter 1, Gatherer 3
-Position: 41,21
+Position: 37,21
 Health: 5/5
 Items: Iron Armour, Iron Shield, Iron Spear
-Conditions: 
+Conditions: Hungry
 
 CASTOR
 Human 6
 Position: 11,13
 Health: 5/5
-Items: Stone Spear, Wood, Wood Bow and Arrows, Wood Shield
-Conditions: 
+Items: Stone Spear, Wood, Wood, Wood Bow and Arrows, Wood Shield
+Conditions: Hungry
 Class: Hunter? Knight?
 Profession: Gatherer?
 
 ATLAS
 Human 7, Warrior 1, Farmer 1
-Position: 11,10
+Position: 15,9
 Health: 5/5
-Items: Food, Food, Iron Armour, Iron Shield, Sword
-Conditions: Hungry
+Items: Food, Iron Armour, Iron Shield, Sword
+Conditions: 
 
 NAIRI
 Human 8, Healer 1, Gatherer 2
 Position: 16,21
 Health: 5/5
-Items: Food, Food, Gem, Leather, Iron Armour, Iron Shield, Sword, Wood, Wood
+Items: Food, Food, Gem, Leather, Iron Armour, Iron Shield, Sword
 Conditions: 
 
 BOB
 Human 9, Gatherer 2
-Position: 11,10
+Position: 12,9
 Health: 5/5
-Items: Iron Pick, Stone, Stone, Stone, Stone, Stone, Stone, Stone, Stone, Stone
-Conditions: 
+Items: Food, Food, Iron Pick
+Conditions: Hungry
 Class: Warrior?
 
 DINARI
@@ -131,36 +131,36 @@ Human 10, Healer 2, Gatherer 2
 Position: 17,13
 Health: 5/5
 Items: Food, Food, Food, Food, Food, Giant Lens, Leather, Stone Spear, Wood Shield
-Conditions:[/spoiler]
+Conditions: Hungry[/spoiler]
 Halflings
 [spoiler]VAYRA THE STRONG
 Halfling 1, Gatherer 2
-Position: 11,10
+Position: 12,9
 Health: 5/5
-Items: Food, Food, Iron Armour, Iron Shield, Stone, Stone, Stone, Stone, Stone, Stone, Stone, Stone, Stone, Stone, Wood
-Conditions: 
+Items: Iron Armour, Iron Shield
+Conditions: Hungry
 Follower: Starlight Bison
 
 BUTLER JAMES
 Halfling 2, Healer 1, Gatherer 2
-Position: 13,13
+Position: 11,10
 Health: 5/5
-Items: Food, Food, Wood Shield
-Conditions: Hungry
+Items: Food, Wood Shield
+Conditions: 
 
 DAVID
 Halfling 3, Gatherer 2
-Position: 13,13
+Position: 11,13
 Health: 5/5
-Items: Food, Food, Food, Food, Stone, Wood Bow and Arrows
-Conditions: Hungry
+Items: Food, Food, Food, Wood, Wood, Wood, Wood, Wood, Wood, Wood Bow and Arrows
+Conditions: 
 
 DROGO CULLWORT
 Halfling 4, Architect 3
 Position: 7,8
 Health: 5/5
-Items: Food, Food, Food, Iron Armour, Iron Bow and Arrows, Iron Shield
-Conditions: 
+Items: Food, Food, Iron Armour, Iron Bow and Arrows, Iron Shield
+Conditions: Hungry
 
 CADE SEAHATER
 Halfling 5
@@ -172,10 +172,10 @@ Died: Turn 14 at 24,17 to 3 Starlight Dogs
 
 MINTINA
 Halfling 7, Hunter 1, Farmer 1
-Position: 9,9
+Position: 9,11
 Health: 5/5
-Items: Food, Food, Iron Armour, Iron Bow and Arrows, Iron Shield
-Conditions: Hungry
+Items: Food, Iron Armour, Iron Bow and Arrows, Iron Shield
+Conditions: 
 
 ULYSSES
 Halfling 8, Healer 1, Gatherer 2
@@ -190,7 +190,7 @@ Conditions:
 
 BELTENI
 Halfling 10, Hunter 1, Miner 3
-Position: 6,11
+Position: 9,11
 Health: 5/5
 Items: Gem, Gem, Gem, Iron Bow and Arrows, Iron Pick
 Conditions:[/spoiler]
@@ -200,38 +200,39 @@ Dwarf 1, Miner 1*
 Position: 16,21
 Health: 6/6
 Items: Iron Armour, Iron Shield, Iron Spear, Leather, Stone Pick
-Conditions: 
+Conditions: Hungry
 Class: Warrior?
 
 GRABBIE
 Dwarf 2, Gatherer 3
 Position: 7,8
 Health: 6/6
-Items: Iron Armour, Iron Shield, Sword, Wood, Wood, Wood, Wood, Wood, Wood, Wood, Wood, Wood
+Items: Iron Armour, Iron Shield, Sword, Wood, Wood, Wood, Wood, Wood, Wood
 Conditions: 
 
 URIST MCCOY
 Dwarf 3
 Position: 11,10
 Health: 6/6
-Items: Food, Iron Pick, Iron Spear, Stone, Stone
-Conditions: 
+Items: Food, Iron, Iron Pick, Iron Shield, Iron Spear
+Conditions: Hungry
 Profession: Gatherer? Miner?
 
 URIST MCZEALOT
 Dwarf 4
 Position: 19,15
-Health: 3/6
+Health: 4/6
 Items: Food, Iron, Iron, Iron Shield, Sword
 Conditions: 
+Class: Knight? Warrior?
 Profession: Architect? Gatherer?
 
 TOOYUN TADAI
 Dwarf 5, Hunter 2, Farmer 1
-Position: 16,13
+Position: 18,8
 Health: 6/6
-Items: Food, Food, Food, Iron Armour, Iron Bow and Arrows
-Conditions: Hungry
+Items: Food, Food, Iron Armour, Iron Bow and Arrows
+Conditions: 
 
 TENTOES
 Dwarf 6
@@ -241,14 +242,14 @@ DEWDROP
 Dwarf 7, Miner 3
 Position: 6,11
 Health: 5/6
-Items: Iron Armour, Iron Pick, Iron Shield
-Conditions: Hungry
+Items: Gem, Gem, Iron Armour, Iron Pick, Iron Shield
+Conditions: 
 
 HEPHAESTUS
 Dwarf 8, Warrior 1, Smith 3*
 Position: 24,17
 Health: 6/6
-Items: Food, Iron Armour, Iron Shield, Leather, Leather, Stone Spear, Sword
+Items: Food, Food, Gem, Iron Armour, Iron Shield, Stone Spear, Sword
 Conditions: 
 
 KHRAIN
@@ -256,13 +257,13 @@ Dwarf 9, Hunter 1, Smith 2*
 Position: 11,10
 Health: 6/6
 Items: Iron, Iron, Iron, Iron, Iron Armour
-Conditions: 
+Conditions: Hungry
 
 SHARKBAIT
 Dwarf 10, Knight 2, Gatherer 2
-Position: 24,17
+Position: 28,20
 Health: 6/6
-Items: Food, Food, Food, Food, Iron Armour, Iron Shield, Sword
+Items: Food, Food, Food, Food, Food, Food, Iron Armour, Iron Shield, Sword
 Conditions:[/spoiler]
 Elves
 [spoiler]ZEISS
@@ -270,21 +271,21 @@ Elf 1, Warmage 1, Lumberjack 1*
 Position: 16,21
 Health: 5/5
 Items: Leather, Stone Axe, Stone Spear, Wood Shield
-Conditions: 
+Conditions: Hungry
 
 CYGNUS
 Elf 2, Wizard 1, Gatherer 2
-Position: 44,11
+Position: 43,11
 Health: 5/5
-Items: Food, Food, Food, Food, Gem, Leather, Wood Bow and Arrows, Wood Magic Staff, Wood Shield
-Conditions: 
+Items: Food, Food, Food, Food, Gem, Leather, Stone, Wood Bow and Arrows, Wood Magic Staff, Wood Shield
+Conditions: Hungry
 
 USTVAN
 Elf 3, Hunter 2, Gatherer 3
-Position: 24,17
+Position: 28,20
 Health: 5/5
-Items: Food, Food, Food, Food, Shell Shield, Wood, Wood, Wood Bow and Arrows
-Conditions: Hungry
+Items: Food, Food, Shell Shield, Wood, Wood, Wood Bow and Arrows
+Conditions: 
 
 PRINCE MARVELOUS
 Elf 4
@@ -292,17 +293,17 @@ Died: Turn 43 at 15,15 to 1 Black Goblin and 6 Goblins
 
 AELYSIUS
 Elf 5, Hunter 1, Gatherer 2
-Position: 14,13
+Position: 12,11
 Health: 5/5
-Items: Food, Food, Food, Food, Wood, Wood, Wood, Wood, Wood Bow and Arrows, Wood Shield
-Conditions: 
+Items: Food, Food, Food, Food, Wood, Wood, Wood, Wood Bow and Arrows, Wood Shield
+Conditions: Hungry
 
 GREGOIRE DE MONTESQUIEU
 Elf 6, Gatherer 3
-Position: 5,6
+Position: 7,8
 Health: 5/5
-Items: Stone, Stone, Stone, Stone, Stone, Stone, Stone, Stone, Stone, Stone
-Conditions: 
+Items: 
+Conditions: Hungry
 
 BANBECK
 Elf 7
@@ -315,60 +316,55 @@ Profession: Architect? Gatherer?
 
 SYRIL DAWNTREADER
 Elf 8, Hunter 1
-Position: 3,3
+Position: 5,7
 Health: 5/5
 Items: Food, Food, Leather Armour, Wood Bow and Arrows, Wood Shield
-Conditions: Hungry
+Conditions: 
 Profession: Gatherer?
 
 DRYDA
 Elf 9, Hunter 1, Gatherer 2
-Position: 24,17
+Position: 21,16
 Health: 5/5
-Items: Food, Food, Gem, Leather, Wood Bow and Arrows, Wood Shield, Wood Shield, Wood Spear, Wood Spear, Wood Spear
+Items: Food, Food, Leather, Leather Armour, Wood Bow and Arrows, Wood Shield, Wood Shield, Wood Spear, Wood Spear, Wood Spear
 Conditions: 
 
 ALKY
-Elf 10, Wizard 1, Gatherer 2
-Position: 24,12
-Health: 5/5
-Items: Food, Food, Food, Leather Armour, Stone Pick, Wood, Wood, Wood, Wood Shield, Wood Spear
+Elf 10, Wizard 2, Gatherer 2
+Position: 24,13
+Health: 4/5
+Items: Food, Food, Food, Leather Armour, Wood, Wood, Wood, Wood Shield, Wood Spear
 Conditions: Hungry[/spoiler]
 
 Loose Items
-[spoiler]1,1: 2 Food*, 1 Wood*
-5,6: 2 Food
-6,11: 3 Food, 6 Stone
-7,8: 2 Food, 1 Wood*
-9,11: 1 Wood*
-11,10: 1 Food
-14,13: 7 Food*, 3 Food
-16,21: 2 Wood*, 2 Stone*
-19,15: 1 Wood
-21,17: 2 Food*, 1 Wood*
-22,18: 2 Wood*
-24, 17: 1 Wood*
-45,10: 1 Stone*[/spoiler]
+[spoiler]5,6: 2 Food*
+6,11: 3 Food*, 6 Stone*, 6 Stone
+11,10: 1 Food*, 1 Food, 8 Stone
+14,13: 3 Food*, 3 Food
+16,21: 3 Food, 2 Wood
+19,15: 1 Wood*
+24,13: 1 Stone Pick
+43,11: 2 Stone[/spoiler]
 Structures
 [spoiler]1,1: Dock (13/10 health)
-1,1: Ship Frame (designated; 12/30 Wood)
+1,1: Ship Frame (designated; 13/30 Wood)
 6,11: L3 Mine (-/- health)
-7,8: Storehouse (designated; 0/10 Stone, 0/10 Wood)
+7,8: Storehouse (designated; 4/8 health)
 8,9: Mana Generator (designated; 0/3 Gems, 1/1 Mana Stone, 15/15 Stone)
 8,11: Fishery (6/5 health)
 9,6: Mana Collecter (10/10 health)
 9,10: Workshop (10/8 health, storage 9/20; 2 Leather, 7 Wood)
 9,11: Farm (6/5 health)
 10,9: Bridge (5/5 health)
-10,10: Storehouse (11/8 health, storage 26/50; 13 Stone, 1 Stone Axe, 5 Stone Spear, 6 Wood Shield)
+10,10: Storehouse (11/8 health, storage 35/50; 8 Food, 13 Stone, 1 Stone Axe, 5 Stone Spear, 1 Wood, 6 Wood Shield)
 10,11: Tavern (12/8 health, storage 20/20; 20 Food)
 11,10: L2 Mine (-/- health)
 11,11: Workshop (12/8 health, storage 17/20; 1 Leather, 6 Stone, 10 Wood)
 11,12: Mana Generator (12/10 health)
-11,13: Workshop (10/8 health, storage 10/20; 1 Leather, 9 Wood)
-12,9: Tower (designated; 0/30 Stone, 0/5 Wood)
+11,13: Workshop (10/8 health, storage 6/20; 1 Leather, 1 Stone, 4 Wood)
+12,9: Tower (designated; 19/30 Stone, 1/5 Wood)
 12,10: Smithy (12/8 health)
-12,11: Laboratory (designated; 0/5 Gems, 20/20 Stone, 4/5 Wood)
+12,11: Laboratory (designated; 0/5 Gems, 20/20 Stone, 5/5 Wood)
 12,12: Tavern (9/8 health, storage 20/20; 20 Food; Starlight Dog stationed)
 13,11: Barricade (14/10 health)
 13,12: Tower (16/15 health)
@@ -378,5 +374,3 @@ Structures
 15,9: Bridge (designated; 0/20 Wood)
 16,13: Bridge (designated; 0/20 Wood)
 44,11: Mana Collector (designated; 0/3 Gems, 0/15 Stone)[/spoiler]
-
-Also, in the status thread I've asterisked all of the lumberjacks, smiths, and miners that still have their special one-use actions left.
