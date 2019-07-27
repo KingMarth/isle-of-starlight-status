@@ -83,9 +83,9 @@ Max Health: 1
 Items:
 Conditions: Flier?
 Movement: ???
-Melee Attack Bonus: ??? (3-5), damage 1
+Melee Attack Bonus: +2 (3-8), damage 1 + sickened
 Defense Bonus: +2? (8-8)
-Personality: ???
+Personality: Spawns in Forest of Dust?
 
 Starlight Bison
 Max Health: 5
@@ -142,57 +142,57 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 60
+[b]Known Creatures[/b] Last update: Turn 61
 [spoiler]Deepspawn 23 - Conjured using Wave on river (36,16) turn 50.
-Position: 4,5 (from 12,9 turn 58)
+Position: 1,1 (from 4,5 turn 60)
 Health: 2/3
 
 Deepspawn 24-25 - Appeared from Gurgling Pit (16,21) turn 55.
-Position: 1,1 (from 2,3 turn 59)
+Position: 1,1 (from 1,1 turn 60)
 Health: 3/3
 
 Deepspawn 26-27 - Appeared from Gurgling Pit (16,21) turn 57.
-Position: 5,10 (from 16,21 turn 57)
+Position: 2,3 (from 5,10 turn 60)
 Health: 3/3
 
 Deepspawn 28 - Conjured using Wave on river (19,5) turn 57.
-Position: 12,8 (from 19,5 turn 57)
+Position: 14,10? (from 19,5 turn 57)
 Health: 3/3
 
 Deepspawn 29-32 - Appeared from Gurgling Pit (16,21) turn 58.
-Position: 8,13? (from 16,21 turn 58)
+Position: 5,10? 12,17? (from 16,21 turn 58)
 Health: 3/3
 
 Deepspawn 33-34 - Appeared from Gurgling Pit (16,21) turn 59.
-Position: 12,17 (from 16,21 turn 59)
+Position: 16,21 (from 12,17 turn 60)
 Health: 3/3
 
-Deepspawn 35-36 - Appeared from Gurgling Pit (16,21) turn 60.
-Position: 16,21
+Deepspawn 35-38 - Appeared from Gurgling Pit (16,21) turn 60, 61.
+Position: 16,21 (from 16,21 turn 60)
 Health: 3/3
 
 Horror of the Deep 2 - Conjured using Wave 3 on river (24,13) turn 60.
-Position: 24,13
-Health: 8/8
+Position: 22,13 (from 24,13 turn 60)
+Health: 6?/8
 
 Husk Moth 2 - Appeared in Forest of Dust (30,10) turn 19.
-Position: ???
-Health: 0 damage
+Position: 24,14
+Health: 1/1
 
 Starlight Bison 5 - Appeared on Packlands (8,8) turn 41.
 Position: ??? (from 11,7 turn 43)
 Health: 5/5
 
 Starlight Crab 4 - Appeared from Gurgling Pit (16,21) turn 52.
-Position: ??? (from 6,11 turn 59)
+Position: 1,1 (from 6,11 turn 59)
 Health: 1/4
 
 Starlight Crab 5 - Appeared from Gurgling Pit (16,21) turn 60.
-Position: 16,21
+Position: 16,21 (from 16,21 turn 60)
 Health: 4/4
 
 Starlight Goat 6-8 - Appeared on Packlands river (20,7) turn 58.
-Position: 19,9 (from 20,7 turn 58)
+Position: 20,9 (from 19,9 turn 60)
 Health: 2/2
 
 Wyrmling 4 - Appeared at Acrid Burrow (19,7) turn 20.
