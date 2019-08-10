@@ -74,7 +74,7 @@ Along with this word (name?) comes a rush of information. Some of it may have be
 The explorers felt like there may be more to be learned from this star chart, as well.[/quote]
 [quote="Theory"]Each star chart requires a certain number of survivor-turns to decipher; for example, one survivor could spend five turns Studying the Stars at the chart, or five survivors could each spend one turn for the same effect. When a casting class studies at their matching star chart, they contribute an additional number of survivor-turns towards study equal to their class level. Once deciphered, all survivors gain access to whatever magic is unlocked by the star chart. Each chart has several stars which can be unlocked; each star/syllable can extend the spell?[/quote]
 Star Chart Destroyers ES (15,15): Studied 28+2/30 (unlocked Es at 5, level 2 at 16, level 3 at 30)
-Star Chart Destroyers ??? (31,19): Studied 2+2/5
+Star Chart Destroyers RI (31,19): Studied 4+4/15 (unlocked Ri at 8)
 Star Chart Creators AT (17,13): Studied 25+10/30 (unlocked At at 5, level 2 at 15, level 3 at 29)
 Star Chart Unfathomable OM (17,2): Studied 22+9/30 (unlocked Om at 5, level 2 at 17, level 3 at 31)
 
@@ -115,7 +115,7 @@ Bonus: Building and repairing structures (+1/level HP per action, so 2 HP/Build 
 Ability: You can repair structures up to 50% above their normal maximum health.
 Gaining XP: Perform the Build/Repair action (including designating new structures, adding materials, and adding structure HP).
 
-FARMER - [color=#e8e800]Yellow[/color] [img]https://i.ibb.co/YdNZVT8/Colour-Farmer.png[/img]
+Profession: FARMER - [color=#e8e800]Yellow[/color] [img]https://i.ibb.co/YdNZVT8/Colour-Farmer.png[/img]
 Bonus: Gathering food from farms, fisheries, orchards, or animals
 Ability: You can try to tame a wild beast. This action succeeds on a roll of 5 or 6. If you fail, the beast might attack you.
 Gaining XP: Perform the Gather action using one of the listed structures or using an animal. The Taming action does not grant XP (?).
@@ -165,6 +165,7 @@ Gaining XP: Be targeted by attacks (spells don't count)
 Class: WARMAGE - Top-left pointing triangle ◸ [img]https://image.ibb.co/f7RST0/Attire-Warmage.png[/img]
 Bonus: Destroyer study and all spells
 Ability: When you cast a Destroyer spell it has a 50% chance to deal 1 extra damage.
+[quote="LoneStarNorth [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=48188#p48188]Turn 62[/url]"]Hey look a new spell! Before anyone asks, a warmage DOES have a 50% chance to deal damage with it even though it normally deals none.[/quote]
 Gaining XP: Study the Stars at the Destroyers star chart or Cast a Spell using a Destroyers star.
 
 Class: WARRIOR - Vertical line | [img]https://image.ibb.co/fX8wML/Attire-Warrior.png[/img]

@@ -142,40 +142,32 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 61
-[spoiler]Deepspawn 23 - Conjured using Wave on river (36,16) turn 50.
-Position: 1,1 (from 4,5 turn 60)
-Health: 2/3
-
-Deepspawn 24-25 - Appeared from Gurgling Pit (16,21) turn 55.
+[b]Known Creatures[/b] Last update: Turn 62
+[spoiler]Deepspawn 24-25 - Appeared from Gurgling Pit (16,21) turn 55.
 Position: 1,1 (from 1,1 turn 60)
-Health: 3/3
+Health: 1/3, 3/3
 
 Deepspawn 26-27 - Appeared from Gurgling Pit (16,21) turn 57.
-Position: 2,3 (from 5,10 turn 60)
+Position: 1,1 (from 2,3 turn 61)
 Health: 3/3
 
 Deepspawn 28 - Conjured using Wave on river (19,5) turn 57.
-Position: 14,10? (from 19,5 turn 57)
+Position: 17,14?? (from 19,5 turn 57)
 Health: 3/3
 
 Deepspawn 29-32 - Appeared from Gurgling Pit (16,21) turn 58.
-Position: 5,10? 12,17? (from 16,21 turn 58)
+Position: 2,3 (from 16,21 turn 58)
 Health: 3/3
 
-Deepspawn 33-34 - Appeared from Gurgling Pit (16,21) turn 59.
-Position: 16,21 (from 12,17 turn 60)
-Health: 3/3
-
-Deepspawn 35-38 - Appeared from Gurgling Pit (16,21) turn 60, 61.
-Position: 16,21 (from 16,21 turn 60)
+Deepspawn 33-38 - Appeared from Gurgling Pit (16,21) turn 59, 60, 61.
+Position: 12,17? (from 16,21 turn 61)
 Health: 3/3
 
 Horror of the Deep 2 - Conjured using Wave 3 on river (24,13) turn 60.
-Position: 22,13 (from 24,13 turn 60)
-Health: 6?/8
+Position: 20,13 (from 22,13 turn 61)
+Health: 4/8
 
-Husk Moth 2 - Appeared in Forest of Dust (30,10) turn 19.
+Husk Moth 3 - Appeared beside River of Bones (22,14) turn 61.
 Position: 24,14
 Health: 1/1
 
@@ -183,16 +175,16 @@ Starlight Bison 5 - Appeared on Packlands (8,8) turn 41.
 Position: ??? (from 11,7 turn 43)
 Health: 5/5
 
-Starlight Crab 4 - Appeared from Gurgling Pit (16,21) turn 52.
-Position: 1,1 (from 6,11 turn 59)
-Health: 1/4
-
 Starlight Crab 5 - Appeared from Gurgling Pit (16,21) turn 60.
-Position: 16,21 (from 16,21 turn 60)
+Position: 12,17? (from 16,21 turn 61)
 Health: 4/4
 
-Starlight Goat 6-8 - Appeared on Packlands river (20,7) turn 58.
-Position: 20,9 (from 19,9 turn 60)
+Starlight Goat 6-7 - Appeared on Packlands river (20,7) turn 58. Tamed turn 61 by Atlas and Tooyun Tadai.
+Position: 18,7 (from 20,9 turn 61)
+Health: 2/2
+
+Starlight Goat 8 - Appeared on Packlands river (20,7) turn 58.
+Position: 18,7 (from 20,9 turn 61)
 Health: 2/2
 
 Wyrmling 4 - Appeared at Acrid Burrow (19,7) turn 20.
@@ -294,6 +286,10 @@ Deepspawn 22 - Appeared from Gurgling Pit (16,21) turn 49. Defeated turn 53 by B
 Position: 9,11 (from 11,13)
 Health: -3/3
 
+Deepspawn 23 - Conjured using Wave on river (36,16) turn 50. Defeated turn 62 by Nivek and Grabbie.
+Position: 1,1 (from 1,1 turn 61)
+Health: 0/3
+
 Eye Beast 1 - Appeared on Packlands (19,17) turn 52. Defeated turn 55 by King "Lord" Baron, Castor, Tooyun Tadai, Aelysius, and Banbeck.
 Position: 16,16 (from 16,16)
 Health: 9-10 damage
@@ -361,6 +357,10 @@ Husk Moth 1 - Appeared in Forest of Dust (30,10) turn 19. Defeated turn 56 by Dr
 Position: 14,9
 Health: 0/1
 
+Husk Moth 2 - Appeared in Forest of Dust (30,10) turn 19. Zapped turn 61 by Alky.
+Position: 24,14
+Health: 0/1
+
 Starlight Bison 1 - Appeared on Burnt Plains (11,6) turn 3.
 Position: 11,4
 Health: 0/5
@@ -385,6 +385,10 @@ Health: 0/4
 
 Starlight Crab 3 - Appeared from Gurgling Pit (16,21) turn 52. Defeated turn 56 by Nairi, Smackdoodle, and Zeiss.
 Position: 16,21 (from 17,22 turn 55)
+Health: 0/4
+
+Starlight Crab 4 - Appeared from Gurgling Pit (16,21) turn 52. Defeated turn 61 by Mintina.
+Position: 1,1 (from 6,11 turn 59)
 Health: 0/4
 
 Starlight Dog 1 - Appeared in forest (11,13) turn 4. Defeated turn 18, killing blow by Tooyun Tadai.
