@@ -82,9 +82,9 @@ Husk Moth
 Max Health: 1
 Items:
 Conditions: Flier?
-Movement: ???
+Movement: ??? (2)
 Melee Attack Bonus: +2 (3-8), damage 1 + sickened
-Defense Bonus: +2? (8-8)
+Defense Bonus: +2 (3-8)
 Personality: Spawns in Forest of Dust?
 
 Starlight Bison
@@ -130,6 +130,8 @@ Melee Attack Bonus: +1? (3-7)
 Damage: 1
 Defense Bonus: +1? (3-7)
 Personality: Runs away when injured. Skittish, has left the hex when survivors enter.
+Following: Gain 1 extra Food when gathering.
+Stationed (farm): Increased Food output of structure by 1.
 
 Wyrmling
 Max Health: 4
@@ -142,54 +144,59 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 62
-[spoiler]Deepspawn 24-25 - Appeared from Gurgling Pit (16,21) turn 55.
+[b]Known Creatures[/b] Last update: Turn 63
+[spoiler]Deepspawn 25 - Appeared from Gurgling Pit (16,21) turn 55.
 Position: 1,1 (from 1,1 turn 60)
-Health: 1/3, 3/3
+Health: 1/3
 
 Deepspawn 26-27 - Appeared from Gurgling Pit (16,21) turn 57.
-Position: 1,1 (from 2,3 turn 61)
+Position: 1,1 (from 2,3 turn 62)
 Health: 3/3
 
 Deepspawn 28 - Conjured using Wave on river (19,5) turn 57.
-Position: 17,14?? (from 19,5 turn 57)
+Position: ??? (from 19,5 turn 57)
 Health: 3/3
 
 Deepspawn 29-32 - Appeared from Gurgling Pit (16,21) turn 58.
-Position: 2,3 (from 16,21 turn 58)
+Position: 1,1 (from 2,3 turn 62)
 Health: 3/3
 
 Deepspawn 33-38 - Appeared from Gurgling Pit (16,21) turn 59, 60, 61.
-Position: 12,17? (from 16,21 turn 61)
+Position: 8,13? (from 16,21 turn 61)
 Health: 3/3
 
-Horror of the Deep 2 - Conjured using Wave 3 on river (24,13) turn 60.
-Position: 20,13 (from 22,13 turn 61)
-Health: 4/8
-
-Husk Moth 3 - Appeared beside River of Bones (22,14) turn 61.
-Position: 24,14
-Health: 1/1
+Goblin 21-26 - Appeared from Goblin Village (33,19) turn 63.
+Position: 33,19
+Health: 1 each
 
 Starlight Bison 5 - Appeared on Packlands (8,8) turn 41.
 Position: ??? (from 11,7 turn 43)
 Health: 5/5
 
 Starlight Crab 5 - Appeared from Gurgling Pit (16,21) turn 60.
-Position: 12,17? (from 16,21 turn 61)
+Position: 8,13? (from 16,21 turn 61)
 Health: 4/4
 
-Starlight Goat 6-7 - Appeared on Packlands river (20,7) turn 58. Tamed turn 61 by Atlas and Tooyun Tadai.
-Position: 18,7 (from 20,9 turn 61)
-Health: 2/2
+Starlight Dog 8 - Appeared on Packlands plain (13,14) turn 63.
+Position: 13,14
+Health: 5/5
 
 Starlight Goat 8 - Appeared on Packlands river (20,7) turn 58.
 Position: 18,7 (from 20,9 turn 61)
 Health: 2/2
 
+Starlight Goat 9-10 - Appeared on Packlands plain (13,14) turn 63.
+Position: 13,14
+Health: 2/2
+
 Wyrmling 4 - Appeared at Acrid Burrow (19,7) turn 20.
 Position: ??? (14,9 turn 55?)
 Health: 4/4[/spoiler]
+
+[b]Tamed Creatures[/b]
+[spoiler]Starlight Bison: 4 (turn 58 by Atlas; named Blue)
+Starlight Dogs: 6 (turn 56 by Atlas)
+Starlight Goats: 6, 7 (turn 61 by Atlas and Tooyun Tadai)[/spoiler]
 
 [b]Dead Creatures[/b]
 [spoiler]Dash Asterisk  :Asad: 
@@ -290,6 +297,10 @@ Deepspawn 23 - Conjured using Wave on river (36,16) turn 50. Defeated turn 62 by
 Position: 1,1 (from 1,1 turn 61)
 Health: 0/3
 
+Deepspawn 24 - Appeared from Gurgling Pit (16,21) turn 55. Defeated turn 63 by Mintina, Syril Dawntreader, Nivek, Grabbie.
+Position: 1,1 (from 1,1 turn 60)
+Health: -1/3
+
 Eye Beast 1 - Appeared on Packlands (19,17) turn 52. Defeated turn 55 by King "Lord" Baron, Castor, Tooyun Tadai, Aelysius, and Banbeck.
 Position: 16,16 (from 16,16)
 Health: 9-10 damage
@@ -353,11 +364,19 @@ Horror of the Deep 1 - Appeared on Coast (13,18) turn 10. Defeated turn 25, brou
 Position: 11,16
 Health: 0/8
 
+Horror of the Deep 2 - Conjured using Wave 3 on river (24,13) turn 60. Defeated turn 63 by Urist McZealot and Hephaestus.
+Position: 18,13 (from 20,13 turn 62)
+Health: 0/8
+
 Husk Moth 1 - Appeared in Forest of Dust (30,10) turn 19. Defeated turn 56 by Drogo Cullwort.
 Position: 14,9
 Health: 0/1
 
 Husk Moth 2 - Appeared in Forest of Dust (30,10) turn 19. Zapped turn 61 by Alky.
+Position: 24,14
+Health: 0/1
+
+Husk Moth 3 - Appeared beside River of Bones (22,14) turn 61. Zapped turn 63 by Alky.
 Position: 24,14
 Health: 0/1
 

@@ -60,7 +60,7 @@ One-time: (5 Gems)?, (Mana Stone)
 The Gurgling Pit (16,21): (3 Food) *2, (Gem) *3, (2 Stone 2 Wood) *3, (2 Deepspawn) *10, (1 Starlight Crab) *3
 One-time: (Conch)
 
-Goblin Village dungeon (33,19): ???[/spoiler]
+Goblin Village dungeon (33,19): (3 Food) *1, (3 Goblin) *2[/spoiler]
 
 [b]Star Charts[/b]
 [spoiler][quote="Official Rules"]Study the Stars: The stars are always overhead, but just looking at them doesn't seem to reveal anything. There must be some way to learn more...[/quote][quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=44130#p44130]Turn 7[/url]"]Nivek and Dash met at the star chart obelisk and began to study it. Examining the white dots set into the black stone, they felt something reach out to their minds.
@@ -105,7 +105,7 @@ Impassable Terrain: Impassable hexes can be entered, but doing so ends your move
 [spoiler][quote="Official Rules"]Progression
 By performing certain actions, a character can unlock both a profession (which improves their survival and crafting abilities) and a class (which improves their combat and spellcasting). Each character can have only one profession and one class, and cannot change once they pick one. Each profession and class grants a unique ability or benefit in addition to a bonus to certain actions.
 
-By continuing to perform actions associated with their profession and class, a character can gain additional levels, improving their bonus, up to level 3.[/quote]
+By continuing to perform actions associated with their profession and class, a character can gain additional levels, improving their bonus, up to level 3.[/quote][quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=48249#p48249]Turn 63[/url]"]Reaching level 3 in both your class and your profession marks you as a Hero. Heroes gain +3 maximum health. Perhaps they serve some other purpose as well...[/quote]
 [quote="Working Theory"]Certain acts allow you to gain experience in a Profession or Class (usually taking Actions, though the Knight gains experience through being attacked). On gaining 5 experience you unlock a Profession/Class. On gaining 15 experience total for a Profession/Class (the 5 to get level 1, plus 10 more), you level up to rank 2. To gain rank 3, you need 30 total experience (5 for level 1, +10 for level 2, +15 for level 3). Experience is tracked separately for each Profession/Class, and once you choose a Profession your experience with all other Professions is set to 0 and cannot increase; the same applies for Classes. You can progress in only one Profession and one Class.[/quote]
 
 Professions change the color of your survivor dot on the minimap (default white) and the color of your survivor clothing in closeups. Classes change the shape of your survivor dot on the minimap and the style of your survivor clothing in closeups. [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=46562#p46562]Closeups contributed by GathersIngredients[/url]. Followers appear as black dots in the same hex as the survivor or structure they follow.
