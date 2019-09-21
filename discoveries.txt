@@ -19,7 +19,7 @@ Mana Leak feature: None
 Star Chart feature: None
 
 Mine (level 2, need a pick): Two bonus resources which can be Stone or Iron each.
-Mine (level 3, need a pick): (2 Stone, 1 Iron) x1, (2 Gem) x1, (3 Gem) x1
+Mine (level 3, need a pick): (2 Stone, 1 Iron) x1, (1 Stone, 2 Iron) x1, (2 Gem) x1, (3 Gem) x1
 [quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45942#p45942]Turn 29[/url]"]Mines are a unique cross between structures and terrain features. They count as structures for connectivity purposes, and block other structures from being built. However they can't be destroyed, damaged, or repaired. You need to use a pick to benefit from a mine.[/quote][quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=46306#p46306]Rules Clarification[/url]"]Both the cave and the mine modify the resources gained from the base hex. You can benefit from all three at once.[/quote][quote="Working Theory"]Mines have a table of possible results much like Dungeons. On a Gather action using a Pick, in addition to the regular effects of the hex a d6 is rolled and compared to the table for the Mine of the given level. The resulting resources are added to the outcome of the Gather action; there is no chance of spawning monsters or triggering hazards.[/quote]
 
 Assumption: Dungeons don't add Gather resources.
@@ -75,7 +75,7 @@ The explorers felt like there may be more to be learned from this star chart, as
 [quote="Theory"]Each star chart requires a certain number of survivor-turns to decipher; for example, one survivor could spend five turns Studying the Stars at the chart, or five survivors could each spend one turn for the same effect. When a casting class studies at their matching star chart, they contribute an additional number of survivor-turns towards study equal to their class level. Once deciphered, all survivors gain access to whatever magic is unlocked by the star chart. Each chart has several stars which can be unlocked; each star/syllable can extend the spell?[/quote]
 Star Chart Destroyers ES (15,15): Studied 28+2/30 (unlocked Es at 5, level 2 at 16, level 3 at 30)
 Star Chart Destroyers RI (31,19): Studied 4+4/15 (unlocked Ri at 8)
-Star Chart Creators AT (17,13): Studied 25+10/30 (unlocked At at 5, level 2 at 15, level 3 at 29)
+Star Chart Creators AT (17,13): Studied 26+12/30 (unlocked At at 5, level 2 at 15, level 3 at 29)
 Star Chart Unfathomable OM (17,2): Studied 22+9/30 (unlocked Om at 5, level 2 at 17, level 3 at 31)
 
 OM
@@ -85,7 +85,7 @@ Spell: Wave
 Level 1: A useful resource (or possibly a creature) washes up from a river or coast hex you're occupying.
 Level 2: As level 1, but a useful item (or possibly a dangerous creature).
 Level 3: As level 1, but a powerful item (or possibly a deadly creature).
-[quote="Working Theory"]When casting Wave, roll a d6 [s]and add your Spell bonus[/s]. Look up the result from a table.[/quote]Wave 1 results: (3 Food) *1, (Deepspawn) *2, both with Spell +0. (Deepspawn) *1 with Wizard 1/Spell +0. (Gem) *1, (Iron) *1, (Stone, Stone) *2, (Wood, Wood) *1, (Deepspawn) *1 with Wizard 1/Spell +1.
+[quote="Working Theory"]When casting Wave, roll a d6 [s]and add your Spell bonus[/s]. Look up the result from a table.[/quote]Wave 1 results: (3 Food) *1, (Stone, Stone) *1, (Deepspawn) *2, with Spell +0. (Deepspawn) *1 with Wizard 1/Spell +0. (Gem) *1, (Iron) *1, (Stone, Stone) *2, (Wood, Wood) *1, (Deepspawn) *1 with Wizard 1/Spell +1.
 Wave 2 results: (Stone Pick) x1, with Spell +1
 Wave 3 results: (Leather Armour) x1, (Horror of the Deep) x1, with Wizard 1
 [quote="LoneStarNorth [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45850&sid=1eb56455fad75a0a1e590a9e76f53e0b#p45850]Turn 28[/url]"]I promise Wave has possible results other than summoning a deepspawn. Really![/quote][/spoiler]
@@ -216,7 +216,7 @@ The order in which events happen during a turn is important. First, everyone mov
 [*]Dropping an item is also a maintenance action. [i][b]You cannot drop an item and then move.[/b][/i]
 [*]You also cannot take an action and then move. [i][b]You must end your turn in the same hex where you take an action.[/b][/i] This is to prevent attacking and running away, though you can run away and attack anything that pursues you.
 [*]If your turn depends on ending in the same hex as something that can move (attacking a monster or trading with a survivor), you should strongly consider declaring that you Follow your target.
-[*]You [i][b]cannot[/b][/i] craft an item using items another player (or structure, like the Storehouse) has, or using items on the ground. [i][b]You must start your turn with items in inventory in order to craft using them.[/b][/i] The same applies to building. EXCEPTION: You can use items in Workshops within 3 connected hexes to Craft, though not to Build.
+[*]You [i][b]cannot[/b][/i] craft an item using items another player (or structure, like the Storehouse) has, or using items on the ground. [i][b]You must start your turn with items in inventory in order to craft using them.[/b][/i] The same applies to building. EXCEPTION: You can use items in Workshops (and Taverns) within 3 connected hexes to Craft, though not to Build.
 [*]Taking items out of a structure happens during maintenance, the same as trading with a survivor. [i][b]You can take your normal action on the turn you withdraw resources from a structure.[/b][/i]
 [*]Putting resources towards building [i][b]requires the Build action[/b][/i]. While dropping items on a hex can be done during maintenance, loose items are not part of a structure. Once items are built into a structure, they cannot be recovered.
 [*]If you obtain more items than you can carry, you drop the surplus on the ground. [i][b]If you might gain more items than you can carry, say what items you want in your inventory at end of turn.[/b][/i] Otherwise, you might not be able to do what you want next turn. Dropping and picking up items are both maintenance actions, so you can generally choose what your inventory will look like out of all the items you are carrying and those loose in your hex.
