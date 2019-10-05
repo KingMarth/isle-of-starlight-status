@@ -144,41 +144,37 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 65
-[spoiler]Deepspawn 28 - Conjured using Wave on river (19,5) turn 57.
-Position: 1,1 (from 19,5 turn 57)
-Health: 2/3
-
-Deepspawn 29-32 - Appeared from Gurgling Pit (16,21) turn 58.
+[b]Known Creatures[/b] Last update: Turn 66
+[spoiler]Deepspawn 30-32 - Appeared from Gurgling Pit (16,21) turn 58.
 Position: 1,1 (from 1,1 turn 63)
+Health: 1/3, 3/3
+
+Deepspawn 34-38 - Appeared from Gurgling Pit (16,21) turn 59, 60, 61.
+Position: 10,11 (from 12,12 turn 65)
 Health: 3/3
 
-Deepspawn 33-38 - Appeared from Gurgling Pit (16,21) turn 59, 60, 61.
-Position: 12,12 (from 16,21 turn 61)
+Deepspawn 39 - Conjured using Wave on river (10,9) turn 66.
+Position: 10,9
 Health: 3/3
-
-Goblin 25-26 - Appeared from Goblin Village (33,19) turn 63.
-Position: 33,19 (from 33,19 turn 63)
-Health: 1 each
 
 Starlight Bison 5 - Appeared on Packlands (8,8) turn 41.
 Position: ??? (from 11,7 turn 43)
 Health: 5/5
 
 Starlight Crab 5 - Appeared from Gurgling Pit (16,21) turn 60.
-Position: 10,16? (from 7,11 turn 64)
+Position: 7,11 (from 7,11 turn 64)
 Health: 4/4
 
 Starlight Dog 8 - Appeared on Packlands plain (13,14) turn 63.
-Position: 5,7 (from 9,11 turn 64)
+Position: 9,9 (from 9,11 turn 64)
 Health: 5/5
 
 Starlight Goat 8 - Appeared on Packlands river (20,7) turn 58.
 Position: ??? (from 18,7 turn 62)
 Health: 2/2
 
-Starlight Goat 9-10 - Appeared on Packlands plain (13,14) turn 63.
-Position: 5,7 (from 9,11 turn 64)
+Starlight Goat 10 - Appeared on Packlands plain (13,14) turn 63.
+Position: 9,9 (from 9,11 turn 64)
 Health: 2/2
 
 Wyrmling 4 - Appeared at Acrid Burrow (19,7) turn 20.
@@ -301,6 +297,18 @@ Deepspawn 26-27 - Appeared from Gurgling Pit (16,21) turn 57. Defeated turn 65 b
 Position: 1,1 (from 1,1 turn 63)
 Health: 0/3
 
+Deepspawn 28 - Conjured using Wave on river (19,5) turn 57. Defeated turn 66 by Zeiss, Mintina, and Smackdoodle.
+Position: 1,1 (from 19,5 turn 57)
+Health: 0/3
+
+Deepspawn 29 - Appeared from Gurgling Pit (16,21) turn 58. Defeated turn 66 by Nivek and Grabbie.
+Position: 1,1 (from 1,1 turn 63)
+Health: -1/3
+
+Deepspawn 33 - Appeared from Gurgling Pit (16,21) turn 59. Defeated turn 66 by Vayra, Belteni, Hephaestus.
+Position: 10,11 (from 12,12 turn 65)
+Health: -1/3
+
 Eye Beast 1 - Appeared on Packlands (19,17) turn 52. Defeated turn 55 by King "Lord" Baron, Castor, Tooyun Tadai, Aelysius, and Banbeck.
 Position: 16,16 (from 16,16)
 Health: 9-10 damage
@@ -357,6 +365,10 @@ Position: 33,19
 Health: -1 each
 
 Goblin 23-24 - Appeared from Goblin Village (33,19) turn 63. Defeated turn 65 by King "Lord" Baron and Sharkbait.
+Position: 33,19 (from 33,19 turn 63)
+Health: 0, -1
+
+Goblin 25-26 - Appeared from Goblin Village (33,19) turn 63. Defeated turn 66 by King "Lord" Baron and Lucian Valentini.
 Position: 33,19 (from 33,19 turn 63)
 Health: 0, -1
 
@@ -460,6 +472,10 @@ Health: -1/2
 
 Starlight Goat 5 - Appeared on Packlands (12,10) turn 28. Hunted turn 42 by Jazen.
 Position: 9,7
+Health: 0/2
+
+Starlight Goat 9 - Appeared on Packlands plain (13,14) turn 63. Killed turn 66 by Starlight Dog 8.
+Position: 5,7 (from 9,11 turn 64)
 Health: 0/2
 
 Wyrmling 1 - Appeared on Burnt Plains (10,5) turn 5. May have died turn 26?
