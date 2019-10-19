@@ -19,7 +19,7 @@ Mana Leak feature: None
 Star Chart feature: None
 
 Mine (level 2, need a pick): Two bonus resources which can be Stone or Iron each.
-Mine (level 3, need a pick): (2 Stone, 1 Iron) x1, (1 Stone, 2 Iron) x1, (2 Gem) x1, (3 Gem) x1
+Mine (level 3, need a pick): (3 Stone) x1, (2 Stone, 1 Iron) x1, (1 Stone, 2 Iron) x1, (2 Gem) x1, (3 Gem) x1
 [quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45942#p45942]Turn 29[/url]"]Mines are a unique cross between structures and terrain features. They count as structures for connectivity purposes, and block other structures from being built. However they can't be destroyed, damaged, or repaired. You need to use a pick to benefit from a mine.[/quote][quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=46306#p46306]Rules Clarification[/url]"]Both the cave and the mine modify the resources gained from the base hex. You can benefit from all three at once.[/quote][quote="Working Theory"]Mines have a table of possible results much like Dungeons. On a Gather action using a Pick, in addition to the regular effects of the hex a d6 is rolled and compared to the table for the Mine of the given level. The resulting resources are added to the outcome of the Gather action; there is no chance of spawning monsters or triggering hazards.[/quote]
 
 Assumption: Dungeons don't add Gather resources.
@@ -60,7 +60,11 @@ One-time: (5 Gems)?, (Mana Stone)
 The Gurgling Pit (16,21): (3 Food) *2, (Gem) *3, (2 Stone 2 Wood) *3, (2 Deepspawn) *10, (1 Starlight Crab) *3
 One-time: (Conch)
 
-Goblin Village dungeon (33,19): (3 Food) *2, (3 Goblin) *2[/spoiler]
+Goblin Village dungeon (33,19): (3 Food) *2, (3 Goblin) *4
+One-time: (1 Gem, 2 Goblin, 1 Black Goblin)?
+
+The Dusty Pyramid (41,6): ???
+One-time: (Mana Stone)?[/spoiler]
 
 [b]Star Charts[/b]
 [spoiler][quote="Official Rules"]Study the Stars: The stars are always overhead, but just looking at them doesn't seem to reveal anything. There must be some way to learn more...[/quote][quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=44130#p44130]Turn 7[/url]"]Nivek and Dash met at the star chart obelisk and began to study it. Examining the white dots set into the black stone, they felt something reach out to their minds.
@@ -75,8 +79,9 @@ The explorers felt like there may be more to be learned from this star chart, as
 [quote="Theory"]Each star chart requires a certain number of survivor-turns to decipher; for example, one survivor could spend five turns Studying the Stars at the chart, or five survivors could each spend one turn for the same effect. When a casting class studies at their matching star chart, they contribute an additional number of survivor-turns towards study equal to their class level. Once deciphered, all survivors gain access to whatever magic is unlocked by the star chart. Each chart has several stars which can be unlocked; each star/syllable can extend the spell?[/quote]
 Star Chart Destroyers ES (15,15): Studied 28+2/30 (unlocked Es at 5, level 2 at 16, level 3 at 30)
 Star Chart Destroyers RI (31,19): Studied 4+4/15 (unlocked Ri at 8)
-Star Chart Creators AT (17,13): Studied 27+14/30 (unlocked At at 5, level 2 at 15, level 3 at 29)
+Star Chart Creators AT (17,13): Studied 28+16/30 (unlocked At at 5, level 2 at 15, level 3 at 29)
 Star Chart Unfathomable OM (17,2): Studied 22+9/30 (unlocked Om at 5, level 2 at 17, level 3 at 31)
+Star Chart ?? (37,10)
 
 OM
 Unfathomable

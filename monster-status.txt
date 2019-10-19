@@ -144,37 +144,33 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 66
-[spoiler]Deepspawn 30-32 - Appeared from Gurgling Pit (16,21) turn 58.
-Position: 1,1 (from 1,1 turn 63)
-Health: 1/3, 3/3
-
-Deepspawn 34-38 - Appeared from Gurgling Pit (16,21) turn 59, 60, 61.
-Position: 10,11 (from 12,12 turn 65)
+[b]Known Creatures[/b] Last update: Turn 67
+[spoiler]Deepspawn 36-38 - Appeared from Gurgling Pit (16,21) turn 59, 60, 61.
+Position: 10,11 (from 10,11 turn 66)
 Health: 3/3
 
 Deepspawn 39 - Conjured using Wave on river (10,9) turn 66.
-Position: 10,9
+Position: 10,11 (from 10,9 turn 66)
 Health: 3/3
+
+Eye Beast 2 - Appeared on Packlands (9,13) turn 67.
+Position: 9,13
+Health: 0 damage (max HP 6-10)
+
+Floating Eye 3-6 - Appeared on Packlands (9,13) turn 67.
+Position: 9,13
+Health: 1 each
 
 Starlight Bison 5 - Appeared on Packlands (8,8) turn 41.
 Position: ??? (from 11,7 turn 43)
 Health: 5/5
 
 Starlight Crab 5 - Appeared from Gurgling Pit (16,21) turn 60.
-Position: 7,11 (from 7,11 turn 64)
+Position: 6,11 (from 7,11 turn 66)
 Health: 4/4
-
-Starlight Dog 8 - Appeared on Packlands plain (13,14) turn 63.
-Position: 9,9 (from 9,11 turn 64)
-Health: 5/5
 
 Starlight Goat 8 - Appeared on Packlands river (20,7) turn 58.
 Position: ??? (from 18,7 turn 62)
-Health: 2/2
-
-Starlight Goat 10 - Appeared on Packlands plain (13,14) turn 63.
-Position: 9,9 (from 9,11 turn 64)
 Health: 2/2
 
 Wyrmling 4 - Appeared at Acrid Burrow (19,7) turn 20.
@@ -182,9 +178,10 @@ Position: ??? (14,9 turn 55?)
 Health: 4/4[/spoiler]
 
 [b]Tamed Creatures[/b]
-[spoiler]Starlight Bison: 4 (turn 58 by Atlas; named Blue)
+[spoiler]Homunculus: 1 (crafted turn 65 by Khrain)
+Starlight Bison: 4 (turn 58 by Atlas; named Blue)
 Starlight Dogs: 6 (turn 56 by Atlas)
-Starlight Goats: 6, 7 (turn 61 by Atlas and Tooyun Tadai)[/spoiler]
+Starlight Goats: 6 (turn 61 by Atlas; named Bill), 7 (turn 61 by Tooyun Tadai)[/spoiler]
 
 [b]Dead Creatures[/b]
 [spoiler]Dash Asterisk  :Asad: 
@@ -305,9 +302,17 @@ Deepspawn 29 - Appeared from Gurgling Pit (16,21) turn 58. Defeated turn 66 by N
 Position: 1,1 (from 1,1 turn 63)
 Health: -1/3
 
+Deepspawn 30-32 - Appeared from Gurgling Pit (16,21) turn 58. Defeated turn 67 by Zeiss, Mintina, Smackdoodle, Syril Dawntreader, and Nivek.
+Position: 1,1 (from 1,1 turn 63)
+Health: 0/3
+
 Deepspawn 33 - Appeared from Gurgling Pit (16,21) turn 59. Defeated turn 66 by Vayra, Belteni, Hephaestus.
 Position: 10,11 (from 12,12 turn 65)
 Health: -1/3
+
+Deepspawn 34-35 - Appeared from Gurgling Pit (16,21) turn 59, 60, 61. Defeated turn 67 by Vayra the Strong, Belteni, Shifty McGinty, and Hephaestus.
+Position: 10,11 (from 10,11 turn 66)
+Health: 0/3
 
 Eye Beast 1 - Appeared on Packlands (19,17) turn 52. Defeated turn 55 by King "Lord" Baron, Castor, Tooyun Tadai, Aelysius, and Banbeck.
 Position: 16,16 (from 16,16)
@@ -454,6 +459,10 @@ Starlight Dog 7 - Appeared on Packlands forest (11,13) turn 55. Defeated turn 56
 Position: 11,13
 Health: 1?/5
 
+Starlight Dog 8 - Appeared on Packlands plain (13,14) turn 63. Eaten turn 67 by Eye Beast 2.
+Position: 9,13 (from 9,9 turn 66)
+Health: dead/5
+
 Starlight Goat 1 - Appeared on Burnt Plains (11,6) turn 8. Possibly eaten by wyrmlings turn 26.
 Position: 17,5
 Health: 0/2?
@@ -477,6 +486,10 @@ Health: 0/2
 Starlight Goat 9 - Appeared on Packlands plain (13,14) turn 63. Killed turn 66 by Starlight Dog 8.
 Position: 5,7 (from 9,11 turn 64)
 Health: 0/2
+
+Starlight Goat 10 - Appeared on Packlands plain (13,14) turn 63. Defeated turn 67 by Floating Eye 3-6.
+Position: 9,13 (from 9,9 turn 66)
+Health: dead/2
 
 Wyrmling 1 - Appeared on Burnt Plains (10,5) turn 5. May have died turn 26?
 Position: 17,5
