@@ -12,7 +12,7 @@ Personality: Follows other monsters. As a group, they attack separate targets, u
 Eye Beast
 Max Health: 8? (6-10)
 Items: 5 Food, 5 Leather
-Conditions: Shell: Leaves behind an Eye Beast Core after death.
+Conditions: Shell: Leaves behind an Eye Beast Core after death. The Eye Beast Core can immediately participate in combat that turn (only if Eye Beast is killed before Melee phase?).
 Movement: 3-3
 Melee Attack Bonus: +2?, +2 per Floating Eye? (9-12) with 2 Floating Eyes, (6-6) with 1 Floating Eye.
 Damage: 2
@@ -24,7 +24,7 @@ Max Health: 4? (3-4)
 Items: Giant Lens
 Conditions: Flier: Ignores Difficult Terrain.
 Movement: 4
-Melee Attack Bonus: ???
+Melee Attack Bonus: ??? (5-5)
 Damage: 2?
 Defense Bonus: +2? (8-8)
 Personality: Tries to escape
@@ -144,20 +144,16 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 68
+[b]Known Creatures[/b] Last update: Turn 69
 [spoiler]Deepspawn 37-38 - Appeared from Gurgling Pit (16,21) turn 61.
-Position: 10,11 (from 10,11 turn 66)
-Health: 3/3
+Position: 8,8 (from 10,11 turn 68)
+Health: 2/3, 3/3
 
 Deepspawn 39 - Conjured using Wave on river (10,9) turn 66.
-Position: 10,11 (from 10,11 turn 67)
+Position: 8,8 (from 10,11 turn 68)
 Health: 3/3
 
-Eye Beast 2 - Appeared on Packlands (9,13) turn 67.
-Position: 9,11 (from 9,13 turn 67)
-Health: 0 damage (max HP 6-10)
-
-Goblin 30-34 - Appeared from Goblin Village (33,19) turn 67.
+Goblin 32-34 - Appeared from Goblin Village (33,19) turn 67.
 Position: 33,19 (from 33,19 turn 67)
 Health: 1 each
 
@@ -166,7 +162,7 @@ Position: ??? (from 11,7 turn 43)
 Health: 5/5
 
 Starlight Crab 5 - Appeared from Gurgling Pit (16,21) turn 60.
-Position: 9,15? (from 6,11 turn 67)
+Position: 6,11 (from 6,11 turn 67)
 Health: 4/4
 
 Starlight Goat 8 - Appeared on Packlands river (20,7) turn 58.
@@ -178,11 +174,11 @@ Position: ??? (14,9 turn 55?)
 Health: 4/4
 
 Wyrmling 10 - Appeared on Wyrmpeak (24,3) turn 68.
-Position: 24,3
+Position: 24,2 (24,3 turn 68)
 Health: 4/4
 
 Wyrmling 11-12 - Appeared on Wyrmpeak (26,4) turn 68.
-Position: 26,4
+Position: 26,5 (26,4 turn 68)
 Health: 4/4[/spoiler]
 
 [b]Tamed Creatures[/b]
@@ -330,9 +326,17 @@ Eye Beast 1 - Appeared on Packlands (19,17) turn 52. Defeated turn 55 by King "L
 Position: 16,16 (from 16,16)
 Health: 9-10 damage
 
+Eye Beast 2 - Appeared on Packlands (9,13) turn 67. Defeated turn 69 by Zeiss, David, Mintina, Belteni, Khrain, Banbeck, Shifty McGinty, and Urist McZealot.
+Position: 9,11 (from 9,13 turn 67)
+Health: 8? damage (max HP 6-10)
+
 Eye Beast Core 1 - Appeared on Packlands (16,16) turn 55 from corpse of Eye Beast 1. Defeated turn 56 by King "Lord" Baron, Ustvan, and Aelysius.
 Position: 16,12 (from 16,16)
 Health: 4 damage
+
+Eye Beast Core 2 - Appeared on Packlands (9,13) turn 69. Defeated turn 69 by Zeiss, David, Mintina, Belteni, Khrain, Banbeck, Shifty McGinty, and Urist McZealot.
+Position: 9,11
+Health: 4? damage (max HP 3-4)
 
 Floating Eye 1 - Appeared on Packlands (19,17) turn 52. Defeated turn 53 by Ustvan.
 Position: 16,15 (from 19,17)
@@ -400,6 +404,10 @@ Health: 0, -1
 Goblin 27-29 - Appeared from Goblin Village (33,19) turn 67. Defeated turn 68 by Lucian Valentini, Ustvan, and Sharkbait.
 Position: 33,19 (from 33,19 turn 63)
 Health: -1, 0, -1
+
+Goblin 30-31 - Appeared from Goblin Village (33,19) turn 67. Defeated turn 69 by King "Lord" Baron and Sharkbait.
+Position: 33,19 (from 33,19 turn 67)
+Health: 0, -1
 
 Hobgoblin 2 - Appeared on Frogwood (24,17) turn 58. Defeated turn 59 by Hephaestus.
 Position: 24,17
