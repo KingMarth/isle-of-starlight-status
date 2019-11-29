@@ -144,25 +144,29 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 69
-[spoiler]Deepspawn 37-38 - Appeared from Gurgling Pit (16,21) turn 61.
-Position: 8,8 (from 10,11 turn 68)
-Health: 2/3, 3/3
+[b]Known Creatures[/b] Last update: Turn 70
+[spoiler]Deepspawn 38 - Appeared from Gurgling Pit (16,21) turn 61.
+Position: 9,11 (from 8,8 turn 69)
+Health: 1/3
 
 Deepspawn 39 - Conjured using Wave on river (10,9) turn 66.
-Position: 8,8 (from 10,11 turn 68)
+Position: 9,11 (from 8,8 turn 69)
 Health: 3/3
 
-Goblin 32-34 - Appeared from Goblin Village (33,19) turn 67.
+Goblin 34-36 - Appeared from Goblin Village (33,19) turn 67, 69.
 Position: 33,19 (from 33,19 turn 67)
 Health: 1 each
+
+Hobgoblin 3 - Appeared from Goblin Village (33,19) turn 69.
+Position: 33,19 (from 33,19 turn 69)
+Health: 1
 
 Starlight Bison 5 - Appeared on Packlands (8,8) turn 41.
 Position: ??? (from 11,7 turn 43)
 Health: 5/5
 
 Starlight Crab 5 - Appeared from Gurgling Pit (16,21) turn 60.
-Position: 6,11 (from 6,11 turn 67)
+Position: 9,15? (from 6,11 turn 69)
 Health: 4/4
 
 Starlight Goat 8 - Appeared on Packlands river (20,7) turn 58.
@@ -174,11 +178,11 @@ Position: ??? (14,9 turn 55?)
 Health: 4/4
 
 Wyrmling 10 - Appeared on Wyrmpeak (24,3) turn 68.
-Position: 24,2 (24,3 turn 68)
+Position: ??? (24,2 turn 69)
 Health: 4/4
 
 Wyrmling 11-12 - Appeared on Wyrmpeak (26,4) turn 68.
-Position: 26,5 (26,4 turn 68)
+Position: ??? (26,5 turn 69)
 Health: 4/4[/spoiler]
 
 [b]Tamed Creatures[/b]
@@ -322,6 +326,10 @@ Deepspawn 36 - Appeared from Gurgling Pit (16,21) turn 60. Defeated turn 68 by D
 Position: 10,11 (from 10,11 turn 66)
 Health: -1/3
 
+Deepspawn 37 - Appeared from Gurgling Pit (16,21) turn 61. Defeated turn 70 by Mintina.
+Position: 9,11 (from 8,8 turn 69)
+Health: 0/3
+
 Eye Beast 1 - Appeared on Packlands (19,17) turn 52. Defeated turn 55 by King "Lord" Baron, Castor, Tooyun Tadai, Aelysius, and Banbeck.
 Position: 16,16 (from 16,16)
 Health: 9-10 damage
@@ -409,13 +417,17 @@ Goblin 30-31 - Appeared from Goblin Village (33,19) turn 67. Defeated turn 69 by
 Position: 33,19 (from 33,19 turn 67)
 Health: 0, -1
 
-Hobgoblin 2 - Appeared on Frogwood (24,17) turn 58. Defeated turn 59 by Hephaestus.
-Position: 24,17
-Health: 0/2
+Goblin 32-33 - Appeared from Goblin Village (33,19) turn 67. Defeated turn 70 by King "Lord" Baron and Lucian Valentini.
+Position: 33,19 (from 33,19 turn 67)
+Health: 0, -1
 
 Hobgoblin 1 - Appeared on Burnt Plains (15,14) turn 23. Defeated turn 27 by Smackdoodle and Urist McZealot.
 Position: 13,12
 Health: 2 damage
+
+Hobgoblin 2 - Appeared on Frogwood (24,17) turn 58. Defeated turn 59 by Hephaestus.
+Position: 24,17
+Health: 0/2
 
 Horror of the Deep 1 - Appeared on Coast (13,18) turn 10. Defeated turn 25, brought down by Dinari, Nivek, King, and Ustvan.
 Position: 11,16
