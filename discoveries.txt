@@ -20,6 +20,7 @@ Star Chart feature: None
 
 Mine (level 2, need a pick): Two bonus resources which can be Stone or Iron each.
 Mine (level 3, need a pick): (3 Stone) x2, (2 Stone, 1 Iron) x2, (1 Stone, 2 Iron) x2, (1 Gem, 2 Iron) x1, (2 Gem) x1, (3 Gem) x1
+Three bonus resources which can be Stone, Iron, or Gem each.
 [quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45942#p45942]Turn 29[/url]"]Mines are a unique cross between structures and terrain features. They count as structures for connectivity purposes, and block other structures from being built. However they can't be destroyed, damaged, or repaired. You need to use a pick to benefit from a mine.[/quote][quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=46306#p46306]Rules Clarification[/url]"]Both the cave and the mine modify the resources gained from the base hex. You can benefit from all three at once.[/quote][quote="Working Theory"]Mines have a table of possible results much like Dungeons. On a Gather action using a Pick, in addition to the regular effects of the hex a d6 is rolled and compared to the table for the Mine of the given level. The resulting resources are added to the outcome of the Gather action; there is no chance of spawning monsters or triggering hazards.[/quote]
 
 Assumption: Dungeons don't add Gather resources.
@@ -80,8 +81,8 @@ The explorers felt like there may be more to be learned from this star chart, as
 Star Chart Destroyers ES (15,15): Studied 28+2/30 (unlocked Es at 5, level 2 at 16, level 3 at 30)
 Star Chart Destroyers RI (31,19): Studied 4+4/15 (unlocked Ri at 8)
 Star Chart Creators AT (17,13): Studied 28+16/30 (unlocked At at 5, level 2 at 15, level 3 at 29)
-Star Chart Unfathomable OM (17,2): Studied 22+9/30 (unlocked Om at 5, level 2 at 17, level 3 at 31)
 Star Chart Creators MU (37,10): Studied 5/15 (unlocked Mu at 5)
+Star Chart Unfathomable OM (17,2): Studied 22+9/30 (unlocked Om at 5, level 2 at 17, level 3 at 31)
 
 OM
 Unfathomable
