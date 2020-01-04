@@ -52,7 +52,7 @@ A randomly determined result might have another random number pass to determine 
 Tower of Wreckage dungeon (9,1): (3 Wood), (Deepspawn), (2 Deepspawn), (Collapse: Ranged attack 5-5, 1 damage)
 One-time: (Mana Stone), (Shell Shield)
 
-Beneath the Suspicious Hill dungeon (23, 19): (3 Stone), (Food, Stone?), (Gem), (Starlight Dog), (2 Starlight Dog)
+Beneath the Suspicious Hill dungeon (23, 19): (3 Stone) *2, (Food, Stone?), (Gem), (Starlight Dog), (2 Starlight Dog)
 Halfling bonus?
 
 The Acrid Burrow dungeon (19,7): (2 Food) *3, (Gem) *4, (2 Gem), (2 Stone), (Wyrmling) *5, (2 Wyrmling), (Acrid Puddle: Melee attack +2 3-8, 1 damage + sickness) *3
@@ -61,7 +61,7 @@ One-time: (5 Gems)?, (Mana Stone)
 The Gurgling Pit (16,21): (3 Food) *2, (Gem) *3, (2 Stone 2 Wood) *3, (2 Deepspawn) *10, (1 Starlight Crab) *3
 One-time: (Conch)
 
-Goblin Village dungeon (33,19): (3 Food) *2, (3 Goblin) *4, (2 Goblin, 1 Hobgoblin) *1
+Goblin Village dungeon (33,19): (3 Food) *4, (3 Goblin) *4, (2 Goblin, 1 Hobgoblin) *1
 One-time: (1 Gem, 2 Goblin, 1 Black Goblin)?
 
 The Dusty Pyramid (41,6): ???
@@ -91,7 +91,7 @@ Spell: Wave
 Level 1: A useful resource (or possibly a creature) washes up from a river or coast hex you're occupying.
 Level 2: As level 1, but a useful item (or possibly a dangerous creature).
 Level 3: As level 1, but a powerful item (or possibly a deadly creature).
-[quote="Working Theory"]When casting Wave, roll a d6 [s]and add your Spell bonus[/s]. Look up the result from a table.[/quote]Wave 1 results: (3 Food) *1, (Stone, Stone) *1, (Iron) *1, (Deepspawn) *2, with Spell +0. (Deepspawn) *1 with Wizard 1/Spell +0. (Gem) *1, (Iron) *1, (Stone, Stone) *2, (Wood, Wood) *1, (Deepspawn) *1 with Wizard 1/Spell +1.
+[quote="Working Theory"]When casting Wave, roll a d6 [s]and add your Spell bonus[/s]. Look up the result from a table.[/quote]Wave 1 results: (3 Food) *1, (Stone, Stone) *2, (Iron) *1, (Deepspawn) *2, with Spell +0. (Deepspawn) *1 with Wizard 1/Spell +0. (Gem) *1, (Iron) *1, (Stone, Stone) *2, (Wood, Wood) *1, (Deepspawn) *1 with Wizard 1/Spell +1.
 Wave 2 results: (Stone Pick) x1, with Spell +1
 Wave 3 results: (Leather Armour) x1, (Horror of the Deep) x1, with Wizard 1
 [quote="LoneStarNorth [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45850&sid=1eb56455fad75a0a1e590a9e76f53e0b#p45850]Turn 28[/url]"]I promise Wave has possible results other than summoning a deepspawn. Really![/quote][/spoiler]
@@ -232,10 +232,11 @@ The order in which events happen during a turn is important. First, everyone mov
 [*]By default, all survivors Eat during maintenance, taking food from: their own inventory, food stored in the hex (possibly including on the ground as well as in structures), or the inventory of other survivors in the same hex ([i][b]only when the survivor is idle[/b][/i]), in that order. However, if you specify a list of maintenance actions and do not say you are eating, [i][b]then you will not eat[/b][/i]. The Tavern provides food to survivors on connected structures up to three hexes away, presumably defaulting after food in your inventory but before food in other survivors' inventories, though you can(?) choose to explicitly eat from the Tavern even if you have food in your inventory.
 [*]All Attacks are resolved during actions, after movement and before maintenance. First, spells are resolved (whether they make attack rolls or not); next, ranged attacks are resolved; finally, melee attacks are resolved. All Attacks of the same 'speed' resolve at the same time; this means that if a monster with 1 HP fights a survivor and both take Melee attacks, then it is impossible for the survivor to roll 'first' and kill the monster before it can attack. However, if a survivor takes a Ranged attack against a monster with 1 HP which takes a Melee attack, then since Ranged attacks are all resolved first, the Ranged attack can hit and kill the monster before it has a chance to make that Melee attack.
 [*]All Spells are resolved before Attacks, so casting the Heal spell will only do something when targeting a survivor who is injured at the start of the turn. You [i][b]cannot[/b][/i] use the Heal spell to heal combat damage on the turn that a survivor is injured.
-[*]All non-combat, non-Spell actions are resolved after combat. For example, the Repair action will restore HP to a structure after combat has happened, so you can Repair damage dealt to a structure on the turn that the structure is damaged (and if a structure is already damaged, you [i][b]cannot[/b][/i] Repair it before it is Attacked on the same turn).
+[*]All Spells are resolved at the same time, so casting the Freeze spell (which halves the target's combat rolls for the turn on a hit) will not change the target's defense roll against another Spell attack, or reduce the target's Spell attack roll.
+[*]All non-combat, non-Spell actions are resolved after combat. For example, the Repair action will restore HP to a structure after combat has happened, so you can Repair damage dealt to a structure on the turn that the structure is damaged (and if a structure is already damaged, you [i][b]cannot[/b][/i] Repair it before it is Attacked on the same turn, though you can cast Conjure).
 [*]When deciding how to Attack: If all else is equal, take a faster attack (e.g. the Wood Spear has a +1 Melee attack for 1 damage and a +1 Ranged attack for 1 damage; only take a Melee attack if you want experience towards the Warrior class). However, attack speed doesn't always matter. If the weakest monster you might Attack has more hit points left than the total amount of damage all survivors in the area could deal with Ranged attacks, then it does not matter whether you take a Ranged or Melee attack since it is impossible to kill the monster before it takes a Melee attack. Similarly, if you are fighting a monster with Ranged or Spell attacks, then it doesn't matter if your attack is slower (because if you are in danger of death you should be getting out of there instead of attacking). In these cases, a weapon like the Stone Spear (+2 Melee vs +1 Ranged) should be used in Melee to increase the effectiveness of your attack.
 [*]Remember that anyone can play any character. While it'll likely be assumed that any action you post will apply to a character you've consistently played even if you don't specify, you should always clearly state which character you are controlling on a given turn.
-[*]Mana is first-come, first-served; the first character to post using the Cast a Spell action will be the one to use mana for the turn. Mana cannot be stockpiled between turns (unless some future structure allows that...).
+[*]Mana is first-come, first-served; the first character to post using the Cast a Spell action will be the one to use mana for the turn. Mana cannot be stockpiled between turns.
 [*]Study the Stars does not seem to have any effect when not on a Star Chart.[/list]
 
 To reduce mistakes and make things easier for LoneStarNorth, the following format is recommended at the end of your post:
@@ -250,3 +251,4 @@ To make things easier for me when reverse-engineering rules, it is appreciated i
 To-hit Probability (exact): 1/36  3/36  6/36  10/36 15/36 21/36 26/36 30/36 33/36 35/36 36/36
 To-hit Probability (%):     3%    8%    17%   28%   42%   58%   72%   83%   92%   97%   100%[/code]
 [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=44077#p44077]Proof[/url][/spoiler]
+

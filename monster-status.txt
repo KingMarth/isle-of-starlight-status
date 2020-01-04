@@ -144,30 +144,14 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 71
-[spoiler]Deepspawn 39 - Conjured using Wave on river (10,9) turn 66.
-Position: 6,10 (from 9,11 turn 70)
-Health: 1/3
-
-Goblin 36 - Appeared from Goblin Village (33,19) turn 69.
-Position: 33,19 (from 33,19 turn 67)
-Health: 1 each
-
-Starlight Bison 5 - Appeared on Packlands (8,8) turn 41.
+[b]Known Creatures[/b] Last update: Turn 72
+[spoiler]Starlight Bison 5 - Appeared on Packlands (8,8) turn 41.
 Position: ??? (from 11,7 turn 43)
 Health: 5/5
-
-Starlight Crab 5 - Appeared from Gurgling Pit (16,21) turn 60.
-Position: 6,11 (from 6,11 turn 69)
-Health: 4/4
 
 Starlight Goat 8 - Appeared on Packlands river (20,7) turn 58.
 Position: ??? (from 18,7 turn 62)
 Health: 2/2
-
-Wyrmling 4 - Appeared at Acrid Burrow (19,7) turn 20.
-Position: ??? (14,9 turn 55?)
-Health: 4/4
 
 Wyrmling 10 - Appeared on Wyrmpeak (24,3) turn 68.
 Position: ??? (24,2 turn 69)
@@ -326,6 +310,10 @@ Deepspawn 38 - Appeared from Gurgling Pit (16,21) turn 61. Defeated turn 71 by H
 Position: 6,10 (from 9,11 turn 70)
 Health: 0/3
 
+Deepspawn 39 - Conjured using Wave on river (10,9) turn 66. Defeated turn 72 by Mintina.
+Position: 6,10 (from 6,10 turn 71)
+Health: 0/3
+
 Eye Beast 1 - Appeared on Packlands (19,17) turn 52. Defeated turn 55 by King "Lord" Baron, Castor, Tooyun Tadai, Aelysius, and Banbeck.
 Position: 16,16 (from 16,16)
 Health: 9-10 damage
@@ -421,6 +409,10 @@ Goblin 34-35 - Appeared from Goblin Village (33,19) turn 67, 69. Defeated turn 7
 Position: 33,19 (from 33,19 turn 67)
 Health: 0,-1
 
+Goblin 36 - Appeared from Goblin Village (33,19) turn 69. Defeated turn 72 by King "Lord" Baron.
+Position: 33,19 (from 33,19 turn 67)
+Health: 0
+
 Hobgoblin 1 - Appeared on Burnt Plains (15,14) turn 23. Defeated turn 27 by Smackdoodle and Urist McZealot.
 Position: 13,12
 Health: 2 damage
@@ -481,6 +473,10 @@ Health: 0/4
 
 Starlight Crab 4 - Appeared from Gurgling Pit (16,21) turn 52. Defeated turn 61 by Mintina.
 Position: 1,1 (from 6,11 turn 59)
+Health: 0/4
+
+Starlight Crab 5 - Appeared from Gurgling Pit (16,21) turn 60. Defeated turn 72 by Hephaestus.
+Position: 6,10 (from 6,11 turn 71)
 Health: 0/4
 
 Starlight Dog 1 - Appeared in forest (11,13) turn 4. Defeated turn 18, killing blow by Tooyun Tadai.
@@ -547,15 +543,19 @@ Wyrmling 2 - Appeared from Acrid Burrow (19,7) turn 18. Defeated turn 36 by Cygn
 Position: 15,7
 Health: 0/4
 
-Wyrmling 3 - Appeared from Acrid Burrow (19,7) turn 18.
+Wyrmling 3 - Appeared from Acrid Burrow (19,7) turn 18. Lost track, may be Wyrmling 10.
 Position: 13,7
 Health: 0/4
+
+Wyrmling 4 - Appeared at (not from) Acrid Burrow (19,7) turn 20. Lost track, may be Wyrmling 11.
+Position: ??? (19,7 turn 22)
+Health: 4/4
 
 Wyrmling 5 - Appeared from Acrid Burrow (19,7) turn 36. Defeated turn 37 by King, Alky, Dinari, and Aelysius.
 Position: 19,7
 Health: 0/4
 
-Wyrmling 6 - Appeared from Acrid Burrow (19,7) turn 36.
+Wyrmling 6 - Appeared from Acrid Burrow (19,7) turn 36. Defeated turn 39 by Aelysius, Syril, Alky.
 Position: 19,7
 Health: 0/4
 
