@@ -49,6 +49,16 @@ Damage: 2?
 Defense Bonus: ???
 Personality: ???
 
+Glass Man
+Max Health: 5?
+Items: ???
+Conditions: ???
+Movement: 3
+Melee Attack Bonus: +2? (4-8)
+Damage: 1
+Defense Bonus: ???
+Personality: Attacks Black Goblins
+
 Goblin
 Max Health: 1
 Items: (carried equipment)
@@ -64,7 +74,7 @@ Max Health: 2
 Items: (carried equipment)
 Conditions: Thieves, Fey?, Warlord: Provides 'fervor' to Goblins (in the same hex?). Theory: +1 to Melee/Ranged accuracy
 Movement: 3?
-Melee Attack Bonus: +2? (8-8) using Wood Spears
+Melee Attack Bonus: +2? (7-7) unarmed, +2? (8-8) using Wood Spears
 Ranged Attack Bonus: +2? (8-8) using Wood Spear
 Defense Bonus: +2? (4-6)
 Personality: Travels with Goblins
@@ -96,16 +106,6 @@ Movement: ??? (2)
 Melee Attack Bonus: +2 (3-8), damage 1 + sickened
 Defense Bonus: +2 (3-8)
 Personality: Spawns in Forest of Dust?
-
-Lightbulb
-Max Health: 5?
-Items: ???
-Conditions: ???
-Movement: ???
-Melee Attack Bonus: ???
-Damage: 1?
-Defense Bonus: ???
-Personality: ???
 
 Starlight Bison
 Max Health: 5
@@ -164,29 +164,33 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 76
+[b]Known Creatures[/b] Last update: Turn 77
 [spoiler]Black Goblin 4 - Appeared from Goblin Village (33,19) turn 76.
-Position: 33,19
-Health: 2/2
+Position: 33,19 (from 33,19 turn 76)
+Health: 1/2
 
-Goblin 41-46? - Appeared from Goblin Village (33,19) turn 76.
-Position: 33,19
+Goblin 45-46 - Appeared from Goblin Village (33,19) turn 76.
+Position: 33,19 (from 33,19 turn 76)
 Health: 1 each
 
 Hobgoblin 5 - Appeared from Goblin Village (33,19) turn 76.
-Position: 33,19
+Position: 33,19 (from 33,19 turn 76)
 Health: 0 damage
 
-Lightbulb 1/Hankel - Appeared on Glass Furnace (43,16) turn 73.
-Position: ??? (from 43,16 turn 73)
+Glass Man 1/Hankel - Appeared on Glass Furnace (43,16) turn 73.
+Position: 33,19 (from 43,16 turn 73)
 Health: 0 damage
 
-Lightbulb 2/Manx - Appeared on Glass Furnace (43,16) turn 73.
-Position: ??? (from 43,16 turn 73)
+Glass Man 2/Manx - Appeared on Glass Furnace (43,16) turn 73.
+Position: 33,19 (from 43,16 turn 73)
 Health: 0 damage
 
-Starlight Bison 5 - Appeared on Packlands (8,8) turn 41.
-Position: 12,10 (from 12,12 turn 75)
+Husk Moth 5-7 - Appeared from Dusty Pyramid (41,6) turn 77.
+Position: 41,6
+Health: 1 each
+
+Starlight Dog 9-10 - Appeared from Beneath the Suspicious Hill (23,19) turn 76.
+Position: 23,19 (from 23,19 turn 76)
 Health: 5/5
 
 Starlight Goat 8 - Appeared on Packlands river (20,7) turn 58.
@@ -194,18 +198,18 @@ Position: ??? (from 18,7 turn 62)
 Health: 2/2
 
 Wyrmling 10 - Appeared on Wyrmpeak (24,3) turn 68.
-Position: 1,1 (24,2 turn 69)
-Health: 4/4
+Position: 1,1 (1,1 turn 76)
+Health: 2/4
 
 Wyrmling 11-12 - Appeared on Wyrmpeak (26,4) turn 68.
-Position: ??? (26,5 turn 69)
-Health: 4/4[/spoiler]
+Position: 14,9 (26,5 turn 69)
+Health: 1/4, 4/4[/spoiler]
 
 [b]Tamed Creatures[/b]
 [spoiler]Homunculus: 1 (crafted turn 65 by Khrain)
-Starlight Bison: 4 (turn 58 by Atlas; named Blue)
+Starlight Bison: 4 (turn 58 by Atlas; named Blue), 5 (turn 77 by Mintina)
 Starlight Dogs: 6 (turn 56 by Atlas)
-Starlight Goats: 6 (turn 61 by Atlas; named Bill), 7 (turn 61 by Tooyun Tadai; named Pliff)[/spoiler]
+Starlight Goats: 6 (turn 61 by Atlas; named Bill), 7 (turn 61 by Tooyun Tadai; named [s]Pliff Biff[/s] Boff Goatman)[/spoiler]
 
 [b]Dead Creatures[/b]
 [spoiler]Dash Asterisk  :Asad: 
@@ -460,6 +464,11 @@ Health: 0 each
 Goblin 39-40 - Appeared from Goblin Village (33,19) turn 74. Defeated turn 75 by Cygnus.
 Position: 33,17
 Health: 0 each
+
+Goblin 41-44 - Appeared from Goblin Village (33,19) turn 76. Defeated turn 77 by Cygnus, King "Lord" Baron, Lucian Valentini, and Syril Dawntreader.
+Position: 33,19 (from 33,19 turn 76)
+Health: 0, 0, -1, 0
+
 
 Hobgoblin 1 - Appeared on Burnt Plains (15,14) turn 23. Defeated turn 27 by Smackdoodle and Urist McZealot.
 Position: 13,12
