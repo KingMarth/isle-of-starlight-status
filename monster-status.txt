@@ -54,7 +54,7 @@ Max Health: 5?
 Items: ???
 Conditions: ???
 Movement: 3
-Melee Attack Bonus: +2? (4-8)
+Melee Attack Bonus: +3 (4-9)
 Damage: 1
 Defense Bonus: ???
 Personality: Attacks Black Goblins
@@ -62,12 +62,22 @@ Personality: Attacks Black Goblins
 Goblin
 Max Health: 1
 Items: (carried equipment)
-Conditions: Thieves: Can use an action to take items from a structure (survivor?); can use equipment like survivors. Fey: Cannot carry or use items made of Iron.
+Conditions: Thieves: Can use an action to take items from a structure; can use equipment like survivors. Fey: Cannot carry or use items made of Iron.
 Movement: 3
 Melee Attack Bonus: +1 (2-7), 1 damage. +2 (3-8) using Wood Spears
 Ranged Attack Bonus: +2? (4-7) Using +1 ranged weapons (Wood/Stone Spears)
 Defense Bonus: +2 (3-8)
 Personality: Travels in packs
+
+Goblin Mob
+Max Health: 10?
+Items: ???
+Conditions: Thieves? Fey? Warlord?
+Movement: ???
+Melee Attack Bonus: ???
+Damage: 2?
+Defense Bonus: ???
+Personality: ???
 
 Black Goblin
 Max Health: 2
@@ -76,7 +86,7 @@ Conditions: Thieves, Fey?, Warlord: Provides 'fervor' to Goblins (in the same he
 Movement: 3?
 Melee Attack Bonus: +2? (7-7) unarmed, +2? (8-8) using Wood Spears
 Ranged Attack Bonus: +2? (8-8) using Wood Spear
-Defense Bonus: +2? (4-6)
+Defense Bonus: +2? (4-8)
 Personality: Travels with Goblins
 
 Hobgoblin
@@ -164,17 +174,17 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 77
-[spoiler]Black Goblin 4 - Appeared from Goblin Village (33,19) turn 76.
-Position: 33,19 (from 33,19 turn 76)
-Health: 1/2
+[b]Known Creatures[/b] Last update: Turn 78
+[spoiler]Giant 1 - Appeared from Beneath the Suspicious Hill (23,19) turn 74.
+Position: 20,19? (from 22,21 turn 76)
+Inventory: 2 Forest
 
-Goblin 45-46 - Appeared from Goblin Village (33,19) turn 76.
+Goblin 45-49 - Appeared from Goblin Village (33,19) turn 76, 78.
 Position: 33,19 (from 33,19 turn 76)
 Health: 1 each
 
-Hobgoblin 5 - Appeared from Goblin Village (33,19) turn 76.
-Position: 33,19 (from 33,19 turn 76)
+Goblin Mob 1 - Appeared from Goblin Village (33,19) turn 78.
+Position: 33,19
 Health: 0 damage
 
 Glass Man 1/Hankel - Appeared on Glass Furnace (43,16) turn 73.
@@ -185,9 +195,13 @@ Glass Man 2/Manx - Appeared on Glass Furnace (43,16) turn 73.
 Position: 33,19 (from 43,16 turn 73)
 Health: 0 damage
 
-Husk Moth 5-7 - Appeared from Dusty Pyramid (41,6) turn 77.
-Position: 41,6
+Husk Moth 7 - Appeared from Dusty Pyramid (41,6) turn 77.
+Position: 41,6 (from 41,6 turn 77)
 Health: 1 each
+
+Starlight Bison 6 - Appeared on the River of Bones (11,9) turn 78.
+Position: 11,9
+Health: 5/5
 
 Starlight Dog 9-10 - Appeared from Beneath the Suspicious Hill (23,19) turn 76.
 Position: 23,19 (from 23,19 turn 76)
@@ -201,15 +215,15 @@ Wyrmling 10 - Appeared on Wyrmpeak (24,3) turn 68.
 Position: 1,1 (1,1 turn 76)
 Health: 2/4
 
-Wyrmling 11-12 - Appeared on Wyrmpeak (26,4) turn 68.
+Wyrmling 12 - Appeared on Wyrmpeak (26,4) turn 68.
 Position: 14,9 (26,5 turn 69)
-Health: 1/4, 4/4[/spoiler]
+Health: 1/4[/spoiler]
 
 [b]Tamed Creatures[/b]
-[spoiler]Homunculus: 1 (crafted turn 65 by Khrain)
-Starlight Bison: 4 (turn 58 by Atlas; named Blue), 5 (turn 77 by Mintina)
-Starlight Dogs: 6 (turn 56 by Atlas)
-Starlight Goats: 6 (turn 61 by Atlas; named Bill), 7 (turn 61 by Tooyun Tadai; named [s]Pliff Biff[/s] Boff Goatman)[/spoiler]
+[spoiler]Homunculus: 1 (crafted turn 65 by Khrain; 9,11 Farm), 2 (crafted turn 78 by Bob; Bob's)
+Starlight Bison: 4 (turn 58 by Atlas; Vayra's Blue), 5 (turn 77 by Mintina; Mintina's)
+Starlight Dogs: 6 (turn 56 by Atlas; Dewdrop's)
+Starlight Goats: 6 (turn 62 by Atlas; Ustvan's Borf Goatman), 7 (turn 62 by Tooyun Tadai; Tooyun Tadai's)[/spoiler]
 
 [b]Dead Creatures[/b]
 [spoiler]Dash Asterisk  :Asad: 
@@ -398,6 +412,10 @@ Black Goblin 3 - Appeared from Goblin Village (33,19) turn 67. Defeated turn 68 
 Position: 33,19
 Health: 0/2
 
+Black Goblin 4 - Appeared from Goblin Village (33,19) turn 76. Defeated turn 78 by Hankel and Manx.
+Position: 33,19 (from 33,19 turn 76)
+Health: 0/2
+
 Goblin 1 - Appeared on Burnt Plains (15,14) turn 23. Defeated turn 26 by Nairi.
 Position: 10,10
 Health: 0/1
@@ -469,7 +487,6 @@ Goblin 41-44 - Appeared from Goblin Village (33,19) turn 76. Defeated turn 77 by
 Position: 33,19 (from 33,19 turn 76)
 Health: 0, 0, -1, 0
 
-
 Hobgoblin 1 - Appeared on Burnt Plains (15,14) turn 23. Defeated turn 27 by Smackdoodle and Urist McZealot.
 Position: 13,12
 Health: 2 damage
@@ -488,6 +505,10 @@ Health: 2 damage
 
 Hobgoblin 5 - Appeared from Goblin Village (33,19) turn 74. Defeated turn 75 by Lucian Valentini.
 Position: 33,17
+Health: 2 damage
+
+Hobgoblin 6 - Appeared from Goblin Village (33,19) turn 76. Defeated turn 78 by King "Lord" Baron.
+Position: 33,19 (from 33,19 turn 76)
 Health: 2 damage
 
 Horror of the Deep 1 - Appeared on Coast (13,18) turn 10. Defeated turn 25, brought down by Dinari, Nivek, King, and Ustvan.
@@ -513,6 +534,10 @@ Health: 0/1
 Husk Moth 4 - Appeared from Dusty Pyramid (41,6) turn 75. Defeated turn 76 by Alky.
 Position: 41,6
 Health: 0/1
+
+Husk Moth 5-6 - Appeared from Dusty Pyramid (41,6) turn 77. Defeated turn 78 by Alky.
+Position: 41,6
+Health: 0 each
 
 Starlight Bison 1 - Appeared on Burnt Plains (11,6) turn 3.
 Position: 11,4
@@ -638,4 +663,8 @@ Health: 0/4
 
 Wyrmling 9 - Appeared at Acrid Burrow (19,7) turn 41. Defeated turn 45 by Nivek.
 Position: 19,7 (from 19,17)
-Health: -1/4[/spoiler]
+Health: -1/4
+
+Wyrmling 11 - Appeared on Wyrmpeak (26,4) turn 68. Defeated turn 78 by Mintina, Khrain, and Khrain's Dog.
+Position: 14,9 (26,5 turn 69)
+Health: 0/4[/spoiler]
