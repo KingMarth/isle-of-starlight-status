@@ -43,7 +43,7 @@ Giant
 Max Health: 10?
 Items: ???
 Conditions: Non-hostile, Forestphage: Converts Forest hexes into Plains hexes.
-Movement: ??? (1-1)
+Movement: ??? (1-2)
 Melee Attack Bonus: ???
 Damage: 2?
 Defense Bonus: ???
@@ -57,7 +57,7 @@ Movement: 3
 Melee Attack Bonus: +3 (4-9)
 Damage: 1
 Defense Bonus: ???
-Personality: Attacks Black Goblins
+Personality: Attacks Black Goblins, Goblin Mob
 
 Goblin
 Max Health: 1
@@ -72,12 +72,12 @@ Personality: Travels in packs
 Goblin Mob
 Max Health: 10?
 Items: ???
-Conditions: Thieves? Fey? Warlord?
+Conditions: Thieves? Fey? Warlord? Reinforcements: Gains something while on the Goblin Village. Legion: Immune to debuffs?
 Movement: ???
-Melee Attack Bonus: ???
-Damage: 2?
-Defense Bonus: ???
-Personality: ???
+Melee Attack Bonus: +2?, 2 attacks (6-6 under Ri). Multi-attacks can target past Knights. Must choose a Knight as a target if available?
+Damage: 2
+Defense Bonus: +2? (3-6 under Ri, autohit by +8 without Ri)
+Personality: Stays on Goblin Village?
 
 Black Goblin
 Max Health: 2
@@ -174,18 +174,14 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 78
+[b]Known Creatures[/b] Last update: Turn 79
 [spoiler]Giant 1 - Appeared from Beneath the Suspicious Hill (23,19) turn 74.
-Position: 20,19? (from 22,21 turn 76)
-Inventory: 2 Forest
-
-Goblin 45-49 - Appeared from Goblin Village (33,19) turn 76, 78.
-Position: 33,19 (from 33,19 turn 76)
-Health: 1 each
+Position: 17,18 (from 22,21 turn 76)
+Inventory: 3 Forest
 
 Goblin Mob 1 - Appeared from Goblin Village (33,19) turn 78.
-Position: 33,19
-Health: 0 damage
+Position: 33,19 (from 33,19 turn 78)
+Health: 7 damage, 3 reinforcements.
 
 Glass Man 1/Hankel - Appeared on Glass Furnace (43,16) turn 73.
 Position: 33,19 (from 43,16 turn 73)
@@ -195,35 +191,23 @@ Glass Man 2/Manx - Appeared on Glass Furnace (43,16) turn 73.
 Position: 33,19 (from 43,16 turn 73)
 Health: 0 damage
 
-Husk Moth 7 - Appeared from Dusty Pyramid (41,6) turn 77.
-Position: 41,6 (from 41,6 turn 77)
-Health: 1 each
-
 Starlight Bison 6 - Appeared on the River of Bones (11,9) turn 78.
-Position: 11,9
+Position: 13,10 (from 11,9 turn 78)
 Health: 5/5
 
-Starlight Dog 9-10 - Appeared from Beneath the Suspicious Hill (23,19) turn 76.
+Starlight Dog 10 - Appeared from Beneath the Suspicious Hill (23,19) turn 76.
 Position: 23,19 (from 23,19 turn 76)
 Health: 5/5
 
 Starlight Goat 8 - Appeared on Packlands river (20,7) turn 58.
 Position: ??? (from 18,7 turn 62)
-Health: 2/2
-
-Wyrmling 10 - Appeared on Wyrmpeak (24,3) turn 68.
-Position: 1,1 (1,1 turn 76)
-Health: 2/4
-
-Wyrmling 12 - Appeared on Wyrmpeak (26,4) turn 68.
-Position: 14,9 (26,5 turn 69)
-Health: 1/4[/spoiler]
+Health: 2/2[/spoiler]
 
 [b]Tamed Creatures[/b]
-[spoiler]Homunculus: 1 (crafted turn 65 by Khrain; 9,11 Farm), 2 (crafted turn 78 by Bob; Bob's)
+[spoiler]Homunculus: 1 (crafted turn 65 by Khrain; 9,11 Farm), 2 (crafted turn 78 by Bob; 7,8 Storehouse)
 Starlight Bison: 4 (turn 58 by Atlas; Vayra's Blue), 5 (turn 77 by Mintina; Mintina's)
-Starlight Dogs: 6 (turn 56 by Atlas; Dewdrop's)
-Starlight Goats: 6 (turn 62 by Atlas; Ustvan's Borf Goatman), 7 (turn 62 by Tooyun Tadai; Tooyun Tadai's)[/spoiler]
+Starlight Dogs: 6 (turn 56 by Atlas; Dewdrop's), 9 (turn 79 by Atlas; Urist McCoy's)
+Starlight Goats: 6 (turn 62 by Atlas; Ustvan's Bort Goatman), 7 (turn 62 by Tooyun Tadai; Tooyun Tadai's)[/spoiler]
 
 [b]Dead Creatures[/b]
 [spoiler]Dash Asterisk  :Asad: 
@@ -487,6 +471,10 @@ Goblin 41-44 - Appeared from Goblin Village (33,19) turn 76. Defeated turn 77 by
 Position: 33,19 (from 33,19 turn 76)
 Health: 0, 0, -1, 0
 
+Goblin 45-49 - Appeared from Goblin Village (33,19) turn 76, 78. Defeated turn 79 by King "Lord" Baron and Cygnus.
+Position: 33,19 (from 33,19 turn 76)
+Health: 0 each
+
 Hobgoblin 1 - Appeared on Burnt Plains (15,14) turn 23. Defeated turn 27 by Smackdoodle and Urist McZealot.
 Position: 13,12
 Health: 2 damage
@@ -538,6 +526,10 @@ Health: 0/1
 Husk Moth 5-6 - Appeared from Dusty Pyramid (41,6) turn 77. Defeated turn 78 by Alky.
 Position: 41,6
 Health: 0 each
+
+Husk Moth 7 - Appeared from Dusty Pyramid (41,6) turn 77. Defeated turn 79 by Alky.
+Position: 41,6 (from 41,6 turn 77)
+Health: 0
 
 Starlight Bison 1 - Appeared on Burnt Plains (11,6) turn 3.
 Position: 11,4
@@ -665,6 +657,14 @@ Wyrmling 9 - Appeared at Acrid Burrow (19,7) turn 41. Defeated turn 45 by Nivek.
 Position: 19,7 (from 19,17)
 Health: -1/4
 
+Wyrmling 10 - Appeared on Wyrmpeak (24,3) turn 68. Defeated turn 79 by Nivek.
+Position: 1,1 (1,1 turn 76)
+Health: 0/4
+
 Wyrmling 11 - Appeared on Wyrmpeak (26,4) turn 68. Defeated turn 78 by Mintina, Khrain, and Khrain's Dog.
 Position: 14,9 (26,5 turn 69)
-Health: 0/4[/spoiler]
+Health: 0/4
+
+Wyrmling 12 - Appeared on Wyrmpeak (26,4) turn 68. Defeated turn 79 by Drogo, Mintina, Belteni, and Khrain.
+Position: 12,8 (14,9 turn 78)
+Health: -4/4[/spoiler]
