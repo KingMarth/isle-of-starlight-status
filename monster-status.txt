@@ -42,11 +42,11 @@ Personality: Follows Eye Beast, attacking the same target.
 Giant
 Max Health: 10?
 Items: ???
-Conditions: Non-hostile, Forestphage: Converts Forest hexes into Plains hexes.
-Movement: ??? (1-2)
+Conditions: Non-hostile, Forestphage: Converts Forest hexes into Plains hexes. Grounded?: The Lightning spell auto-misses?
+Movement: 2 (1-2)
 Melee Attack Bonus: ???
-Damage: 2?
-Defense Bonus: ???
+Ranged Attack Bonus: ??? (7-7), 2 damage
+Defense Bonus: +5? (11-11)
 Personality: ???
 
 Glass Man
@@ -74,9 +74,9 @@ Max Health: 10?
 Items: ???
 Conditions: Thieves? Fey? Warlord? Reinforcements: Gains something while on the Goblin Village. Legion: Immune to debuffs?
 Movement: ???
-Melee Attack Bonus: +2?, 2 attacks (6-6 under Ri). Multi-attacks can target past Knights. Must choose a Knight as a target if available?
+Melee Attack Bonus: +6?, 1-2 attacks (6-6 under Ri). Multi-attacks can target past Knights. Must choose a Knight as a target if available?
 Damage: 2
-Defense Bonus: +2? (3-6 under Ri, autohit by +8 without Ri)
+Defense Bonus: +2? (2-6 under Ri, autohit by +8 without Ri)
 Personality: Stays on Goblin Village?
 
 Black Goblin
@@ -174,25 +174,25 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 79
+[b]Known Creatures[/b] Last update: Turn 80
 [spoiler]Giant 1 - Appeared from Beneath the Suspicious Hill (23,19) turn 74.
-Position: 17,18 (from 22,21 turn 76)
+Position: 15,16 (from 17,18 turn 79)
 Inventory: 3 Forest
 
 Goblin Mob 1 - Appeared from Goblin Village (33,19) turn 78.
 Position: 33,19 (from 33,19 turn 78)
-Health: 7 damage, 3 reinforcements.
+Health: 15 damage, 11 reinforcements. Visibly 1 Black Goblin + 18 Goblins.
 
 Glass Man 1/Hankel - Appeared on Glass Furnace (43,16) turn 73.
-Position: 33,19 (from 43,16 turn 73)
+Position: 33,19 (from 33,19 turn 77)
 Health: 0 damage
 
 Glass Man 2/Manx - Appeared on Glass Furnace (43,16) turn 73.
-Position: 33,19 (from 43,16 turn 73)
+Position: 33,19 (from 33,19 turn 77)
 Health: 0 damage
 
 Starlight Bison 6 - Appeared on the River of Bones (11,9) turn 78.
-Position: 13,10 (from 11,9 turn 78)
+Position: 13,12 (from 13,10 turn 79)
 Health: 5/5
 
 Starlight Dog 10 - Appeared from Beneath the Suspicious Hill (23,19) turn 76.
@@ -207,7 +207,7 @@ Health: 2/2[/spoiler]
 [spoiler]Homunculus: 1 (crafted turn 65 by Khrain; 9,11 Farm), 2 (crafted turn 78 by Bob; 7,8 Storehouse)
 Starlight Bison: 4 (turn 58 by Atlas; Vayra's Blue), 5 (turn 77 by Mintina; Mintina's)
 Starlight Dogs: 6 (turn 56 by Atlas; Dewdrop's), 9 (turn 79 by Atlas; Urist McCoy's)
-Starlight Goats: 6 (turn 62 by Atlas; Ustvan's Bort Goatman), 7 (turn 62 by Tooyun Tadai; Tooyun Tadai's)[/spoiler]
+Starlight Goats: 6 (turn 62 by Atlas; Ustvan's Mort Goatman), 7 (turn 62 by Tooyun Tadai; Tooyun Tadai's)[/spoiler]
 
 [b]Dead Creatures[/b]
 [spoiler]Dash Asterisk  :Asad: 
