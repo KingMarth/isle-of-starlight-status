@@ -9,6 +9,16 @@ Damage: 1
 Defense Bonus: +1 (2-7)
 Personality: Follows other monsters. As a group, they attack separate targets, unless one target is injured in which case they focus on the injured target. When conjured by the Wave spell, they do not seem to attack (unless hit?)
 
+Enormous Moth
+Max Health: 8?
+Items: ???
+Conditions: Flier?: Ignores Difficult Terrain.
+Movement: ???
+Melee Attack Bonus: ??? (5-5)
+Damage: 2? plus sickened?
+Defense Bonus: ???
+Personality: ???
+
 Eye Beast
 Max Health: 8? (6-10)
 Items: 5 Food, 5 Leather
@@ -174,26 +184,27 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 81
-[spoiler]Giant 1 - Appeared from Beneath the Suspicious Hill (23,19) turn 74.
-Position: 16,16 (from 15,16 turn 80)
+[b]Known Creatures[/b] Last update: Turn 82
+[spoiler]Enormous Moth 1 - Appeared from the Pyramid of Dust (41,6) turn 82.
+Position: 41,6
+Health: 0 damage
+
+Giant 1 - Appeared from Beneath the Suspicious Hill (23,19) turn 74.
+Position: 16,16 (from 16,16 turn 81)
+Health: 15 damage
 Inventory: 3 Forest
 
 Goblin Mob 1 - Appeared from Goblin Village (33,19) turn 78.
-Position: 34,18 (from 33,19 turn 78)
-Health: 19 damage, 16 reinforcements. Visibly 1 Black Goblin + 17 Goblins.
+Position: 35,16 (from 34,18 turn 81)
+Health: 22 damage, 22 reinforcements. Visibly 1 Black Goblin + 19 Goblins.
 
 Glass Man 1/Hankel - Appeared on Glass Furnace (43,16) turn 73.
-Position: 34,18 (from 33,19 turn 77)
+Position: 35,16 (from 34,18 turn 81)
 Health: 0 damage
 
 Glass Man 2/Manx - Appeared on Glass Furnace (43,16) turn 73.
-Position: 34,18 (from 33,19 turn 77)
+Position: 35,16 (from 34,18 turn 81)
 Health: 0 damage
-
-Starlight Bison 6 - Appeared on the River of Bones (11,9) turn 78.
-Position: 13,12 (from 13,12 turn 80)
-Health: 5/5
 
 Starlight Dog 10 - Appeared from Beneath the Suspicious Hill (23,19) turn 76.
 Position: 23,19 (from 23,19 turn 76)
@@ -205,7 +216,7 @@ Health: 2/2[/spoiler]
 
 [b]Tamed Creatures[/b]
 [spoiler]Homunculus: 1 (crafted turn 65 by Khrain; 9,11 Farm), 2 (crafted turn 78 by Bob; 7,8 Storehouse)
-Starlight Bison: 4 (turn 58 by Atlas; Vayra's Blue), 5 (turn 77 by Mintina; Mintina's)
+Starlight Bison: 4 (turn 58 by Atlas; Vayra's Blue), 5 (turn 77 by Mintina; Khrain's), 6 (turn 82 by Mintina; Mintina's Destiny)
 Starlight Dogs: 6 (turn 56 by Atlas; Dewdrop's), 9 (turn 79 by Atlas; Urist McCoy's)
 Starlight Goats: 6 (turn 62 by Atlas; Ustvan's Mort Goatman), 7 (turn 62 by Tooyun Tadai; Tooyun Tadai's)[/spoiler]
 

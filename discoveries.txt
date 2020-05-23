@@ -66,11 +66,11 @@ Goblin Village dungeon (33,19): (3 Food) *5, (Gem) *2, (3 Goblin) *4, (2 Goblin,
 One-time: (Goblin Mob)
 
 The Dusty Pyramid (41,6): (Husk Moth) *1, (3 Husk Moth) *1
-One-time: (Mana Stone)?
+One-time: (Enormous Moth), (Mana Stone)?
 
 Dragon's Lair (35,4): ???
 
-Behind Bone Falls (48,7): (5 Stone) *2[/spoiler]
+Behind Bone Falls (48,7): (5 Stone) *2, (Fall into River: Melee attack 10-10, 2 damage + 2d6 hexes forced movement downriver)[/spoiler]
 
 [b]Star Charts[/b]
 [spoiler][quote="Official Rules"]Study the Stars: The stars are always overhead, but just looking at them doesn't seem to reveal anything. There must be some way to learn more...[/quote][quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=44130#p44130]Turn 7[/url]"]Nivek and Dash met at the star chart obelisk and began to study it. Examining the white dots set into the black stone, they felt something reach out to their minds.
@@ -86,7 +86,7 @@ The explorers felt like there may be more to be learned from this star chart, as
 Star Chart Destroyers ES (15,15): Studied 28+2/30 (unlocked Es at 5, level 2 at 16, level 3 at 30)
 Star Chart Destroyers RI (31,19): Studied 7+10/30 (unlocked Ri at 8, level 2 at 17)
 Star Chart Creators AT (17,13): Studied 28+16/30 (unlocked At at 5, level 2 at 15, level 3 at 29)
-Star Chart Creators MU (37,10): Studied 9+14/30 (unlocked Mu at 5, level 2 at 18)
+Star Chart Creators MU (37,10): Studied 10+18/30 (unlocked Mu at 5, level 2 at 18)
 Star Chart Unfathomable OM (17,2): Studied 22+9/30 (unlocked Om at 5, level 2 at 17, level 3 at 31)
 
 OM
@@ -190,7 +190,7 @@ Ability: When you cast a Creator or Destroyer spell, you can spend 1 extra mana 
 Gaining XP: Study the Stars at the Unfathomable star chart or Cast a Spell using an Unfathomable star. Using the special ability [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45907#p45907]does not[/url] grant XP.[/spoiler]
 
 [b]Named Areas[/b]
-[spoiler][img]https://cdn1.imggmi.com/uploads/2019/4/13/e5189070626ea13863d33aeb8430e565-full.png[/img]
+[spoiler][img]https://user-images.githubusercontent.com/11747427/82723446-d667d800-9c83-11ea-9693-95698c08971b.png[/img]
 1 - Castaway Coast ([url=http://willsaveworldforgold.com/forum/viewtopic.php?p=43637#p43637]turn 1[/url])
 2 - Packlands (turn 1)
 3 - Black Plains (turn 1)
