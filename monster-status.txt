@@ -62,7 +62,7 @@ Personality: ???
 Glass Man
 Max Health: 5?
 Items: ???
-Conditions: ???
+Conditions: Non-hostile?
 Movement: 3
 Melee Attack Bonus: +3 (4-9)
 Damage: 1
@@ -80,10 +80,10 @@ Defense Bonus: +2 (3-8)
 Personality: Travels in packs
 
 Goblin Mob
-Max Health: 10?
-Items: ???
-Conditions: Thieves? Fey? Warlord? Reinforcements: Gains something while on or near the Goblin Village (at least up to 3 hexes away on River of Bones). Mob: With enough reinforcements (?), can make an extra attack.
-Movement: ???
+Max Health: 20, starts at 15? (8-16)
+Items: Goblin Banner
+Conditions: Thieves? Fey? Warlord? Reinforcements: Gains something while on or near the Goblin Village (at least up to 3 hexes away on River of Bones). Mob: With enough reinforcements (?), can make an extra attack. Gains multi-attacks and attack bonus with HP, maxing at +9 to-hit and 3 damage with 3 separate targets at 20 HP.
+Movement: ??? (1-2)
 Melee Attack Bonus: +5?, 1-2 attacks (8-11) (6-6 under Ri). Multi-attacks can target past Knights. Must choose a Knight as a target if available?
 Damage: 2
 Defense Bonus: +3 (4-9) (2-6 under Ri, autohit by +8 without Ri)
@@ -184,14 +184,10 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 84
+[b]Known Creatures[/b] Last update: Turn 85
 [spoiler]Enormous Moth 1 - Appeared from the Pyramid of Dust (41,6) turn 82.
 Position: ??? (from 41,6 turn 82)
 Health: 0 damage
-
-Goblin Mob 1 - Appeared from Goblin Village (33,19) turn 78.
-Position: 36,15 (from 35,16 turn 83)
-Health: 35 damage, 28 reinforcements. Visibly 1 Black Goblin + 10 Goblins.
 
 Glass Man 1/Hankel - Appeared on Glass Furnace (43,16) turn 73.
 Position: 36,15 (from 35,16 turn 83)
@@ -201,10 +197,6 @@ Glass Man 2/Manx - Appeared on Glass Furnace (43,16) turn 73.
 Position: 36,15 (from 35,16 turn 83)
 Health: 0 damage
 
-Starlight Dog 10 - Appeared from Beneath the Suspicious Hill (23,19) turn 76.
-Position: 23,19 (from 23,19 turn 76)
-Health: 5/5
-
 Starlight Goat 8 - Appeared on Packlands river (20,7) turn 58.
 Position: ??? (from 18,7 turn 62)
 Health: 2/2[/spoiler]
@@ -212,7 +204,7 @@ Health: 2/2[/spoiler]
 [b]Tamed Creatures[/b]
 [spoiler]Homunculus: 1 (crafted turn 65 by Khrain; 9,11 Farm), 2 (crafted turn 78 by Bob; 7,8 Storehouse)
 Starlight Bison: 4 (turn 58 by Atlas; Vayra's Blue), 5 (turn 77 by Mintina; Khrain's), 6 (turn 82 by Mintina; Mintina's Destiny)
-Starlight Dogs: 6 (turn 56 by Atlas; Dewdrop's), 9 (turn 79 by Atlas; Urist McCoy's)
+Starlight Dogs: 6 (turn 56 by Atlas; Dewdrop's), 9 (turn 79 by Atlas; Urist McCoy's), 10 (turn 85 by Atlas; Atlas's)
 Starlight Goats: 6 (turn 62 by Atlas; Ustvan's Mort Goatman), 7 (turn 62 by Tooyun Tadai; Tooyun Tadai's)[/spoiler]
 
 [b]Dead Creatures[/b]
@@ -485,6 +477,10 @@ Health: 0, 0, -1, 0
 Goblin 45-49 - Appeared from Goblin Village (33,19) turn 76, 78. Defeated turn 79 by King "Lord" Baron and Cygnus.
 Position: 33,19 (from 33,19 turn 76)
 Health: 0 each
+
+Goblin Mob 1 - Appeared from Goblin Village (33,19) turn 78. Defeated turn 85 by King "Lord" Baron, Alky, Lucian Valentini, Ustvan, Syril Dawntreader, Sharkbait, Hankel, and Manx.
+Position: 36,15 (from 35,16 turn 83)
+Health: 44 damage, 28 reinforcements. Visibly 1 Black Goblin + 10 Goblins.
 
 Hobgoblin 1 - Appeared on Burnt Plains (15,14) turn 23. Defeated turn 27 by Smackdoodle and Urist McZealot.
 Position: 13,12
