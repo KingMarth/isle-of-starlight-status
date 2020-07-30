@@ -88,7 +88,7 @@ Star Chart Destroyers RI (31,19): Studied 7+10/30 (unlocked Ri at 8, level 2 at 
 Star Chart Creators AT (17,13): Studied 28+16/30 (unlocked At at 5, level 2 at 15, level 3 at 29)
 Star Chart Creators MU (37,10): Studied 11+22/30 (unlocked Mu at 5, level 2 at 18, level 3 at 33)
 Star Chart Unfathomable OM (17,2): Studied 22+9/30 (unlocked Om at 5, level 2 at 17, level 3 at 31)
-Star Chart ??? (40,2): Studied 1/30
+Star Chart ??? (40,2): Studied 2/30
 
 OM
 Unfathomable

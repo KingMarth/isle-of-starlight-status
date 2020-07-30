@@ -9,16 +9,6 @@ Damage: 1
 Defense Bonus: +1 (2-7)
 Personality: Follows other monsters. As a group, they attack separate targets, unless one target is injured in which case they focus on the injured target. When conjured by the Wave spell, they do not seem to attack (unless hit?)
 
-Enormous Moth
-Max Health: 8?
-Items: ???
-Conditions: Flier?: Ignores Difficult Terrain.
-Movement: ???
-Melee Attack Bonus: ??? (5-5)
-Damage: 2? plus sickened?
-Defense Bonus: ???
-Personality: ???
-
 Eye Beast
 Max Health: 8? (6-10)
 Items: 5 Food, 5 Leather
@@ -127,6 +117,16 @@ Melee Attack Bonus: +2 (3-8), damage 1 + sickened
 Defense Bonus: +2 (3-8)
 Personality: Spawns in Forest of Dust?
 
+Husk Moth Queen
+Max Health: 8?
+Items: ???
+Conditions: Flier?: Ignores Difficult Terrain.
+Movement: ???
+Ranged Attack Bonus: ??? (4-4)
+Damage: 2 plus sickened
+Defense Bonus: ???
+Personality: ???
+
 Starlight Bison
 Max Health: 5
 Items: 4 Food, 3 Leather
@@ -164,7 +164,7 @@ Stationed (any structure): Structure takes 1 less total damage when attacked on 
 Starlight Goat
 Max Health: 2
 Items: Food, Leather
-Conditions: Non-Hostile, Beast?
+Conditions: Non-Hostile, Beast
 Movement: 4
 Melee Attack Bonus: +1? (3-7)
 Damage: 1
@@ -172,6 +172,16 @@ Defense Bonus: +1? (3-7)
 Personality: Runs away when injured. Skittish, has left the hex when survivors enter.
 Following: Gain 1 extra Food when gathering.
 Stationed (farm): Increased Food output of structure by 1.
+
+Starlight Stag
+Max Health: ???
+Items: Food?, Leather?
+Conditions: Non-Hostile?, Beast?
+Movement: ???
+Melee Attack Bonus: +1?
+Damage: 1?
+Defense Bonus: +1?
+Personality: ???
 
 Wyrmling
 Max Health: 4
@@ -184,22 +194,26 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 85
-[spoiler]Enormous Moth 1 - Appeared from the Pyramid of Dust (41,6) turn 82.
-Position: ??? (from 41,6 turn 82)
-Health: 0 damage
-
-Glass Man 1/Hankel - Appeared on Glass Furnace (43,16) turn 73.
-Position: 36,15 (from 35,16 turn 83)
+[b]Known Creatures[/b] Last update: Turn 86
+[spoiler]Glass Man 1/Hankel - Appeared on Glass Furnace (43,16) turn 73.
+Position: 39,13 (from 35,16 turn 85)
 Health: 0 damage
 
 Glass Man 2/Manx - Appeared on Glass Furnace (43,16) turn 73.
-Position: 36,15 (from 35,16 turn 83)
+Position: 36,15 (from 35,16 turn 85)
+Health: 0 damage
+
+Husk Moth Queen 1 - Appeared from the Pyramid of Dust (41,6) turn 82.
+Position: 36,11 (from 41,6 turn 82)
 Health: 0 damage
 
 Starlight Goat 8 - Appeared on Packlands river (20,7) turn 58.
 Position: ??? (from 18,7 turn 62)
-Health: 2/2[/spoiler]
+Health: 2/2
+
+Starlight Stag 1-3 - Appeared on River of Bones (35,15) turn 86.
+Position: 35,15
+Health: 0 damage each[/spoiler]
 
 [b]Tamed Creatures[/b]
 [spoiler]Homunculus: 1 (crafted turn 65 by Khrain; 9,11 Farm), 2 (crafted turn 78 by Bob; 7,8 Storehouse)
