@@ -52,7 +52,7 @@ Personality: ???
 Glass Man
 Max Health: 5?
 Items: ???
-Conditions: Non-hostile?
+Conditions: Non-hostile? Mountainwalk: Ignores Difficult Terrain in Mountains (only Glass Furnace?) for itself and anyone Following.
 Movement: 3
 Melee Attack Bonus: +3 (4-9)
 Damage: 1
@@ -97,6 +97,8 @@ Movement: 3?
 Spell Attack Bonus: ??? (3-6). Ice: Instead of damage, halves target's combat rolls until end of turn, rounding up. (Rolls are halved after bonuses; e.g. rolling a 1 plus 3 is 4 which halves to 2, you don't halve the rolled 1 and then add 3).
 Defense Bonus: +2 (3-8)
 Personality: Travels with Goblins
+Following: You can trade items with all structures within 3 hexes as if you were on the same hex.
+Stationed (laboratory, smithy, tavern, workshop): Increases the range of these structures by 2 hexes.
 
 Horror of the Deep
 Max Health: 8
@@ -122,9 +124,9 @@ Max Health: 8?
 Items: ???
 Conditions: Flier?: Ignores Difficult Terrain.
 Movement: 2
-Ranged Attack Bonus: ??? (4-4)
+Ranged Attack Bonus: +3? (4-5)
 Damage: 2 plus sickened
-Defense Bonus: ???
+Defense Bonus: ??? (4-4)
 Personality: ???
 
 Starlight Bison
@@ -194,29 +196,29 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 87
+[b]Known Creatures[/b] Last update: Turn 88
 [spoiler]Deepspawn 40 - Conjured using Wave on river (11,9) turn 87.
-Position: 11,9 (from 11,9 turn 87)
+Position: 9,9? (from 11,9 turn 87)
 Health: 3/3
 
 Glass Man 1/Hankel - Appeared on Glass Furnace (43,16) turn 73.
-Position: 42,12 (from 39,13 turn 86)
+Position: 45,10 (from 42,12 turn 87)
 Health: 0 damage
 
 Glass Man 2/Manx - Appeared on Glass Furnace (43,16) turn 73.
-Position: 42,12 (from 39,13 turn 86)
+Position: 45,10 (from 42,12 turn 87)
 Health: 0 damage
 
-Goblins 50-54 - Appeared from the Goblin Village (33,19) turn 87.
+Goblins 53-54 - Appeared from the Goblin Village (33,19) turn 87.
 Position: 33,19 (from 33,19 turn 87)
 Health: 1 each
 
-Hobgoblin 7 - Appeared from the Goblin Village (33,19) turn 87.
-Position: 33,19 (from 33,19 turn 87)
-Health: 0 damage
+Horror of the Deep 3 - Conjured using Wave 3 on coast (2,4) turn 88.
+Position: 2,4 (from 2,4 turn 88)
+Health: 8/8
 
 Husk Moth Queen 1 - Appeared from the Pyramid of Dust (41,6) turn 82.
-Position: 38,9 (from 36,11 turn 86)
+Position: 38,9 (from 38,9 turn 87)
 Health: 0 damage
 
 Starlight Goat 8 - Appeared on Packlands river (20,7) turn 58.
@@ -228,7 +230,8 @@ Position: 32,17? (from 35,15 turn 86)
 Health: 0 damage each[/spoiler]
 
 [b]Tamed Creatures[/b]
-[spoiler]Homunculus: 1 (crafted turn 65 by Khrain; 9,11 Farm), 2 (crafted turn 78 by Bob; 7,8 Storehouse), 3 (crafted turn 83 by Esmeralda; 8,11 Fishery)
+[spoiler]Hobgoblin: 7 (turn 87 by Sharkbait; Sharkbait's)
+Homunculus: 1 (crafted turn 65 by Khrain; 9,11 Farm), 2 (crafted turn 78 by Bob; 7,8 Storehouse), 3 (crafted turn 83 by Esmeralda; 8,11 Fishery)
 Starlight Bison: 4 (turn 58 by Atlas; Vayra's Blue), 5 (turn 77 by Mintina; Khrain's), 6 (turn 82 by Mintina; Mintina's Destiny)
 Starlight Dogs: 6 (turn 56 by Atlas; Dewdrop's), 9 (turn 79 by Atlas; Urist McCoy's), 10 (turn 85 by Atlas; Atlas's)
 Starlight Goats: 6 (turn 62 by Atlas; Ustvan's Morty), 7 (turn 62 by Tooyun Tadai; Tooyun Tadai's)[/spoiler]
@@ -503,6 +506,10 @@ Health: 0, 0, -1, 0
 Goblin 45-49 - Appeared from Goblin Village (33,19) turn 76, 78. Defeated turn 79 by King "Lord" Baron and Cygnus.
 Position: 33,19 (from 33,19 turn 76)
 Health: 0 each
+
+Goblins 50-52 - Appeared from the Goblin Village (33,19) turn 87. Defeated turn 88 by Ustvan, Hephaestus, and dog.
+Position: 33,19 (from 33,19 turn 87)
+Health: 0, -2, 0
 
 Goblin Mob 1 - Appeared from Goblin Village (33,19) turn 78. Defeated turn 85 by King "Lord" Baron, Alky, Lucian Valentini, Ustvan, Syril Dawntreader, Sharkbait, Hankel, and Manx.
 Position: 36,15 (from 35,16 turn 83)
