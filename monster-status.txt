@@ -124,9 +124,9 @@ Max Health: 8?
 Items: ???
 Conditions: Flier?: Ignores Difficult Terrain.
 Movement: 2
-Ranged Attack Bonus: +3? (4-5)
+Ranged Attack Bonus: +3 (4-9), 1? hex, can target two? in separate hexes
 Damage: 2 plus sickened
-Defense Bonus: ??? (4-4)
+Defense Bonus: +3 (4-9)
 Personality: ???
 
 Starlight Bison
@@ -196,30 +196,30 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 88
+[b]Known Creatures[/b] Last update: Turn 89
 [spoiler]Deepspawn 40 - Conjured using Wave on river (11,9) turn 87.
-Position: 9,9? (from 11,9 turn 87)
+Position: 3,5 (from 11,9 turn 87)
+Health: 3/3
+
+Deepspawn 41 - Conjured using Wave on river (16,13) turn 89.
+Position: 16,13 (from 16,13 turn 89)
 Health: 3/3
 
 Glass Man 1/Hankel - Appeared on Glass Furnace (43,16) turn 73.
-Position: 45,10 (from 42,12 turn 87)
+Position: 48,7 (from 45,10 turn 88)
 Health: 0 damage
 
 Glass Man 2/Manx - Appeared on Glass Furnace (43,16) turn 73.
-Position: 45,10 (from 42,12 turn 87)
+Position: 48,7 (from 45,10 turn 88)
 Health: 0 damage
-
-Goblins 53-54 - Appeared from the Goblin Village (33,19) turn 87.
-Position: 33,19 (from 33,19 turn 87)
-Health: 1 each
 
 Horror of the Deep 3 - Conjured using Wave 3 on coast (2,4) turn 88.
 Position: 2,4 (from 2,4 turn 88)
-Health: 8/8
+Health: 4/8
 
 Husk Moth Queen 1 - Appeared from the Pyramid of Dust (41,6) turn 82.
-Position: 38,9 (from 38,9 turn 87)
-Health: 0 damage
+Position: 38,8 (from 36,10 turn 88)
+Health: 4 damage
 
 Starlight Goat 8 - Appeared on Packlands river (20,7) turn 58.
 Position: ??? (from 18,7 turn 62)
@@ -230,10 +230,10 @@ Position: 32,17? (from 35,15 turn 86)
 Health: 0 damage each[/spoiler]
 
 [b]Tamed Creatures[/b]
-[spoiler]Hobgoblin: 7 (turn 87 by Sharkbait; Sharkbait's)
-Homunculus: 1 (crafted turn 65 by Khrain; 9,11 Farm), 2 (crafted turn 78 by Bob; 7,8 Storehouse), 3 (crafted turn 83 by Esmeralda; 8,11 Fishery)
+[spoiler]Hobgoblin: 7 (turn 87 by Sharkbait; King's)
+Homunculus: 1 (crafted turn 65 by Khrain; 9,11 Farm), 2 (crafted turn 78 by Bob; 8,11 Fishery)
 Starlight Bison: 4 (turn 58 by Atlas; Vayra's Blue), 5 (turn 77 by Mintina; Khrain's), 6 (turn 82 by Mintina; Mintina's Destiny)
-Starlight Dogs: 6 (turn 56 by Atlas; Dewdrop's), 9 (turn 79 by Atlas; Urist McCoy's), 10 (turn 85 by Atlas; Atlas's)
+Starlight Dogs: 6 (turn 56 by Atlas; Dewdrop's), 9 (turn 79 by Atlas; Urist McCoy's), ?? (turn 81 added; Hephaestus's), 10 (turn 85 by Atlas; 24,19 Mana Collector)
 Starlight Goats: 6 (turn 62 by Atlas; Ustvan's Morty), 7 (turn 62 by Tooyun Tadai; Tooyun Tadai's)[/spoiler]
 
 [b]Dead Creatures[/b]
@@ -510,6 +510,10 @@ Health: 0 each
 Goblins 50-52 - Appeared from the Goblin Village (33,19) turn 87. Defeated turn 88 by Ustvan, Hephaestus, and dog.
 Position: 33,19 (from 33,19 turn 87)
 Health: 0, -2, 0
+
+Goblins 53-54 - Appeared from the Goblin Village (33,19) turn 87. Defeated turn 89 by Ustvan and Hephaestus
+Position: 33,19 (from 33,19 turn 87)
+Health: 0, -2
 
 Goblin Mob 1 - Appeared from Goblin Village (33,19) turn 78. Defeated turn 85 by King "Lord" Baron, Alky, Lucian Valentini, Ustvan, Syril Dawntreader, Sharkbait, Hankel, and Manx.
 Position: 36,15 (from 35,16 turn 83)

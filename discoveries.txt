@@ -97,7 +97,7 @@ Spell: Wave
 Level 1: A useful resource (or possibly a creature) washes up from a river or coast hex you're occupying.
 Level 2: As level 1, but a useful item (or possibly a dangerous creature).
 Level 3: As level 1, but a powerful item (or possibly a deadly creature).
-[quote="Working Theory"]When casting Wave, roll a d6 [s]and add your Spell bonus[/s]. Look up the result from a table.[/quote]Wave 1 results: (3 Food) *1, (Stone, Stone) *2, (Iron) *1, (Deepspawn) *2, with Spell +0. (Deepspawn) *1, (Stone, Stone) *1 with Wizard 1/Spell +0. (Gem) *1, (Iron) *1, (Stone, Stone) *2, (Wood, Wood) *2, (Deepspawn) *1 with Wizard 1/Spell +1. (Deepspawn) *1, (Wood, Wood) *1 with Wizard 1/Spell +2.
+[quote="Working Theory"]When casting Wave, roll a d6 [s]and add your Spell bonus[/s]. Look up the result from a table.[/quote]Wave 1 results: (3 Food) *1, (Stone, Stone) *2, (Iron) *1, (Deepspawn) *2, with Spell +0. (Deepspawn) *1, (Stone, Stone) *1 with Wizard 1/Spell +0. (Gem) *1, (Iron) *1, (Stone, Stone) *2, (Wood, Wood) *2, (Deepspawn) *1 with Wizard 1/Spell +1. (Deepspawn) *2, (Wood, Wood) *1 with Wizard 1/Spell +2.
 Wave 2 results: (Stone Pick) x1, with Spell +1
 Wave 3 results: (Leather Armour) x1, (Horror of the Deep) x1, with Wizard 1. (Horror of the Deep) x1 with Wizard 0.
 [quote="LoneStarNorth [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45850&sid=1eb56455fad75a0a1e590a9e76f53e0b#p45850]Turn 28[/url]"]I promise Wave has possible results other than summoning a deepspawn. Really![/quote][/spoiler]
