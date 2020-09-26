@@ -105,8 +105,8 @@ Max Health: 8
 Items: Bile of the Deep, 8 Leather
 Conditions: Aquatic, Stressful: Survivors in the same hex may become Stressed (observed 6/8 turns). Seahome: Can only move onto 'wet' hexes (Coast hexes or hexes with a River).
 Movement: 2
-Melee Attack Bonus: +2? (4-8), damage 2
-Ranged Attack Bonus: +2? (4-8), damage 1
+Melee Attack Bonus: +3? (4-8), damage 2
+Ranged Attack Bonus: +3 (4-9), damage 1
 Defense Bonus: +2 (3-8)
 Personality: Prefers to attack in melee. Attracts Deepspawn (see Bile of the Deep).
 
@@ -124,10 +124,10 @@ Max Health: 8?
 Items: ???
 Conditions: Flier?: Ignores Difficult Terrain.
 Movement: 2
-Ranged Attack Bonus: +3 (4-9), 1? hex, can target two? in separate hexes
+Ranged Attack Bonus: +3 (4-9), 1? hex, can target three+? in separate hexes
 Damage: 2 plus sickened
 Defense Bonus: +3 (4-9)
-Personality: ???
+Personality: Follows visible targets
 
 Starlight Bison
 Max Health: 5
@@ -196,30 +196,26 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 89
+[b]Known Creatures[/b] Last update: Turn 90
 [spoiler]Deepspawn 40 - Conjured using Wave on river (11,9) turn 87.
-Position: 3,5 (from 11,9 turn 87)
+Position: 2,4 (from 3,5 turn 89)
 Health: 3/3
 
 Deepspawn 41 - Conjured using Wave on river (16,13) turn 89.
-Position: 16,13 (from 16,13 turn 89)
+Position: 16,11? (from 16,13 turn 89)
 Health: 3/3
 
 Glass Man 1/Hankel - Appeared on Glass Furnace (43,16) turn 73.
-Position: 48,7 (from 45,10 turn 88)
+Position: 59,7 (from 48,7 turn 89)
 Health: 0 damage
 
 Glass Man 2/Manx - Appeared on Glass Furnace (43,16) turn 73.
-Position: 48,7 (from 45,10 turn 88)
+Position: 59,7 (from 48,7 turn 89)
 Health: 0 damage
 
-Horror of the Deep 3 - Conjured using Wave 3 on coast (2,4) turn 88.
-Position: 2,4 (from 2,4 turn 88)
-Health: 4/8
-
 Husk Moth Queen 1 - Appeared from the Pyramid of Dust (41,6) turn 82.
-Position: 38,8 (from 36,10 turn 88)
-Health: 4 damage
+Position: 36,10 (from 38,8 turn 89)
+Health: 6 damage
 
 Starlight Goat 8 - Appeared on Packlands river (20,7) turn 58.
 Position: ??? (from 18,7 turn 62)
@@ -550,6 +546,10 @@ Health: 0/8
 Horror of the Deep 2 - Conjured using Wave 3 on river (24,13) turn 60. Defeated turn 63 by Urist McZealot and Hephaestus.
 Position: 18,13 (from 20,13 turn 62)
 Health: 0/8
+
+Horror of the Deep 3 - Conjured using Wave 3 on coast (2,4) turn 88. Defeated turn 90 by David, Shifty McGinty, and Jazen.
+Position: 2,4 (from 2,4 turn 88)
+Health: -1/8
 
 Husk Moth 1 - Appeared in Forest of Dust (30,10) turn 19. Defeated turn 56 by Drogo Cullwort.
 Position: 14,9

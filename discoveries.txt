@@ -62,15 +62,19 @@ One-time: (5 Gems), (Mana Stone)
 The Gurgling Pit (16,21): (3 Food) *2, (Gem) *3, (2 Stone 2 Wood) *3, (2 Deepspawn) *10, (1 Starlight Crab) *3
 One-time: (Conch)
 
-Goblin Village dungeon (33,19): (3 Food) *5, (Gem) *2, (3 Goblin) *5, (2 Goblin, 1 Hobgoblin) *5, (4 Goblin, 1 Black Goblin) *1, (5 Goblin, 1 Black Goblin) *1
-One-time: (Goblin Mob)
+Goblin Village dungeon (33,19): (3 Food) *5, (Gem) *2, (3 Goblin) *6, (2 Goblin, 1 Hobgoblin) *6, (4 Goblin, 1 Black Goblin) *1, (5 Goblin, 1 Black Goblin) *1
+One-time: (Goblin Mob), (Ferryman's Bell)
 
 The Dusty Pyramid (41,6): (Husk Moth) *1, (3 Husk Moth) *1
 One-time: (Enormous Moth), (Mana Stone)?
 
 Dragon's Lair (35,4): ???
 
-Behind Bone Falls (48,7): (5 Stone) *2, (Fall into River: Melee attack 10-10, 2 damage + 2d6 hexes forced movement downriver)[/spoiler]
+Behind Bone Falls (48,7): (5 Stone) *2, (Fall into River: Melee attack 10-10, 2 damage + 2d6 hexes forced movement downriver)
+One-time: Unlocked path to The Forge.
+
+The Forge (59,7): ???
+One-time: Unlocked path to Behind Bone Falls, ???[/spoiler]
 
 [b]Star Charts[/b]
 [spoiler][quote="Official Rules"]Study the Stars: The stars are always overhead, but just looking at them doesn't seem to reveal anything. There must be some way to learn more...[/quote][quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=44130#p44130]Turn 7[/url]"]Nivek and Dash met at the star chart obelisk and began to study it. Examining the white dots set into the black stone, they felt something reach out to their minds.
@@ -84,11 +88,11 @@ Along with this word (name?) comes a rush of information. Some of it may have be
 The explorers felt like there may be more to be learned from this star chart, as well.[/quote]
 [quote="Theory"]Each star chart requires a certain number of survivor-turns to decipher; for example, one survivor could spend five turns Studying the Stars at the chart, or five survivors could each spend one turn for the same effect. When a casting class studies at their matching star chart, they contribute an additional number of survivor-turns towards study equal to their class level. Once deciphered, all survivors gain access to whatever magic is unlocked by the star chart. Each chart only has one spell which maxes out at level 3, further study grants class xp but no further benefit.[/quote]
 Star Chart Destroyers ES (15,15): Studied 28+2/30 (unlocked Es at 5, level 2 at 16, level 3 at 30)
-Star Chart Destroyers RI (31,19): Studied 8+14/30 (unlocked Ri at 8, level 2 at 17)
+Star Chart Destroyers RI (31,19): Studied 10+23/30 (unlocked Ri at 8, level 2 at 17, level 3 at 33)
+Star Chart Destroyers KO (40,2): Studied 6/30 (unlocked Ko at 5)
 Star Chart Creators AT (17,13): Studied 28+16/30 (unlocked At at 5, level 2 at 15, level 3 at 29)
 Star Chart Creators MU (37,10): Studied 11+22/30 (unlocked Mu at 5, level 2 at 18, level 3 at 33)
 Star Chart Unfathomable OM (17,2): Studied 22+9/30 (unlocked Om at 5, level 2 at 17, level 3 at 31)
-Star Chart ??? (40,2): Studied 4/30
 
 OM
 Unfathomable
@@ -100,7 +104,10 @@ Level 3: As level 1, but a powerful item (or possibly a deadly creature).
 [quote="Working Theory"]When casting Wave, roll a d6 [s]and add your Spell bonus[/s]. Look up the result from a table.[/quote]Wave 1 results: (3 Food) *1, (Stone, Stone) *2, (Iron) *1, (Deepspawn) *2, with Spell +0. (Deepspawn) *1, (Stone, Stone) *1 with Wizard 1/Spell +0. (Gem) *1, (Iron) *1, (Stone, Stone) *2, (Wood, Wood) *2, (Deepspawn) *1 with Wizard 1/Spell +1. (Deepspawn) *2, (Wood, Wood) *1 with Wizard 1/Spell +2.
 Wave 2 results: (Stone Pick) x1, with Spell +1
 Wave 3 results: (Leather Armour) x1, (Horror of the Deep) x1, with Wizard 1. (Horror of the Deep) x1 with Wizard 0.
-[quote="LoneStarNorth [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45850&sid=1eb56455fad75a0a1e590a9e76f53e0b#p45850]Turn 28[/url]"]I promise Wave has possible results other than summoning a deepspawn. Really![/quote][/spoiler]
+[quote="LoneStarNorth [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45850&sid=1eb56455fad75a0a1e590a9e76f53e0b#p45850]Turn 28[/url]"]I promise Wave has possible results other than summoning a deepspawn. Really![/quote]
+KO
+Spell: Fireball
+Om Combo: No creature in your hex can be targeted by a ranged attack this turn.[quote="LoneStarNorth [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=49590#p49590]Turn 90[/url]"]When modifying fireball with Om, any character or creature that would have made a ranged attack into your hex are able to choose a different target for their declared attack if one is available.[/quote][/spoiler]
 
 [b]Known Terrain Rules[/b]
 [spoiler]River feature: Difficult Terrain. (Note: 'crossing' the river doesn't matter. If a hex has a river in it, it's difficult terrain.)
@@ -201,6 +208,7 @@ Gaining XP: Study the Stars at the Unfathomable star chart or Cast a Spell using
 7 - Frogwood ([url=http://willsaveworldforgold.com/forum/viewtopic.php?p=44482#p44482]turn 11[/url])
 8 - Gazemount ([url=http://willsaveworldforgold.com/forum/viewtopic.php?p=46860#p46860]turn 40[/url])
 9 - The Glass Furnace ([url=http://willsaveworldforgold.com/forum/viewtopic.php?p=47587#p47587]turn 52[/url])
+10 - Starlight Summit ([url=http://willsaveworldforgold.com/forum/viewtopic.php?p=49590#p49590]turn 90[/url])
 Markup [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=49349#p49349]contributed by Tygerion[/url].
 [quote="[url=http://willsaveworldforgold.com/forum/viewtopic.php?p=46278#p46278]Turn 33[/url]"]Fully exploring an area reveals the points where enemies can spawn. If a spawn point is in sight at the end of the turn, no creature can spawn there. Dungeons, of course, aren't limited in this way.
 
