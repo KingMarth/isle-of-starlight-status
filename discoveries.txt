@@ -89,7 +89,7 @@ The explorers felt like there may be more to be learned from this star chart, as
 [quote="Theory"]Each star chart requires a certain number of survivor-turns to decipher; for example, one survivor could spend five turns Studying the Stars at the chart, or five survivors could each spend one turn for the same effect. When a casting class studies at their matching star chart, they contribute an additional number of survivor-turns towards study equal to their class level. Once deciphered, all survivors gain access to whatever magic is unlocked by the star chart. Each chart only has one spell which maxes out at level 3, further study grants class xp but no further benefit.[/quote]
 Star Chart Destroyers ES (15,15): Studied 28+2/30 (unlocked Es at 5, level 2 at 16, level 3 at 30)
 Star Chart Destroyers RI (31,19): Studied 10+23/30 (unlocked Ri at 8, level 2 at 17, level 3 at 33)
-Star Chart Destroyers KO (40,2): Studied 6/30 (unlocked Ko at 5)
+Star Chart Destroyers KO (40,2): Studied 7/30 (unlocked Ko at 5)
 Star Chart Creators AT (17,13): Studied 28+16/30 (unlocked At at 5, level 2 at 15, level 3 at 29)
 Star Chart Creators MU (37,10): Studied 11+22/30 (unlocked Mu at 5, level 2 at 18, level 3 at 33)
 Star Chart Unfathomable OM (17,2): Studied 22+9/30 (unlocked Om at 5, level 2 at 17, level 3 at 31)
@@ -105,6 +105,7 @@ Level 3: As level 1, but a powerful item (or possibly a deadly creature).
 Wave 2 results: (Stone Pick) x1, with Spell +1
 Wave 3 results: (Leather Armour) x1, (Horror of the Deep) x1, with Wizard 1. (Horror of the Deep) x1 with Wizard 0.
 [quote="LoneStarNorth [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45850&sid=1eb56455fad75a0a1e590a9e76f53e0b#p45850]Turn 28[/url]"]I promise Wave has possible results other than summoning a deepspawn. Really![/quote]
+
 KO
 Spell: Fireball
 Om Combo: No creature in your hex can be targeted by a ranged attack this turn.[quote="LoneStarNorth [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=49590#p49590]Turn 90[/url]"]When modifying fireball with Om, any character or creature that would have made a ranged attack into your hex are able to choose a different target for their declared attack if one is available.[/quote][/spoiler]

@@ -120,8 +120,8 @@ Defense Bonus: +2 (3-8)
 Personality: Spawns in Forest of Dust?
 
 Husk Moth Queen
-Max Health: 8?
-Items: ???
+Max Health: 8? 7-9
+Items: Prismatic Stone
 Conditions: Flier?: Ignores Difficult Terrain.
 Movement: 2
 Ranged Attack Bonus: +3 (4-9), 1? hex, can target three+? in separate hexes
@@ -196,26 +196,22 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 90
+[b]Known Creatures[/b] Last update: Turn 91
 [spoiler]Deepspawn 40 - Conjured using Wave on river (11,9) turn 87.
 Position: 2,4 (from 3,5 turn 89)
 Health: 3/3
 
 Deepspawn 41 - Conjured using Wave on river (16,13) turn 89.
-Position: 16,11? (from 16,13 turn 89)
+Position: 13,7? (from 16,13 turn 89)
 Health: 3/3
 
 Glass Man 1/Hankel - Appeared on Glass Furnace (43,16) turn 73.
-Position: 59,7 (from 48,7 turn 89)
+Position: 62,4 (from 59,7 turn 90)
 Health: 0 damage
 
 Glass Man 2/Manx - Appeared on Glass Furnace (43,16) turn 73.
-Position: 59,7 (from 48,7 turn 89)
+Position: 62,4 (from 59,7 turn 90)
 Health: 0 damage
-
-Husk Moth Queen 1 - Appeared from the Pyramid of Dust (41,6) turn 82.
-Position: 36,10 (from 38,8 turn 89)
-Health: 6 damage
 
 Starlight Goat 8 - Appeared on Packlands river (20,7) turn 58.
 Position: ??? (from 18,7 turn 62)
@@ -228,7 +224,7 @@ Health: 0 damage each[/spoiler]
 [b]Tamed Creatures[/b]
 [spoiler]Hobgoblin: 7 (turn 87 by Sharkbait; King's)
 Homunculus: 1 (crafted turn 65 by Khrain; 9,11 Farm), 2 (crafted turn 78 by Bob; 8,11 Fishery)
-Starlight Bison: 4 (turn 58 by Atlas; Vayra's Blue), 5 (turn 77 by Mintina; Khrain's), 6 (turn 82 by Mintina; Mintina's Destiny)
+Starlight Bison: 4 (turn 58 by Atlas; Vayra's Blue), 5 (turn 77 by Mintina; Khrain's), 6 (turn 82 by Mintina; Castor's Destiny)
 Starlight Dogs: 6 (turn 56 by Atlas; Dewdrop's), 9 (turn 79 by Atlas; Urist McCoy's), ?? (turn 81 added; Hephaestus's), 10 (turn 85 by Atlas; 24,19 Mana Collector)
 Starlight Goats: 6 (turn 62 by Atlas; Ustvan's Morty), 7 (turn 62 by Tooyun Tadai; Tooyun Tadai's)[/spoiler]
 
@@ -574,6 +570,10 @@ Health: 0 each
 Husk Moth 7 - Appeared from Dusty Pyramid (41,6) turn 77. Defeated turn 79 by Alky.
 Position: 41,6 (from 41,6 turn 77)
 Health: 0
+
+Husk Moth Queen 1 - Appeared from the Pyramid of Dust (41,6) turn 82. Defeated turn 91 by Cygnus, Dewdrop, and Dewdrop's dog.
+Position: 36,10 (from 38,8 turn 89)
+Health: 9 damage
 
 Starlight Bison 1 - Appeared on Burnt Plains (11,6) turn 3.
 Position: 11,4
