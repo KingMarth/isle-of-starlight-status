@@ -65,7 +65,7 @@ One-time: (Conch)
 Goblin Village dungeon (33,19): (3 Food) *5, (Gem) *2, (3 Goblin) *6, (2 Goblin, 1 Hobgoblin) *6, (4 Goblin, 1 Black Goblin) *1, (5 Goblin, 1 Black Goblin) *1
 One-time: (Goblin Mob), (Ferryman's Bell)
 
-The Dusty Pyramid (41,6): (Husk Moth) *1, (3 Husk Moth) *1
+The Dusty Pyramid (41,6): (3 Stone) *1, (Husk Moth) *1, (3 Husk Moth) *2
 One-time: (Enormous Moth), (Mana Stone)?
 
 Dragon's Lair (35,4): ???
@@ -103,7 +103,7 @@ Level 2: As level 1, but a useful item (or possibly a dangerous creature).
 Level 3: As level 1, but a powerful item (or possibly a deadly creature).
 [quote="Working Theory"]When casting Wave, roll a d6 [s]and add your Spell bonus[/s]. Look up the result from a table.[/quote]Wave 1 results: (3 Food) *1, (Stone, Stone) *2, (Iron) *1, (Deepspawn) *2, with Spell +0. (Deepspawn) *1, (Stone, Stone) *1 with Wizard 1/Spell +0. (Gem) *1, (Iron) *1, (Stone, Stone) *2, (Wood, Wood) *2, (Deepspawn) *1 with Wizard 1/Spell +1. (Deepspawn) *2, (Wood, Wood) *1 with Wizard 1/Spell +2.
 Wave 2 results: (Stone Pick) x1, with Spell +1
-Wave 3 results: (Leather Armour) x1, (Horror of the Deep) x1, with Wizard 1. (Horror of the Deep) x1 with Wizard 0.
+Wave 3 results: (Leather Armour) x1, (Horror of the Deep) x1, with Wizard 1. (Mana Stone) x1, (Horror of the Deep) x1 with Wizard 0.
 [quote="LoneStarNorth [url=http://willsaveworldforgold.com/forum/viewtopic.php?p=45850&sid=1eb56455fad75a0a1e590a9e76f53e0b#p45850]Turn 28[/url]"]I promise Wave has possible results other than summoning a deepspawn. Really![/quote]
 
 KO
@@ -248,7 +248,7 @@ The order in which events happen during a turn is important. First, everyone mov
 [*]By default, all survivors Eat during maintenance, taking food from: their own inventory, food stored in the hex (possibly including on the ground as well as in structures), or the inventory of other survivors in the same hex ([i][b]only when the survivor is idle[/b][/i]), in that order. However, if you specify a list of maintenance actions and do not say you are eating, [i][b]then you will not eat[/b][/i]. The Tavern provides food to survivors on connected structures up to three hexes away, presumably defaulting after food in your inventory but before food in other survivors' inventories, though you can(?) choose to explicitly eat from the Tavern even if you have food in your inventory.
 [*]All Attacks are resolved during actions, after movement and before maintenance. First, spells are resolved (whether they make attack rolls or not); next, ranged attacks are resolved; finally, melee attacks are resolved. All Attacks of the same 'speed' resolve at the same time; this means that if a monster with 1 HP fights a survivor and both take Melee attacks, then it is impossible for the survivor to roll 'first' and kill the monster before it can attack. However, if a survivor takes a Ranged attack against a monster with 1 HP which takes a Melee attack, then since Ranged attacks are all resolved first, the Ranged attack can hit and kill the monster before it has a chance to make that Melee attack.
 [*]Ranged Attacks can only target enemies in a hex which at least one survivor can see. As survivors can see up to 1 hex away, this is only relevant for 2-hex and further range.
-[*]All Spells are resolved before Attacks, so casting the Heal spell will only do something when targeting a survivor who is injured at the start of the turn. You [i][b]cannot[/b][/i] use the Heal spell to heal combat damage on the turn that a survivor is injured.
+[*]All Spells are resolved before Attacks, so casting the Heal spell will only do something when targeting a survivor who is injured at the start of the turn. You [i][b]cannot[/b][/i] use the Heal spell to heal combat damage on the turn that a survivor is injured. You [i][b]cannot[/b][/i] use the Conjure spell to build a structure on the same turn that the non-spell Build action is used to add the last resources required.
 [*]All Spells are resolved at the same time, so casting the Freeze spell (which halves the target's combat rolls for the turn on a hit) will not change the target's defense roll against another Spell attack, or reduce the target's Spell attack roll.
 [*]All non-combat, non-Spell actions are resolved after combat. For example, the Repair action will restore HP to a structure after combat has happened, so you can Repair damage dealt to a structure on the turn that the structure is damaged (and if a structure is already damaged, you [i][b]cannot[/b][/i] Repair it before it is Attacked on the same turn, though you can cast Conjure).
 [*]Exploring a dungeon and taming an animal also happen after combat. If a monster is discovered when exploring a dungeon, or provoked by a Taming attempt, then they will not be able to participate in combat that turn.
