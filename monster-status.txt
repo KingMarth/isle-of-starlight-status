@@ -59,6 +59,16 @@ Damage: 1
 Defense Bonus: ???
 Personality: Attacks Black Goblins, Goblin Mob
 
+Glass Queen
+Max Health: 8?
+Items: ???
+Conditions: Non-hostile? Mountainwalk: Ignores Difficult Terrain in Mountains (only Glass Furnace?) for itself and anyone Following.
+Movement: 3?
+Melee Attack Bonus: ???
+Damage: ???
+Defense Bonus: ???
+Personality: Wants to turn Survivors into Glass Men, which she sees as a gift
+
 Goblin
 Max Health: 1
 Items: (carried equipment)
@@ -196,33 +206,33 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 93
+[b]Known Creatures[/b] Last update: Turn 94
 [spoiler]Deepspawn 40 - Conjured using Wave on river (11,9) turn 87.
-Position: 2,4 (from 1,1 turn 92)
+Position: 2,4 (from 2,4 turn 93)
 Health: 3/3
 
 Deepspawn 41 - Conjured using Wave on river (16,13) turn 89.
-Position: 5,6 (from 16,13 turn 89)
+Position: 2,4 (from 5,6 turn 93)
 Health: 3/3
 
 Glass Man 1/Hankel - Appeared on Glass Furnace (43,16) turn 73.
-Position: 68,2 (from 65,3 turn 92)
+Position: 71,1 (from 68,2 turn 93)
 Health: 0 damage
 
 Glass Man 2/Manx - Appeared on Glass Furnace (43,16) turn 73.
-Position: 68,2 (from 65,3 turn 92)
+Position: 71,1 (from 68,2 turn 93)
 Health: 0 damage
 
-Husk Moth 8-10 - Appeared from Dusty Pyramid (41,6) turn 93.
-Position: 41,6 (from 41,6 turn 93)
-Health: 1 each
+Glass Queen 1/Athena - Appeared from Throne of Starlight (71,1) turn 94.
+Position: 71,1 (from 71,1 turn 94)
+Health: 0 damage
 
 Starlight Goat 8 - Appeared on Packlands river (20,7) turn 58.
-Position: 10,9 (from 18,7 turn 62)
+Position: 10,12 (from 10,9 turn 93)
 Health: 2/2
 
 Starlight Goat 10 - Appeared on River of Bones bridge (10,9) turn 93.
-Position: 10,9 (from 10,9 turn 93)
+Position: 10,12 (from 10,9 turn 93)
 Health: 2/2
 
 Starlight Stag 1-3 - Appeared on River of Bones (35,15) turn 86.
@@ -234,7 +244,7 @@ Health: 0 damage each[/spoiler]
 Homunculus: 1 (crafted turn 65 by Khrain; 9,11 Farm), 2 (crafted turn 78 by Bob; 8,11 Fishery)
 Starlight Bison: 4 (turn 58 by Atlas; Vayra's Blue), 5 (turn 77 by Mintina; Khrain's), 6 (turn 82 by Mintina; Castor's Destiny)
 Starlight Dogs: 6 (turn 56 by Atlas; Dewdrop's), 9 (turn 79 by Atlas; Urist McCoy's), ?? (turn 81 added; Hephaestus's), 10 (turn 85 by Atlas; 24,19 Mana Collector)
-Starlight Goats: 6 (turn 62 by Atlas; Belteni's Morty), 7 (turn 62 by Tooyun Tadai; Tooyun Tadai's)[/spoiler]
+Starlight Goats: 6 (turn 62 by Atlas; Mintina's Morty), 7 (turn 62 by Tooyun Tadai; Tooyun Tadai's)[/spoiler]
 
 [b]Dead Creatures[/b]
 [spoiler]Dash Asterisk  :Asad: 
@@ -590,6 +600,10 @@ Health: 0 each
 Husk Moth 7 - Appeared from Dusty Pyramid (41,6) turn 77. Defeated turn 79 by Alky.
 Position: 41,6 (from 41,6 turn 77)
 Health: 0
+
+Husk Moth 8-10 - Appeared from Dusty Pyramid (41,6) turn 93. Defeated turn 94 by Alky, Dewdrop, and Dewdrop's Dog.
+Position: 41,6 (from 41,6 turn 93)
+Health: 0/0/-2
 
 Husk Moth Queen 1 - Appeared from the Pyramid of Dust (41,6) turn 82. Defeated turn 91 by Cygnus, Dewdrop, and Dewdrop's dog.
 Position: 36,10 (from 38,8 turn 89)
