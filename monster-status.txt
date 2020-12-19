@@ -65,7 +65,7 @@ Items: ???
 Conditions: Non-hostile? Mountainwalk: Ignores Difficult Terrain in Mountains (only Glass Furnace?) for itself and anyone Following.
 Movement: 3?
 Melee Attack Bonus: ???
-Damage: ???
+Damage: 2
 Defense Bonus: ???
 Personality: Wants to turn Survivors into Glass Men, which she sees as a gift
 
@@ -206,33 +206,37 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 94
+[b]Known Creatures[/b] Last update: Turn 95
 [spoiler]Deepspawn 40 - Conjured using Wave on river (11,9) turn 87.
 Position: 2,4 (from 2,4 turn 93)
-Health: 3/3
+Health: 2/3
 
 Deepspawn 41 - Conjured using Wave on river (16,13) turn 89.
-Position: 2,4 (from 5,6 turn 93)
-Health: 3/3
+Position: 2,4 (from 2,4 turn 94)
+Health: 2/3
 
 Glass Man 1/Hankel - Appeared on Glass Furnace (43,16) turn 73.
-Position: 71,1 (from 68,2 turn 93)
+Position: 71,1 (from 71,1 turn 94)
 Health: 0 damage
 
 Glass Man 2/Manx - Appeared on Glass Furnace (43,16) turn 73.
-Position: 71,1 (from 68,2 turn 93)
+Position: 71,1 (from 71,1 turn 94)
 Health: 0 damage
 
 Glass Queen 1/Athena - Appeared from Throne of Starlight (71,1) turn 94.
 Position: 71,1 (from 71,1 turn 94)
 Health: 0 damage
 
+Horror of the Deep 4 - Conjured using Wave on Coast (2,4) turn 95.
+Position: 2,4 (from 2,4 turn 95)
+Health: 8/8
+
 Starlight Goat 8 - Appeared on Packlands river (20,7) turn 58.
-Position: 10,12 (from 10,9 turn 93)
+Position: ??? (from 10,12 turn 94)
 Health: 2/2
 
 Starlight Goat 10 - Appeared on River of Bones bridge (10,9) turn 93.
-Position: 10,12 (from 10,9 turn 93)
+Position: ??? (from 10,12 turn 94)
 Health: 2/2
 
 Starlight Stag 1-3 - Appeared on River of Bones (35,15) turn 86.
