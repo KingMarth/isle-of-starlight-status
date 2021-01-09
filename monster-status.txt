@@ -65,7 +65,7 @@ Items: ???
 Conditions: Non-hostile? Mountainwalk: Ignores Difficult Terrain in Mountains (only Glass Furnace?) for itself and anyone Following.
 Movement: 3?
 Melee Attack Bonus: ???
-Damage: 2
+Damage: 2. On target survivor death, spawn Glass Man
 Defense Bonus: ???
 Personality: Wants to turn Survivors into Glass Men, which she sees as a gift
 
@@ -206,7 +206,7 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 95
+[b]Known Creatures[/b] Last update: Turn 96
 [spoiler]Deepspawn 40 - Conjured using Wave on river (11,9) turn 87.
 Position: 2,4 (from 2,4 turn 93)
 Health: 2/3
@@ -223,19 +223,23 @@ Glass Man 2/Manx - Appeared on Glass Furnace (43,16) turn 73.
 Position: 71,1 (from 71,1 turn 94)
 Health: 0 damage
 
+Glass Man 3/Dinari - Transmuted on Throne of Starlight (71,1) turn 96.
+Position: 71,1 (from 71,1 turn 96)
+Health: 0 damage
+
 Glass Queen 1/Athena - Appeared from Throne of Starlight (71,1) turn 94.
 Position: 71,1 (from 71,1 turn 94)
 Health: 0 damage
 
 Horror of the Deep 4 - Conjured using Wave on Coast (2,4) turn 95.
 Position: 2,4 (from 2,4 turn 95)
-Health: 8/8
+Health: 1/8
 
 Starlight Goat 8 - Appeared on Packlands river (20,7) turn 58.
 Position: ??? (from 10,12 turn 94)
 Health: 2/2
 
-Starlight Goat 10 - Appeared on River of Bones bridge (10,9) turn 93.
+Starlight Goat 11 - Appeared on River of Bones bridge (10,9) turn 93.
 Position: ??? (from 10,12 turn 94)
 Health: 2/2
 
@@ -248,7 +252,7 @@ Health: 0 damage each[/spoiler]
 Homunculus: 1 (crafted turn 65 by Khrain; 9,11 Farm), 2 (crafted turn 78 by Bob; 8,11 Fishery)
 Starlight Bison: 4 (turn 58 by Atlas; Vayra's Blue), 5 (turn 77 by Mintina; Khrain's), 6 (turn 82 by Mintina; Castor's Destiny)
 Starlight Dogs: 6 (turn 56 by Atlas; Dewdrop's), 9 (turn 79 by Atlas; Urist McCoy's), ?? (turn 81 added; Hephaestus's), 10 (turn 85 by Atlas; 24,19 Mana Collector)
-Starlight Goats: 6 (turn 62 by Atlas; Mintina's Morty), 7 (turn 62 by Tooyun Tadai; Tooyun Tadai's)[/spoiler]
+Starlight Goats: 6 (turn 62 by Atlas; Ustvan's Morty), 7 (turn 62 by Tooyun Tadai; Tooyun Tadai's), 12 (turn 93 by Morty; Mintina's Morty Jr.)[/spoiler]
 
 [b]Dead Creatures[/b]
 [spoiler]Dash Asterisk  :Asad: 
@@ -256,6 +260,7 @@ Tentoes  :Ascared:
 Cade Seahater  :Agrumpy: 
 Prince Marvelous :Amad: 
 Ulysses :Agrumpy: 
+Dinari :Aconfused: 
 
 Deepspawn 1 - Arrived at tree (11,15) turn 3. Defeated turn 5, killing blow by Atlas.
 Position: 11,15

@@ -65,8 +65,8 @@ One-time: (Conch)
 Goblin Village dungeon (33,19): (3 Food) *5, (Gem) *2, (3 Goblin) *6, (2 Goblin, 1 Hobgoblin) *6, (4 Goblin, 1 Black Goblin) *1, (5 Goblin, 1 Black Goblin) *2
 One-time: (Goblin Mob), (Ferryman's Bell)
 
-The Dusty Pyramid (41,6): (3 Stone) *1, (Husk Moth) *1, (3 Husk Moth) *2
-One-time: (Enormous Moth), (Mana Stone)
+The Dusty Pyramid (41,6): (3 Stone) *1, (Gem) *1, (Husk Moth) *2, (3 Husk Moth) *2
+One-time: (Enormous Moth), (Mana Stone) *2
 
 Dragon's Lair (35,4): ???
 
