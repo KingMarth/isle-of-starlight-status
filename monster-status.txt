@@ -1,0 +1,778 @@
+﻿[b]Creature Stats[/b]
+[spoiler]Deepspawn
+Max Health: 3
+Items:
+Conditions: Aquatic - Ignores difficult terrain from River. Improved movement when adjacent to river/coast?
+Movement: 2-4
+Melee Attack Bonus: +1 (2-7)
+Damage: 1
+Defense Bonus: +1 (2-7)
+Personality: Follows other monsters. As a group, they attack separate targets, unless one target is injured in which case they focus on the injured target. When conjured by the Wave spell, they do not seem to attack (unless hit?)
+
+Eye Beast
+Max Health: 8? (6-10)
+Items: 5 Food, 5 Leather
+Conditions: Shell: Leaves behind an Eye Beast Core after death. The Eye Beast Core can immediately participate in combat that turn (only if Eye Beast is killed before Melee phase?).
+Movement: 3-3
+Melee Attack Bonus: +2?, +2 per Floating Eye? (9-12) with 2 Floating Eyes, (6-6) with 1 Floating Eye.
+Damage: 2
+Defense Bonus: +2 (3-8) with no Floating Eyes. +6? (7-7) with four Floating Eyes. +4? (7-9) with two Floating Eyes. +2? (6-8) during ranged phase going from 2 to 1 Floating Eye
+Personality: Lives in Gazemount, follows intruders. Brings Floating Eyes. Smart enough to focus on sole targets.
+
+Eye Beast Core
+Max Health: 4? (3-4)
+Items: Giant Lens
+Conditions: Flier: Ignores Difficult Terrain.
+Movement: 4
+Melee Attack Bonus: ??? (5-5)
+Damage: 2?
+Defense Bonus: +2? (8-8)
+Personality: Tries to escape
+
+Floating Eye
+Max Health: 1
+Items:
+Conditions: Flier?, Spotter: Grants +2? bonus to Eye Beast attack rolls, +1? bonus to Eye Beast defense rolls?
+Movement: 3?
+Melee Attack Bonus: +1? (2-6)
+Damage: 1
+Defense Bonus: +2 (3-8)
+Personality: Follows Eye Beast, attacking the same target.
+
+Giant
+Max Health: 20? (19-21)
+Items: Giant's Belt, 20 Stone
+Conditions: Non-hostile, Forestphage: Converts Forest hexes into Plains hexes. Magic Resistance: Spell attacks automiss.
+Movement: 2 (1-2)
+Melee Attack Bonus: ??? (5-8), 3 damage
+Ranged Attack Bonus: ??? (7-7), 2 damage
+Defense Bonus: +5 (6-11)
+Personality: ???
+
+Glass Man
+Max Health: 5?
+Items: ???
+Conditions: Non-hostile? Mountainwalk: Ignores Difficult Terrain in Mountains (only Glass Furnace?) for itself and anyone Following.
+Movement: 3
+Melee Attack Bonus: +3 (4-9)
+Damage: 1
+Defense Bonus: ???
+Personality: Attacks Black Goblins, Goblin Mob
+
+Glass Queen
+Max Health: 8?
+Items: ???
+Conditions: Non-hostile? Mountainwalk: Ignores Difficult Terrain in Mountains (only Glass Furnace?) for itself and anyone Following.
+Movement: 3?
+Melee Attack Bonus: ???
+Damage: 2. On target survivor death, spawn Glass Man
+Defense Bonus: ???
+Personality: Wants to turn Survivors into Glass Men, which she sees as a gift
+
+Goblin
+Max Health: 1
+Items: (carried equipment)
+Conditions: Thieves: Can use an action to take items from a structure; can use equipment like survivors. Fey: Cannot carry or use items made of Iron.
+Movement: 3
+Melee Attack Bonus: +1 (2-7), 1 damage. +2 (3-8) using Wood Spears
+Ranged Attack Bonus: +2? (4-7) Using +1 ranged weapons (Wood/Stone Spears)
+Defense Bonus: +2 (3-8)
+Personality: Travels in packs
+
+Goblin Mob
+Max Health: 20, starts at 15? (8-16)
+Items: Goblin Banner
+Conditions: Thieves? Fey? Warlord? Reinforcements: Gains something while on or near the Goblin Village (at least up to 3 hexes away on River of Bones). Mob: With enough reinforcements (?), can make an extra attack. Gains multi-attacks and attack bonus with HP, maxing at +9 to-hit and 3 damage with 3 separate targets at 20 HP.
+Movement: ??? (1-2)
+Melee Attack Bonus: +5?, 1-2 attacks (8-11) (6-6 under Ri). Multi-attacks can target past Knights. Must choose a Knight as a target if available?
+Damage: 2
+Defense Bonus: +3 (4-9) (2-6 under Ri, autohit by +8 without Ri)
+Personality: Stays on Goblin Village?
+
+Black Goblin
+Max Health: 2
+Items: (carried equipment)
+Conditions: Thieves, Fey?, Warlord: Provides 'fervor' to Goblins (in the same hex?). Theory: +1 to Melee/Ranged accuracy
+Movement: 3?
+Melee Attack Bonus: +2? (7-7) unarmed, +2? (8-8) using Wood Spears
+Ranged Attack Bonus: +2? (8-8) using Wood Spear
+Defense Bonus: +2? (4-8)
+Personality: Travels with Goblins
+
+Hobgoblin
+Max Health: 1
+Items: (carried equipment)
+Conditions: Thieves, Fey?, ???
+Movement: 3?
+Spell Attack Bonus: ??? (3-6). Ice: Instead of damage, halves target's combat rolls until end of turn, rounding up. (Rolls are halved after bonuses; e.g. rolling a 1 plus 3 is 4 which halves to 2, you don't halve the rolled 1 and then add 3).
+Defense Bonus: +2 (3-8)
+Personality: Travels with Goblins
+Following: You can trade items with all structures within 3 hexes as if you were on the same hex.
+Stationed (laboratory, smithy, tavern, workshop): Increases the range of these structures by 2 hexes.
+
+Horror of the Deep
+Max Health: 8
+Items: Bile of the Deep, 8 Leather
+Conditions: Aquatic, Stressful: Survivors in the same hex may become Stressed (observed 6/8 turns). Seahome: Can only move onto 'wet' hexes (Coast hexes or hexes with a River).
+Movement: 2
+Melee Attack Bonus: +3? (4-8), damage 2
+Ranged Attack Bonus: +3 (4-9), damage 1
+Defense Bonus: +2 (3-8)
+Personality: Prefers to attack in melee. Attracts Deepspawn (see Bile of the Deep).
+
+Husk Moth
+Max Health: 1
+Items:
+Conditions: Flier?
+Movement: ??? (2)
+Melee Attack Bonus: +2 (3-8), damage 1 + sickened
+Defense Bonus: +2 (3-8)
+Personality: Spawns in Forest of Dust?
+
+Husk Moth Queen
+Max Health: 8? 7-9
+Items: Prismatic Stone
+Conditions: Flier?: Ignores Difficult Terrain.
+Movement: 2
+Ranged Attack Bonus: +3 (4-9), 1? hex, can target three+? in separate hexes
+Damage: 2 plus sickened
+Defense Bonus: +3 (4-9)
+Personality: Follows visible targets
+
+Starlight Bison
+Max Health: 5
+Items: 4 Food, 3 Leather
+Conditions: Non-hostile: Does not initiate combat with Survivors until attacked or a taming attempt fails. Beast: Normal animal, can be tamed by Farmers.
+Movement: 3 (2-3)
+Melee Attack Bonus: +2? 4-8
+Damage: 1
+Defense Bonus: ??? 3-5
+Personality: ???
+Following: Character's Encumbrance increases by 5.
+Stationed (farm): Increased Food output of structure by 1.
+
+Starlight Crab
+Max Health: 4
+Items: Food, Food, Leather, Leather
+Conditions: Aquatic, Seahome
+Movement: 4
+Melee Attack Bonus: +2 (3-8)
+Damage: 1
+Defense Bonus: +3 (4-9)
+Personality: Uses hit-and-run tactics. Travels along the river to prevent attackers from following. Only moves on Coast hexes, and does not stay in the same hex even if the only target in range is in that hex.
+
+Starlight Dog
+Max Health: 5
+Items: Food, Food, Food, Leather
+Conditions: Beast
+Movement: 4
+Melee Attack Bonus: +3 (4-9)
+Damage: 1
+Defense Bonus: +1 (2-7)
+Personality: Runs when injured and outnumbered, follows other dogs to attack the same target.
+Following: Can make an extra attack when attacking; Melee +3 (1 Damage)
+Stationed (any structure): Structure takes 1 less total damage when attacked on any given turn.
+
+Starlight Goat
+Max Health: 2
+Items: Food, Leather
+Conditions: Non-Hostile, Beast
+Movement: 4
+Melee Attack Bonus: +1? (3-7)
+Damage: 1
+Defense Bonus: +1? (3-7)
+Personality: Runs away when injured. Skittish, has left the hex when survivors enter.
+Following: Gain 1 extra Food when gathering.
+Stationed (farm): Increased Food output of structure by 1.
+
+Starlight Stag
+Max Health: ???
+Items: Food?, Leather?
+Conditions: Non-Hostile?, Beast?
+Movement: ???
+Melee Attack Bonus: +1?
+Damage: 1?
+Defense Bonus: +1?
+Personality: ???
+
+Wyrmling
+Max Health: 4
+Items: Leather
+Conditions: Poison Blood: When damaged in melee, the attacker becomes Sick. Aquatic.
+Movement: 3-4?
+Spell Attack Bonus: +2 (two targets in hex, one attack per target)
+Melee Attack Bonus: +3 (4-9)
+Damage: 1
+Defense Bonus: +2
+Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
+
+[b]Known Creatures[/b] Last update: Turn 98
+[spoiler]Deepspawn 41 - Conjured using Wave on river (16,13) turn 89.
+Position: 4,7 (from 2,4 turn 97)
+Health: 2/3
+
+Glass Man 1/Hankel - Appeared on Glass Furnace (43,16) turn 73.
+Position: 65,4 (from 68,2 turn 97)
+Health: 0 damage
+
+Glass Man 2/Manx - Appeared on Glass Furnace (43,16) turn 73.
+Position: 65,4 (from 68,2 turn 97)
+Health: 0 damage
+
+Glass Man 3/Dinari - Transmuted on Throne of Starlight (71,1) turn 96.
+Position: 65,4 (from 68,2 turn 97)
+Health: 0 damage
+
+Glass Queen 1/Athena - Appeared from Throne of Starlight (71,1) turn 94.
+Position: 65,4 (from 68,2 turn 97)
+Health: 0 damage
+
+Goblin 64 - Appeared from Goblin Village (33,19) turn 95.
+Position: 33,19 (from 33,19 turn 95)
+Health: 1
+
+Starlight Goat 8 - Appeared on Packlands river (20,7) turn 58.
+Position: 4,6 (from 8,10 turn 97)
+Health: 1/2
+
+Starlight Goat 11 - Appeared on River of Bones bridge (10,9) turn 93.
+Position: 4,6 (from 8,10 turn 97)
+Health: 2/2
+
+Starlight Stag 1-3 - Appeared on River of Bones (35,15) turn 86.
+Position: 35,15 (from 35,15 turn 97)
+Health: 0 damage each[/spoiler]
+
+[b]Tamed Creatures[/b]
+[spoiler]Goblin: 62 (turn 97 by Sharkbait; Lucian's)
+Hobgoblin: 7 (turn 87 by Sharkbait; King's)
+Homunculus: 1 (crafted turn 65 by Khrain; 9,11 Farm), 2 (crafted turn 78 by Bob; 3,6 Fishery)
+Starlight Bison: 4 (turn 58 by Atlas; Vayra's Blue), 5 (turn 77 by Mintina; Khrain's), 6 (turn 82 by Mintina; Castor's Destiny)
+Starlight Dogs: 6 (turn 56 by Atlas; Dewdrop's), 9 (turn 79 by Atlas; Urist McCoy's), ?? (turn 81 added; Hephaestus's), 10 (turn 85 by Atlas; 24,19 Mana Collector)
+Starlight Goats: 6 (turn 62 by Atlas; Ustvan's Morty), 7 (turn 62 by Tooyun Tadai; Dryda's), 12 (turn 93 by Morty; Mintina's Morty Jr.)[/spoiler]
+
+[b]Dead Creatures[/b]
+[spoiler]Dash Asterisk  :Asad: 
+Tentoes  :Ascared:
+Cade Seahater  :Agrumpy: 
+Prince Marvelous :Amad: 
+Ulysses :Agrumpy: 
+Dinari :Aconfused: 
+
+Deepspawn 1 - Arrived at tree (11,15) turn 3. Defeated turn 5, killing blow by Atlas.
+Position: 11,15
+Health: 0/3
+
+Deepspawn 2 - Appeared on river (11,9) turn 4. Defeated turn 13, killing blow by Khrain.
+Position: 14,13
+Health: 0/3
+
+Deepspawn 3 - Arrived at tree (11,15) turn 5. Defeated turn 8, killing blow by Atlas.
+Position: 11,15
+Health: 0/3
+
+Deepspawn 4 - Emerged from Tower of Wreckage (9,1) turn 5. Defeated turn 8
+Position: 10,4
+Health: 0/3
+
+Deepspawn 5 - Emerged from Tower of Wreckage (9,1) turn 5.
+Position: 10,4
+Health: 0/3
+
+Deepspawn 6 - Emerged from Tower of Wreckage (9,1) turn 5.
+Position: 10,4
+Health: -1/3
+
+Deepspawn 7 - Arrived at tree (11,15) turn 6.
+Position: 11,15
+Health: 0/3
+
+Deepspawn 8 - Arrived at cave (12,3) turn 8.
+Position: 11,3
+Health: -1/3
+
+Deepspawn 9 - Appeared on coast (13,18) turn 10. Defeated turn 26 by Dinari, Dryda, Nivek, Atlas, Ustvan.
+Position: 11,16
+Health: 0/3
+
+Deepspawn 10 - Appeared on plains (10,14) turn 19. Defeated turn 28 by Ulysses.
+Position: 11,13
+Health: 0/3
+
+Deepspawn 11 - Appeared on river (10,9) turn 26. Defeated turn 32 by King and Nivek.
+Position: 17,13
+Health: 0/3
+
+Deepspawn 12 - Conjured using Wave on river (12,8) turn 27. Defeated turn 51 by Mintina, Belteni, Dryda, and Nivek.
+Position: 10,10
+Health: -1/3
+
+Deepspawn 13/Test Subject #1 - Conjured using Wave on coast (20,1) turn 28. Defeated turn 34 by Nivek.
+Position: 17,13
+Health: 0/3
+
+Deepspawn 14 - Appeared on mine (11,10) turn 32. Defeated turn 48* by Nivek.
+Position: 17,9
+Health: 0/3
+
+Deepspawn 15 - Appeared on mine (11,10) turn 34. Defeated turn 52 by Belteni and Dryda.
+Position: 8,8 (from 10,10)
+Health: 0/3
+
+Deepspawn 16 - Appeared on fruit trees (17,8) turn 46. Defeated turn 56 by Grabbie.
+Position: 1,1 (from 6,8 turn 54)
+Health: 0/3
+
+Deepspawn 17 - Appeared from Gurgling Pit (16,21) turn 47. Oneshot turn 48 by King "Lord" Baron.
+Position: 16,19 (from 16,21)
+Health: 0/3
+
+Deepspawn 18 - Appeared from Gurgling Pit (16,21) turn 47. Defeated turn 48 by Sharkbait, Zeiss.
+Position: 16,19 (from 16,21)
+Health: 0/3
+
+Deepspawn 19 - Appeared from Gurgling Pit (16,21) turn 47. Oneshot turn 49 by King "Lord" Baron.
+Position: 16,17 (from 16,19)
+Health: 0/3
+
+Deepspawn 20 - Appeared from Gurgling Pit (16,21) turn 47. Defeated turn 49 by Smackdoodle, Sharkbait, and Zeiss.
+Position: 16,17 (from 16,19)
+Health: 0/3
+
+Deepspawn 21 - Appeared from Gurgling Pit (16,21) turn 49. Defeated turn 53 by Belteni, Urist McCoy, Dryda, Jazen, Hephaestus.
+Position: 9,11 (from 11,13)
+Health: 0/3
+
+Deepspawn 22 - Appeared from Gurgling Pit (16,21) turn 49. Defeated turn 53 by Belteni, Urist McCoy, Dryda, Jazen, Hephaestus. Killing blow by Jazen.
+Position: 9,11 (from 11,13)
+Health: -3/3
+
+Deepspawn 23 - Conjured using Wave on river (36,16) turn 50. Defeated turn 62 by Nivek and Grabbie.
+Position: 1,1 (from 1,1 turn 61)
+Health: 0/3
+
+Deepspawn 24 - Appeared from Gurgling Pit (16,21) turn 55. Defeated turn 63 by Mintina, Syril Dawntreader, Nivek, Grabbie.
+Position: 1,1 (from 1,1 turn 60)
+Health: -1/3
+
+Deepspawn 25 - Appeared from Gurgling Pit (16,21) turn 55. Defeated turn 64 by Mintina.
+Position: 1,1 (from 1,1 turn 60)
+Health: 0/3
+
+Deepspawn 26-27 - Appeared from Gurgling Pit (16,21) turn 57. Defeated turn 65 by Zeiss, Mintina, Syril Dawnbringer, and Smackdoodle.
+Position: 1,1 (from 1,1 turn 63)
+Health: 0/3
+
+Deepspawn 28 - Conjured using Wave on river (19,5) turn 57. Defeated turn 66 by Zeiss, Mintina, and Smackdoodle.
+Position: 1,1 (from 19,5 turn 57)
+Health: 0/3
+
+Deepspawn 29 - Appeared from Gurgling Pit (16,21) turn 58. Defeated turn 66 by Nivek and Grabbie.
+Position: 1,1 (from 1,1 turn 63)
+Health: -1/3
+
+Deepspawn 30-32 - Appeared from Gurgling Pit (16,21) turn 58. Defeated turn 67 by Zeiss, Mintina, Smackdoodle, Syril Dawntreader, and Nivek.
+Position: 1,1 (from 1,1 turn 63)
+Health: 0/3
+
+Deepspawn 33 - Appeared from Gurgling Pit (16,21) turn 59. Defeated turn 66 by Vayra, Belteni, Hephaestus.
+Position: 10,11 (from 12,12 turn 65)
+Health: -1/3
+
+Deepspawn 34-35 - Appeared from Gurgling Pit (16,21) turn 59, 60. Defeated turn 67 by Vayra the Strong, Belteni, Shifty McGinty, and Hephaestus.
+Position: 10,11 (from 10,11 turn 66)
+Health: 0/3
+
+Deepspawn 36 - Appeared from Gurgling Pit (16,21) turn 60. Defeated turn 68 by David, Belteni, and Hephaestus.
+Position: 10,11 (from 10,11 turn 66)
+Health: -1/3
+
+Deepspawn 37 - Appeared from Gurgling Pit (16,21) turn 61. Defeated turn 70 by Mintina.
+Position: 9,11 (from 8,8 turn 69)
+Health: 0/3
+
+Deepspawn 38 - Appeared from Gurgling Pit (16,21) turn 61. Defeated turn 71 by Hephaestus and Mintina.
+Position: 6,10 (from 9,11 turn 70)
+Health: 0/3
+
+Deepspawn 39 - Conjured using Wave on river (10,9) turn 66. Defeated turn 72 by Mintina.
+Position: 6,10 (from 6,10 turn 71)
+Health: 0/3
+
+Deepspawn 40 - Conjured using Wave on river (11,9) turn 87. Defeated turn 97 by Nairi and Smackdoodle.
+Position: 2,4 (from 2,4 turn 93)
+Health: -1/3
+
+Eye Beast 1 - Appeared on Packlands (19,17) turn 52. Defeated turn 55 by King "Lord" Baron, Castor, Tooyun Tadai, Aelysius, and Banbeck.
+Position: 16,16 (from 16,16)
+Health: 9-10 damage
+
+Eye Beast 2 - Appeared on Packlands (9,13) turn 67. Defeated turn 69 by Zeiss, David, Mintina, Belteni, Khrain, Banbeck, Shifty McGinty, and Urist McZealot.
+Position: 9,11 (from 9,13 turn 67)
+Health: 8? damage (max HP 6-10)
+
+Eye Beast Core 1 - Appeared on Packlands (16,16) turn 55 from corpse of Eye Beast 1. Defeated turn 56 by King "Lord" Baron, Ustvan, and Aelysius.
+Position: 16,12 (from 16,16)
+Health: 4 damage
+
+Eye Beast Core 2 - Appeared on Packlands (9,13) turn 69. Defeated turn 69 by Zeiss, David, Mintina, Belteni, Khrain, Banbeck, Shifty McGinty, and Urist McZealot.
+Position: 9,11
+Health: 4? damage (max HP 3-4)
+
+Floating Eye 1 - Appeared on Packlands (19,17) turn 52. Defeated turn 53 by Ustvan.
+Position: 16,15 (from 19,17)
+Health: 0/1
+
+Floating Eye 2 - Appeared on Packlands (19,17) turn 52. Defeated turn 54 by Urist McZealot.
+Position: 16,16 (from 16,16)
+Health: 0/1
+
+Floating Eye 3-6 - Appeared on Packlands (9,13) turn 67. Defeated turn 68 by Urist McCoy, Shifty McGinty, and Atlas.
+Position: 9,11 (from 9,13 turn 67)
+Health: -1 each
+
+Giant 1 - Appeared from Beneath the Suspicious Hill (23,19) turn 74.
+Position: 16,16 (from 16,16 turn 81)
+Health: 21 damage
+Inventory: 3 Forest
+
+Black Goblin 1 - Confirmed on Packlands at (15,15) turn 43. Defeated turn 44 by Tooyun Tadai, Khrain.
+Position: 15,15
+Health: 0/2
+
+Black Goblin 2 - Appeared on Frogwood (24,17) turn 58. Defeated turn 59 by King "Lord" Baron.
+Position: 24,17
+Health: 0/2
+
+Black Goblin 3 - Appeared from Goblin Village (33,19) turn 67. Defeated turn 68 by King "Lord" Baron.
+Position: 33,19
+Health: 0/2
+
+Black Goblin 4 - Appeared from Goblin Village (33,19) turn 76. Defeated turn 78 by Hankel and Manx.
+Position: 33,19 (from 33,19 turn 76)
+Health: 0/2
+
+Black Goblin 5 - Appeared from Goblin VIllage (33,19) turn 95. Defeated turn 96 by Mintina and Hephaestus.
+Position: 33,19 (from 33,19 turn 95)
+Health: 0/2
+
+Goblin 1 - Appeared on Burnt Plains (15,14) turn 23. Defeated turn 26 by Nairi.
+Position: 10,10
+Health: 0/1
+
+Goblins 2-4 - Appeared on Burnt Plains (15,14) turn 23. Defeated turn 27 by Tooyun Tadai, Jazen, Nairi.
+Position: 13,12
+Health: 0/1 each
+
+Goblins 5-10 - Sighted on Packlands along (18,14)-(22,18) turn 42. Defeated turn 45, killing blows by King Baron, Mintina, Tooyun Tadai, Ustvan, Smackdoodle, and Urist McZealot.
+Position: 16,15 (from 15,15)
+Health: 1 each
+
+Goblins 11-14 - Appeared on River of Bones (16,13) turn 53, from eastern side. Defeated turn 55 by Drogo Cullwort, Belteni, and Hephaestus (double).
+Position: 15,13 (from 16,13 turn 53)
+Health: 0 each
+
+Goblins 15-16 - Appeared on River of Bones (16,13) turn 53, from eastern side. Defeated turn 56 by Hephaestus and Urist McZealot.
+Position: 18,14 (from 15,13 turn 55)
+Health: -1 each
+
+Goblins 17-18 - Appeared on River of Bones (16,13) turn 53, from eastern side. Defeated turn 58 by Ustvan and Hephaestus.
+Position: 24,17 (from 21,16 turn 57)
+
+Goblins 19-20 - Appeared on Frogwood (24,17) turn 58. Defeated turn 59 by Dryda and Sharkbait.
+Position: 24,17
+Health: 0, -1
+
+Goblin 21-22 - Appeared from Goblin Village (33,19) turn 63. Defeated turn 64 by King "Lord" Baron and Sharkbait.
+Position: 33,19
+Health: -1 each
+
+Goblin 23-24 - Appeared from Goblin Village (33,19) turn 63. Defeated turn 65 by King "Lord" Baron and Sharkbait.
+Position: 33,19 (from 33,19 turn 63)
+Health: 0, -1
+
+Goblin 25-26 - Appeared from Goblin Village (33,19) turn 63. Defeated turn 66 by King "Lord" Baron and Lucian Valentini.
+Position: 33,19 (from 33,19 turn 63)
+Health: 0, -1
+
+Goblin 27-29 - Appeared from Goblin Village (33,19) turn 67. Defeated turn 68 by Lucian Valentini, Ustvan, and Sharkbait.
+Position: 33,19 (from 33,19 turn 63)
+Health: -1, 0, -1
+
+Goblin 30-31 - Appeared from Goblin Village (33,19) turn 67. Defeated turn 69 by King "Lord" Baron and Sharkbait.
+Position: 33,19 (from 33,19 turn 67)
+Health: 0, -1
+
+Goblin 32-33 - Appeared from Goblin Village (33,19) turn 67. Defeated turn 70 by King "Lord" Baron and Lucian Valentini.
+Position: 33,19 (from 33,19 turn 67)
+Health: 0, -1
+
+Goblin 34-35 - Appeared from Goblin Village (33,19) turn 67, 69. Defeated turn 71 by Ustvan and Sharkbait.
+Position: 33,19 (from 33,19 turn 67)
+Health: 0,-1
+
+Goblin 36 - Appeared from Goblin Village (33,19) turn 69. Defeated turn 72 by King "Lord" Baron.
+Position: 33,19 (from 33,19 turn 67)
+Health: 0
+
+Goblin 37-38 - Appeared from Goblin Village (33,19) turn 73. Both defeated turn 73 by Cygnus.
+Position: 33,17
+Health: 0 each
+
+Goblin 39-40 - Appeared from Goblin Village (33,19) turn 74. Defeated turn 75 by Cygnus.
+Position: 33,17
+Health: 0 each
+
+Goblin 41-44 - Appeared from Goblin Village (33,19) turn 76. Defeated turn 77 by Cygnus, King "Lord" Baron, Lucian Valentini, and Syril Dawntreader.
+Position: 33,19 (from 33,19 turn 76)
+Health: 0, 0, -1, 0
+
+Goblin 45-49 - Appeared from Goblin Village (33,19) turn 76, 78. Defeated turn 79 by King "Lord" Baron and Cygnus.
+Position: 33,19 (from 33,19 turn 76)
+Health: 0 each
+
+Goblins 50-52 - Appeared from the Goblin Village (33,19) turn 87. Defeated turn 88 by Ustvan, Hephaestus, and dog.
+Position: 33,19 (from 33,19 turn 87)
+Health: 0, -2, 0
+
+Goblins 53-54 - Appeared from the Goblin Village (33,19) turn 87. Defeated turn 89 by Ustvan and Hephaestus
+Position: 33,19 (from 33,19 turn 87)
+Health: 0, -2
+
+Goblins 55-58 - Appeared from the Goblin Village (33,19) turn 90. Defeated turn 91 by Belteni, Ustvan, Hephaestus, and dog.
+Position: 33,19 (from 33,19 turn 90)
+Health: 0, 0, -2, 0
+
+Goblin 59 - Appeared from Goblin Village (33,19) turn 90. Defeated turn 91 by Hephaestus.
+Position: 33,19 (from 33,19 turn 90)
+Health: -2
+
+Goblin 60 - Appeared from Goblin Village (33,19) turn 95. Defeated turn 96 by Hephaestus's dog.
+Position: 33,19 (from 33,19 turn 95)
+Health: 0
+
+Goblin 61 - Appeared from Goblin Village (33,19) turn 95. Defeated turn 97 by Mintina.
+Position: 33,19 (from 33,19 turn 95)
+Health: 0
+
+Goblin 63 - Appeared from Goblin Village (33,19) turn 95. Defeated turn 98 by Mintina.
+Position: 33,19 (from 33,19 turn 95)
+Health: 0
+
+Goblin Mob 1 - Appeared from Goblin Village (33,19) turn 78. Defeated turn 85 by King "Lord" Baron, Alky, Lucian Valentini, Ustvan, Syril Dawntreader, Sharkbait, Hankel, and Manx.
+Position: 36,15 (from 35,16 turn 83)
+Health: 44 damage, 28 reinforcements. Visibly 1 Black Goblin + 10 Goblins.
+
+Hobgoblin 1 - Appeared on Burnt Plains (15,14) turn 23. Defeated turn 27 by Smackdoodle and Urist McZealot.
+Position: 13,12
+Health: 2 damage
+
+Hobgoblin 2 - Appeared on Frogwood (24,17) turn 58. Defeated turn 59 by Hephaestus.
+Position: 24,17
+Health: 0/2
+
+Hobgoblin 3 - Appeared from Goblin Village (33,19) turn 69. Defeated turn 71 by King "Lord" Baron.
+Position: 33,19 (from 33,19 turn 69)
+Health: 2 damage
+
+Hobgoblin 4 - Appeared from Goblin Village (33,19) turn 73. Defeated turn 73 by Lucian Valentini.
+Position: 33,17
+Health: 2 damage
+
+Hobgoblin 5 - Appeared from Goblin Village (33,19) turn 74. Defeated turn 75 by Lucian Valentini.
+Position: 33,17
+Health: 2 damage
+
+Hobgoblin 6 - Appeared from Goblin Village (33,19) turn 76. Defeated turn 78 by King "Lord" Baron.
+Position: 33,19 (from 33,19 turn 76)
+Health: 2 damage
+
+Hobgoblin 8 - Appeared from Goblin Village (33,19) turn 90. Defeated turn 91 by Hephaestus's dog.
+Position: 33,19 (from 33,19 turn 90)
+Health: 1 damage
+
+Horror of the Deep 1 - Appeared on Coast (13,18) turn 10. Defeated turn 25, brought down by Dinari, Nivek, King, and Ustvan.
+Position: 11,16
+Health: 0/8
+
+Horror of the Deep 2 - Conjured using Wave 3 on river (24,13) turn 60. Defeated turn 63 by Urist McZealot and Hephaestus.
+Position: 18,13 (from 20,13 turn 62)
+Health: 0/8
+
+Horror of the Deep 3 - Conjured using Wave 3 on coast (2,4) turn 88. Defeated turn 90 by David, Shifty McGinty, and Jazen.
+Position: 2,4 (from 2,4 turn 88)
+Health: -1/8
+
+Horror of the Deep 4 - Conjured using Wave on Coast (2,4) turn 95. Defeated turn 97 by Nairi.
+Position: 2,4 (from 2,4 turn 95)
+Health: 0/8
+
+Husk Moth 1 - Appeared in Forest of Dust (30,10) turn 19. Defeated turn 56 by Drogo Cullwort.
+Position: 14,9
+Health: 0/1
+
+Husk Moth 2 - Appeared in Forest of Dust (30,10) turn 19. Zapped turn 61 by Alky.
+Position: 24,14
+Health: 0/1
+
+Husk Moth 3 - Appeared beside River of Bones (22,14) turn 61. Zapped turn 63 by Alky.
+Position: 24,14
+Health: 0/1
+
+Husk Moth 4 - Appeared from Dusty Pyramid (41,6) turn 75. Defeated turn 76 by Alky.
+Position: 41,6
+Health: 0/1
+
+Husk Moth 5-6 - Appeared from Dusty Pyramid (41,6) turn 77. Defeated turn 78 by Alky.
+Position: 41,6
+Health: 0 each
+
+Husk Moth 7 - Appeared from Dusty Pyramid (41,6) turn 77. Defeated turn 79 by Alky.
+Position: 41,6 (from 41,6 turn 77)
+Health: 0
+
+Husk Moth 8-10 - Appeared from Dusty Pyramid (41,6) turn 93. Defeated turn 94 by Alky, Dewdrop, and Dewdrop's Dog.
+Position: 41,6 (from 41,6 turn 93)
+Health: 0/0/-2
+
+Husk Moth Queen 1 - Appeared from the Pyramid of Dust (41,6) turn 82. Defeated turn 91 by Cygnus, Dewdrop, and Dewdrop's dog.
+Position: 36,10 (from 38,8 turn 89)
+Health: 9 damage
+
+Starlight Bison 1 - Appeared on Burnt Plains (11,6) turn 3.
+Position: 11,4
+Health: 0/5
+Conditions: Poisoned?
+
+Starlight Bison 2 - Appeared on Burnt Plains (10,5) turn 5.
+Position: 11,4
+Health: 0/5
+Conditions: Poisoned?
+
+Starlight Bison 3 - Appeared on Burnt Plains (14,6) turn 12. Died turn 35, presumably to Wyrmling 3
+Position: 15,7
+Health: 0/5
+
+Starlight Crab 1 - Appeared on river (10,9) turn 12. Defeated turn 31 by Tooyun Tadai.
+Position: 16,11
+Health: 0/4
+
+Starlight Crab 2 - Appeared on River of Bones (11,9) turn 42. Defeated turn 52 by Dinari.
+Position: 16,11 (from 17,14 turn 49)
+Health: 0/4
+
+Starlight Crab 3 - Appeared from Gurgling Pit (16,21) turn 52. Defeated turn 56 by Nairi, Smackdoodle, and Zeiss.
+Position: 16,21 (from 17,22 turn 55)
+Health: 0/4
+
+Starlight Crab 4 - Appeared from Gurgling Pit (16,21) turn 52. Defeated turn 61 by Mintina.
+Position: 1,1 (from 6,11 turn 59)
+Health: 0/4
+
+Starlight Crab 5 - Appeared from Gurgling Pit (16,21) turn 60. Defeated turn 72 by Hephaestus.
+Position: 6,10 (from 6,11 turn 71)
+Health: 0/4
+
+Starlight Dog 1 - Appeared in forest (11,13) turn 4. Defeated turn 18, killing blow by Tooyun Tadai.
+Position: 15,15
+Health: 0/5
+
+Starlight Dog 2 - Appeared from Beneath the Suspicious Hill (23,19) turn 13. Defeated turn 19, brought down by Khrain, Dinari, Ustvan, and Prince Marvelous.
+Position: 15,15
+Health: 0/5
+
+Starlight Dog 3 - Appeared from Beneath the Suspicious Hill (23,19) turn 13. Defeated turn 35 by Tooyun Tadai, Ustvan, and Prince Marvellous.
+Position: 15,12
+Health: 0/5
+
+Starlight Dog 4 - Appeared from Beneath the Suspicious Hill (23,19) turn 13. Defeated turn 36 by Mintina, Tooyun Tadai, Ustvan, and Prince Marvellous.
+Position: 15,16
+Health: 0/5
+
+Starlight Dog 5 - Appeared on Packlands (15,16) turn 34. Defeated turn 52 by Ustvan, Banbeck, and Sharkbait.
+Position: 16,19 (from 16,19)
+Health: 0/5
+
+Starlight Dog 7 - Appeared on Packlands forest (11,13) turn 55. Defeated turn 56 by Urist McCoy and Esmeralda.
+Position: 11,13
+Health: 1?/5
+
+Starlight Dog 8 - Appeared on Packlands plain (13,14) turn 63. Eaten turn 67 by Eye Beast 2.
+Position: 9,13 (from 9,9 turn 66)
+Health: dead/5
+
+Starlight Goat 1 - Appeared on Burnt Plains (11,6) turn 8. Possibly eaten by wyrmlings turn 26.
+Position: 17,5
+Health: 0/2?
+
+Starlight Goat 2 - Appeared on Burnt Plains (11,6) turn 8.
+Position: 15,11
+Health: 0/2
+
+Starlight Goat 3 - Appeared on Packlands (14,15) turn 8.
+Position: 9,13
+Health: 0/2
+
+Starlight Goat 4 - Appeared on Packlands (14,15) turn 8. Hunted turn 48 by Lucian Valentini.
+Position: 8,8 (from 11,12)
+Health: -1/2
+
+Starlight Goat 5 - Appeared on Packlands (12,10) turn 28. Hunted turn 42 by Jazen.
+Position: 9,7
+Health: 0/2
+
+Starlight Goat 9 - Appeared on Packlands plain (13,14) turn 63. Killed turn 66 by Starlight Dog 8.
+Position: 5,7 (from 9,11 turn 64)
+Health: 0/2
+
+Starlight Goat 10 - Appeared on Packlands plain (13,14) turn 63. Defeated turn 67 by Floating Eye 3-6.
+Position: 9,13 (from 9,9 turn 66)
+Health: dead/2
+
+Wyrmling 1 - Appeared on Burnt Plains (10,5) turn 5. May have died turn 26?
+Position: 17,5
+Health: 1/4 last seen
+
+Wyrmling 2 - Appeared from Acrid Burrow (19,7) turn 18. Defeated turn 36 by Cygnus.
+Position: 15,7
+Health: 0/4
+
+Wyrmling 3 - Appeared from Acrid Burrow (19,7) turn 18. Lost track, may be Wyrmling 10.
+Position: 13,7
+Health: 0/4
+
+Wyrmling 4 - Appeared at (not from) Acrid Burrow (19,7) turn 20. Lost track, may be Wyrmling 11.
+Position: ??? (19,7 turn 22)
+Health: 4/4
+
+Wyrmling 5 - Appeared from Acrid Burrow (19,7) turn 36. Defeated turn 37 by King, Alky, Dinari, and Aelysius.
+Position: 19,7
+Health: 0/4
+
+Wyrmling 6 - Appeared from Acrid Burrow (19,7) turn 36. Defeated turn 39 by Aelysius, Syril, Alky.
+Position: 19,7
+Health: 0/4
+
+Wyrmling 7 - Appeared from Acrid Burrow (19,7) turn 38. Defeated turn 40 by Alky, Aelysius, Syril.
+Position: 19,7
+Health: -1/4
+
+Wyrmling 8 - Appeared at Acrid Burrow (19,7) turn 41. Defeated turn 43 by Nivek.
+Position: 19,7
+Health: 0/4
+
+Wyrmling 9 - Appeared at Acrid Burrow (19,7) turn 41. Defeated turn 45 by Nivek.
+Position: 19,7 (from 19,17)
+Health: -1/4
+
+Wyrmling 10 - Appeared on Wyrmpeak (24,3) turn 68. Defeated turn 79 by Nivek.
+Position: 1,1 (1,1 turn 76)
+Health: 0/4
+
+Wyrmling 11 - Appeared on Wyrmpeak (26,4) turn 68. Defeated turn 78 by Mintina, Khrain, and Khrain's Dog.
+Position: 14,9 (26,5 turn 69)
+Health: 0/4
+
+Wyrmling 12 - Appeared on Wyrmpeak (26,4) turn 68. Defeated turn 79 by Drogo, Mintina, Belteni, and Khrain.
+Position: 12,8 (14,9 turn 78)
+Health: -4/4[/spoiler]
