@@ -206,40 +206,32 @@ Damage: 1
 Defense Bonus: +2
 Personality: Breathes on two targets, uses melee on single targets. Runs when injured.[/spoiler]
 
-[b]Known Creatures[/b] Last update: Turn 98
-[spoiler]Deepspawn 41 - Conjured using Wave on river (16,13) turn 89.
-Position: 4,7 (from 2,4 turn 97)
-Health: 2/3
-
-Glass Man 1/Hankel - Appeared on Glass Furnace (43,16) turn 73.
-Position: 65,4 (from 68,2 turn 97)
+[b]Known Creatures[/b] Last update: Turn 99
+[spoiler]Glass Man 1/Hankel - Appeared on Glass Furnace (43,16) turn 73.
+Position: 62,4 (from 65,4 turn 98)
 Health: 0 damage
 
 Glass Man 2/Manx - Appeared on Glass Furnace (43,16) turn 73.
-Position: 65,4 (from 68,2 turn 97)
+Position: 62,4 (from 65,4 turn 98)
 Health: 0 damage
 
 Glass Man 3/Dinari - Transmuted on Throne of Starlight (71,1) turn 96.
-Position: 65,4 (from 68,2 turn 97)
+Position: 62,4 (from 65,4 turn 98)
 Health: 0 damage
 
 Glass Queen 1/Athena - Appeared from Throne of Starlight (71,1) turn 94.
-Position: 65,4 (from 68,2 turn 97)
+Position: 62,4 (from 65,4 turn 98)
 Health: 0 damage
 
-Goblin 64 - Appeared from Goblin Village (33,19) turn 95.
-Position: 33,19 (from 33,19 turn 95)
-Health: 1
-
 Starlight Goat 8 - Appeared on Packlands river (20,7) turn 58.
-Position: 4,6 (from 8,10 turn 97)
+Position: 7,9 (from 4,6 turn 98)
 Health: 1/2
 
 Starlight Goat 11 - Appeared on River of Bones bridge (10,9) turn 93.
-Position: 4,6 (from 8,10 turn 97)
+Position: 7,9 (from 4,6 turn 98)
 Health: 2/2
 
-Starlight Stag 1-3 - Appeared on River of Bones (35,15) turn 86.
+Starlight Stag 2-3 - Appeared on River of Bones (35,15) turn 86.
 Position: 35,15 (from 35,15 turn 97)
 Health: 0 damage each[/spoiler]
 
@@ -249,7 +241,8 @@ Hobgoblin: 7 (turn 87 by Sharkbait; King's)
 Homunculus: 1 (crafted turn 65 by Khrain; 9,11 Farm), 2 (crafted turn 78 by Bob; 3,6 Fishery)
 Starlight Bison: 4 (turn 58 by Atlas; Vayra's Blue), 5 (turn 77 by Mintina; Khrain's), 6 (turn 82 by Mintina; Castor's Destiny)
 Starlight Dogs: 6 (turn 56 by Atlas; Dewdrop's), 9 (turn 79 by Atlas; Urist McCoy's), ?? (turn 81 added; Hephaestus's), 10 (turn 85 by Atlas; 24,19 Mana Collector)
-Starlight Goats: 6 (turn 62 by Atlas; Ustvan's Morty), 7 (turn 62 by Tooyun Tadai; Dryda's), 12 (turn 93 by Morty; Mintina's Morty Jr.)[/spoiler]
+Starlight Goats: 6 (turn 62 by Atlas; Ustvan's Morty), 7 (turn 62 by Tooyun Tadai; Dryda's), 12 (turn 93 by Morty; Mintina's Morty Jr.)
+Starlight Stags: 1 (turn 99 by Tooyun; Cygnus's)[/spoiler]
 
 [b]Dead Creatures[/b]
 [spoiler]Dash Asterisk  :Asad: 
@@ -402,6 +395,10 @@ Health: 0/3
 Deepspawn 40 - Conjured using Wave on river (11,9) turn 87. Defeated turn 97 by Nairi and Smackdoodle.
 Position: 2,4 (from 2,4 turn 93)
 Health: -1/3
+
+Deepspawn 41 - Conjured using Wave on river (16,13) turn 89. Defeated turn 99 by Zeiss.
+Position: 4,7 (from 4,7 turn 98)
+Health: 1?/3
 
 Eye Beast 1 - Appeared on Packlands (19,17) turn 52. Defeated turn 55 by King "Lord" Baron, Castor, Tooyun Tadai, Aelysius, and Banbeck.
 Position: 16,16 (from 16,16)
@@ -556,6 +553,10 @@ Position: 33,19 (from 33,19 turn 95)
 Health: 0
 
 Goblin 63 - Appeared from Goblin Village (33,19) turn 95. Defeated turn 98 by Mintina.
+Position: 33,19 (from 33,19 turn 95)
+Health: 0
+
+Goblin 64 - Appeared from Goblin Village (33,19) turn 95. Defeated turn 99 by Mintina.
 Position: 33,19 (from 33,19 turn 95)
 Health: 0
 
